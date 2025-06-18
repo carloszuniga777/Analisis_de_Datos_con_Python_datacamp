@@ -11,7 +11,7 @@ ruta_archivo = os.path.join(base_path, '..', '..', 'Archivos', 'cars.csv')
 cars = pd.read_csv(ruta_archivo, index_col = 0)  # index_col: Indica que la primer columna se debe utilizar como etiqueta de fila
 
 
-#----------Filtracion de datos LOC--------------------
+#----------Filtracion de datos con los indices de pais ( LOC )--------------------
 
 #La siguiente llamada selecciona las cinco primeras filas del DataFrame cars
 
@@ -48,7 +48,7 @@ print(f'\nFiltrando por filas y columas:\n\n {row}\n\n')
 row = cars.loc[:, ["country", "drives_right"]]        #Selecciona todas las filas de las dos columnas
 print(f'\nFiltrando por columnas:\n\n {row}\n\n')
 
-#-------------Indice ILOC-----------------------------
+#-------------Filtrando por Indice ILOC (numerico)-----------------------------
 
 #Obteniendo un registro apartir de un indice
 row = cars.iloc[[1]]
