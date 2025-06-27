@@ -10,6 +10,7 @@
 
 # Import sales data
 import pandas as pd
+import numpy as np
 import os
 
 # Obtener ruta base del archivo
@@ -27,3 +28,14 @@ print(sales['weekly_sales'].mean())
 # Mediana
 print(sales['weekly_sales'].median())
 
+#------------------------------------------
+
+print("\n\nCalcular la media, mediana usando agg")
+
+print( sales.agg( { 'weekly_sales': ['mean', 'median'] } ) ) 
+
+#------------------------------------------
+print("\n\notra manera de calcular la media, mediana con numpy")
+
+print(  np.mean(sales["weekly_sales"])  )
+print(  np.median(sales["weekly_sales"]) )
