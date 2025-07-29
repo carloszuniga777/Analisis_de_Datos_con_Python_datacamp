@@ -1,0 +1,1108 @@
+﻿acousticness,artists,danceability,duration_ms,duration_minutes,energy,explicit,id,instrumentalness,key,liveness,loudness,mode,name,popularity,release_date,speechiness,tempo,valence,year
+0.972,['David Bauer'],0.567,3.13E+05,5.222,2.27E-01,0,0w0D8H1ubRerCXHWYJkinO,6.01E-01,10,0.11,-13.441,1,Shout to the Lord,47,2000,0.029,136.123,3.96E-02,2000
+0.988,"['The Cathedral Singers', 'Lorelei McDermott', 'Stephen Hartman']",0.233,2.49E+05,4.143,1.22E-01,0,4IyK8htJJzbRjPihpMouWu,3.54E-03,10,0.092,-19.528,1,"Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Soprano, Harp & Chorus)",52,1/1/2000,0.033,90.593,9.91E-02,2000
+0.958,"['Cliff Edwards', 'Disney Studio Chorus']",0.181,1.95E+05,3.252,2.70E-01,0,0JIPxQiFYgnPfQDuAZTnHk,2.03E-02,9,0.352,-13.616,1,"When You Wish Upon a Star - From ""Pinocchio""/Soundtrack Version",44,1/1/2001,0.035,92.843,1.14E-01,2001
+0.971,['John Williams'],0.153,2.26E+05,3.772,9.05E-03,0,0pyKuk3bYFSzPIysym8ioN,6.07E-01,0,0.107,-30.099,1,Hogwarts Forever! and the Moving Stairs,48,10/30/2001,0.037,164.191,7.30E-02,2001
+0.99,['Yiruma'],0.282,2.77E+05,4.619,1.52E-01,0,5DLA620cB8o3YIXujemlay,9.05E-01,2,0.068,-20.094,1,Passing By,49,11/27/2001,0.035,84.109,5.10E-02,2001
+0.964,['John Williams'],0.106,2.26E+05,3.761,1.81E-01,0,1m4ZjbibTvvmYIJyXAIuxv,8.53E-01,2,0.407,-17.969,1,Fawkes the Phoenix,48,11/11/2002,0.034,61.02,5.93E-02,2002
+0.988,"['Valentin Silvestrov', 'Anja Lechner', 'Silke Avenhaus']",0.116,2.56E+05,4.266,1.10E-03,0,2ZrF3UfwS50CKE8jQQVjWj,2.27E-01,2,0.099,-39.982,1,Three Postludes (1981/82): Postlude No. 3,47,2/19/2002,0.054,70.332,3.87E-02,2002
+0.963,['Fernando Ortega'],0.438,3.05E+05,5.085,3.56E-02,0,2G2b5w0IiHWmvS68wlJHuZ,2.45E-06,1,0.115,-21.149,1,Jesus Paid It All,44,2/5/2002,0.034,70.994,3.92E-01,2002
+0.982,['Stan Whitmire'],0.435,2.18E+05,3.635,2.91E-01,0,03o0bsrdp7yimIo8I2tzAZ,8.58E-01,3,0.133,-18.262,1,When You Say Nothing At All,49,1/1/2003,0.043,159.705,2.85E-01,2003
+0.995,['Aaron Zigman'],0.445,1.70E+05,2.824,1.23E-02,0,06xNkl12TrxwGYrwTGlUUd,9.25E-01,0,0.169,-25.606,1,Main Title,48,6/8/2004,0.045,58.875,2.32E-01,2004
+0.975,['John Williams'],0.225,9.84E+04,1.64,4.17E-02,0,2G5hAbyjLoY1wSQFbOy5PN,3.96E-01,4,0.072,-30.105,0,Lumos! (Hedwig's Theme),50,5/25/2004,0.043,133.89,8.89E-02,2004
+0.984,['Sufjan Stevens'],0.632,2.54E+05,4.234,2.25E-01,0,5OojmQ36TXkfL2JfoFJcaq,7.40E-01,4,0.112,-13.423,1,All the Trees of the Field Will Clap Their Hands,46,3/16/2004,0.03,144.641,6.83E-01,2004
+0.981,['Jason Hayes'],0.229,1.85E+05,3.08,1.38E-01,0,1YYTAOi1YMxmGclyO1HH6O,9.19E-01,3,0.119,-18.358,0,Elwynn Forest,48,11/23/2004,0.036,66.618,6.62E-02,2004
+0.967,"['Ilene Woods', ""Cinderella's Mice Chorus""]",0.279,1.99E+05,3.316,1.45E-01,0,33e8JtboPPzbzCsCqfPnr9,3.25E-05,3,0.13,-16.984,1,"A Dream Is a Wish Your Heart Makes - From ""Cinderella""/Soundtrack Version",43,1/1/2004,0.064,181.296,3.02E-01,2004
+0.979,['Nine Inch Nails'],0.458,3.05E+05,5.081,3.62E-01,0,586rOcAzOHkpJTA4POqO2c,4.94E-01,5,0.119,-10.043,1,Right Where It Belongs,44,1/1/2005,0.03,139.879,2.23E-01,2005
+0.992,"['Frédéric Chopin', 'Maurizio Pollini']",0.261,2.87E+05,4.783,1.49E-02,0,2d6ml9Qkx8r4EjuUyrdpRV,8.97E-01,1,0.102,-27.528,1,"Nocturne No.1 In B Flat Minor, Op.9 No.1",53,1/1/2005,0.042,75.296,3.82E-02,2005
+0.979,['Jim Brickman'],0.487,1.50E+05,2.496,1.13E-01,0,2Mqrf0BFCP1M6xav09L86c,8.92E-01,0,0.078,-18.967,1,When You Wish Upon a Star,47,1/1/2005,0.056,66.475,2.33E-01,2005
+0.989,"['Frédéric Chopin', 'Gabriela Montero']",0.359,3.38E+05,5.638,3.23E-02,0,4hbvrHgfZ8lqFrPx1Ztd6j,9.10E-01,1,0.094,-24.408,1,"Chopin: Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",53,9/5/2005,0.038,107.169,7.28E-02,2005
+0.994,"['Franz Schubert', 'Renée Fleming', 'Royal Philharmonic Orchestra', 'Andreas Delfs']",0.12,2.57E+05,4.276,1.38E-01,0,4JsMpgsep6XpuHSzKCTxCz,6.86E-01,10,0.11,-15.538,1,"Ave Maria, D. 839",44,1/1/2005,0.048,67.891,4.30E-02,2005
+0.988,['Brian Crain'],0.361,2.23E+05,3.722,1.85E-01,0,1tUeaAwcZK4S1CUDtDwJDc,8.99E-01,5,0.21,-14.602,1,Butterfly Waltz,49,1/1/2006,0.036,129.439,4.01E-01,2006
+0.993,['Ashana'],0.141,5.36E+05,8.936,7.26E-03,0,3JQaDnn7sdtInlniHQAIWV,5.81E-01,4,0.101,-16.518,0,The Embrace,52,1/1/2006,0.047,70.586,3.68E-02,2006
+0.958,['TOOL'],0.307,7.11E+04,1.184,4.80E-02,0,7dP42zpNCIsEHlnRLZGo0i,6.07E-06,8,0.09,-25.331,0,Lipan Conjuring,49,4/28/2006,0.075,74.329,1.84E-01,2006
+0.958,['Deuter'],0.198,5.72E+05,9.536,1.92E-02,0,4O20FRyWVCr4t6bl3Xxvsj,9.41E-01,7,0.065,-27.444,0,Sound of Invisible Waters,53,2/13/2007,0.036,104.989,3.65E-02,2007
+0.961,['Bedtime Baby'],0.353,1.07E+05,1.789,2.17E-01,0,3W7xIbNEaW8G671ab3wis0,9.51E-01,2,0.112,-18.498,1,Canon In D,51,12/1/2009,0.047,103.238,1.54E-01,2009
+0.974,['The Antlers'],0.324,3.11E+05,5.187,1.63E-01,0,453spNn4mGdYErYt3rGhSX,8.44E-01,9,0.089,-13.909,0,Kettering,53,6/23/2009,0.042,139.814,8.52E-02,2009
+0.982,['Rockabye Baby!'],0.447,2.74E+05,4.571,2.99E-02,0,2OWOkkAQv7KFlScZymrfZ4,8.41E-01,0,0.074,-25.007,0,Bohemian Rhapsody,50,5/19/2009,0.037,70.893,1.86E-01,2009
+0.952,['Scripture Lullabies'],0.171,2.51E+05,4.184,1.15E-01,0,3bOrCXvrwO6CFOVXUUFDCG,8.81E-04,10,0.115,-15.338,1,Be Still and Know,47,11/21/2009,0.033,70.935,1.34E-01,2009
+0.979,['Nicholas Hooper'],0.483,1.58E+05,2.636,5.89E-02,0,2eajPmnVrhSsGy1DTqW5wg,9.56E-01,4,0.037,-28.255,0,When Ginny Kissed Harry,54,7/14/2009,0.039,84.038,7.83E-02,2009
+0.996,"['Johann Sebastian Bach', 'Lang Lang']",0.5,3.27E+05,5.451,1.04E-02,0,4ksxLnn1ymLGRKnwhba45Y,9.49E-01,2,0.057,-26.764,1,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""On a G String"" (Arr. for Piano)",58,11/29/2010,0.062,114.76,1.33E-01,2010
+0.995,['Edward Newton'],0.399,1.35E+05,2.254,4.02E-03,0,6EZMZ5LIMiZZeSFcxU97xT,9.55E-01,1,0.103,-37.809,1,I'm in the Mood for Love: I'm in the Mood for Love,53,11/23/2010,0.04,67.194,1.49E-01,2010
+0.965,['Iron & Wine'],0.245,2.67E+05,4.452,2.42E-01,0,6iw32k0OUKHildYsQTRnVB,8.33E-03,4,0.271,-12.963,1,"Flightless Bird, American Mouth - Wedding Version",46,11/4/2011,0.032,135.714,1.38E-01,2011
+0.979,['Miracle Musical'],0.339,1.01E+05,1.683,2.30E-01,0,7qLs0IyUn6TrqgMzQ33SdH,9.51E-04,0,0.353,-10.803,1,Introduction to the Snow,51,2012,0.032,66.352,1.13E-01,2012
+0.991,"['Frédéric Chopin', 'Khatia Buniatishvili']",0.314,2.00E+05,3.33,1.57E-02,0,1lOVilzLQuYY2fnFrQ76DK,9.16E-01,1,0.134,-36.252,0,"Waltz in C-Sharp Minor, Op. 64 No. 2",58,9/14/2012,0.036,95.89,9.39E-02,2012
+0.987,['Luke Howard'],0.301,3.68E+05,6.128,8.90E-03,0,3oRuCzqdduzZ2CBhAtv8zO,9.07E-01,1,0.101,-30.804,1,Portrait Gallery,56,5/6/2013,0.037,127.536,8.97E-02,2013
+0.961,['Kodaline'],0.398,2.42E+05,4.027,1.51E-01,0,5Wjf9NsW6QCmBiDIdVvMbP,4.43E-02,4,0.092,-14.402,1,Love Like This - Acoustic,60,6/17/2013,0.034,107.068,7.49E-02,2013
+0.977,['Sam Smith'],0.389,2.21E+05,3.684,2.94E-01,0,3XyU03WycJQ02kExHb9dqW,3.93E-03,8,0.107,-5.429,1,Latch - Acoustic,51,1/1/2013,0.028,88.636,2.43E-01,2013
+0.995,['Otto Totland'],0.494,1.66E+05,2.767,4.53E-02,0,2Ai5UUXyxaulVbompgrzlo,9.27E-01,5,0.112,-28.914,1,Pinô,57,1/31/2014,0.038,80.743,1.03E-01,2014
+0.996,['Max Richter'],0.384,7.59E+04,1.264,3.41E-03,0,3KG9I4JXpDwNQOsotE3uLh,9.43E-01,0,0.096,-39.053,0,The Departure,59,12/2/2014,0.045,116.941,1.17E-01,2014
+0.991,"['Edvard Grieg', 'Cyprien Katsaris']",0.31,2.33E+05,3.885,5.32E-02,0,70nfm7IEXnFdxLtvxdXnZq,9.13E-01,4,0.092,-26.802,1,"Peer Gynt Suite No. 1, Op. 46: Morning Mood - Arr. for Piano",57,11/15/2014,0.04,67.711,7.19E-02,2014
+0.993,"['Charles Gounod', 'Yo-Yo Ma']",0.132,1.63E+05,2.721,1.95E-02,0,2kyEgPaAW8wdpvevPnkf0Z,8.88E-01,0,0.057,-29.76,1,Ave Maria,62,9/18/2015,0.044,81.616,1.40E-01,2015
+0.98,"['Sergei Rachmaninoff', 'Daniil Trifonov', 'Philadelphia Orchestra', 'Yannick Nézet-Séguin']",0.205,1.75E+05,2.911,5.25E-02,0,5xcYuTciYwyCDPkOgYBAYz,9.06E-01,1,0.103,-23.841,1,"Rhapsody On A Theme Of Paganini, Op.43: Variation 18. Andante cantabile",55,8/28/2015,0.033,88.316,5.11E-02,2015
+0.956,['Sleeping At Last'],0.447,2.41E+05,4.013,2.06E-01,0,7fkXzzIVo98CgjOkpd9H0V,4.56E-06,3,0.107,-11.75,1,Already Gone,63,10/6/2015,0.052,66.734,3.27E-01,2015
+0.965,"['Novo Amor', 'Ed Tullett']",0.353,1.94E+05,3.236,3.11E-01,0,5eG8QuQKOBvDeCyoOeMkhT,3.15E-02,3,0.204,-10.377,1,Alps,62,4/15/2016,0.032,146.696,1.35E-01,2016
+0.995,['Otto Wahl'],0.429,1.81E+05,3.013,5.41E-02,0,0sDqqcELNvGWI5u8mBxESD,9.28E-01,10,0.114,-26.759,0,Awakening,62,7/20/2016,0.041,122.311,5.69E-02,2016
+0.98,['Karin Borg'],0.278,9.53E+04,1.589,4.34E-02,0,3toYHht60pj16nNK0e2HZy,9.19E-01,0,0.121,-22.396,0,Norrsken,63,7/20/2016,0.038,133.853,3.97E-02,2016
+0.976,['Justin Hurwitz'],0.476,9.80E+04,1.634,1.92E-01,0,1Vk4yRsz0iBzDiZEoFMQyv,9.28E-01,9,0.119,-15.753,1,Mia & Sebastian’s Theme,63,12/9/2016,0.064,116.542,1.14E-01,2016
+0.989,['LUCHS'],0.358,1.93E+05,3.212,4.09E-03,0,5PYHriludkxUAvdUZvs0xj,9.35E-01,10,0.1,-28.239,0,Reverie,62,6/17/2016,0.048,81.654,1.08E-01,2016
+0.961,['Deep Sleep Music Collective'],0.062,1.22E+05,2.036,8.68E-04,0,2XrM7sxDMFn2LaKB7ITlJs,9.18E-01,2,0.187,-37.475,1,Sleep Music (Distant Lands),62,11/7/2016,0.051,70.914,1.34E-01,2016
+0.994,['Neneh Yacobi'],0.298,1.81E+05,3.01,8.73E-02,0,5tdcH4SoS9ViDo8vtSRsft,9.57E-01,9,0.106,-19.083,1,Here Comes The Sun,66,10/26/2017,0.06,211.823,4.07E-01,2017
+0.979,"['In Love With a Ghost', 'Nori']",0.641,2.52E+05,4.202,2.40E-01,0,5VnaOLeK1lKfULuNwet8ck,8.66E-01,8,0.234,-19.107,1,Flowers,63,10/23/2017,0.047,99.02,3.20E-01,2017
+0.992,['Charlie Francis'],0.588,1.13E+05,1.881,1.85E-02,0,35h1sceqSdzCftH12t0LkT,9.17E-01,7,0.094,-20.676,1,Twinkle Twinkle Little Star,66,5/11/2017,0.054,121.072,5.00E-01,2017
+0.987,['Leny Bhoelai'],0.15,1.90E+05,3.167,2.89E-02,0,7DtluO7XUoL5wf2imEgkXl,9.41E-01,2,0.119,-30.292,1,This night,66,11/29/2019,0.048,137.027,9.22E-02,2019
+0.972,['Benjamin Martins'],0.162,1.92E+05,3.2,1.09E-03,0,19rahpLlANnHrR9kXyYDOP,9.13E-01,11,0.085,-47.452,0,Clear Conscience,67,12/4/2019,0.048,109.255,5.36E-02,2019
+0.951,['Yolta'],0.281,2.17E+05,3.61,1.97E-02,0,7xD5j8ZCGDAPTTH5EfAVRf,8.89E-01,1,0.108,-21.443,1,Relaxation,67,3/24/2019,0.035,135.488,3.90E-02,2019
+0.977,['Havanna Chandri'],0.264,1.28E+05,2.131,1.48E-02,0,7vfYsS34eZojVLXsknEj1J,8.92E-01,3,0.107,-28.971,1,My Sleeping Rose,68,9/18/2019,0.041,75.587,4.95E-02,2019
+0.963,['Airship Express'],0.255,1.84E+05,3.071,1.18E-01,0,0vpo0LIlSsiqIWf44ydK2z,8.97E-01,6,0.101,-20.562,1,Sea Of Colors,66,11/1/2019,0.077,139.642,1.09E-01,2019
+0.954,['John Ocean'],0.127,2.07E+05,3.456,1.36E-01,0,10zmtHvaMOZKQrdTsvRJyP,9.32E-01,8,0.108,-19.946,1,Rainy Clouds,70,8/30/2019,0.044,81.163,3.68E-02,2019
+0.969,['Anson Seabra'],0.535,2.71E+05,4.508,1.15E-01,0,2QDMQcbiWYlyuLa9wFnnBX,6.17E-06,10,0.175,-15.097,1,That's Us,69,5/17/2019,0.053,129.117,2.53E-01,2019
+0.961,['The Tides'],0.155,2.24E+05,3.733,5.12E-03,0,65AHFH7pRxxMrFDsFVH5Hv,8.94E-01,8,0.1,-36.056,0,Your Peace,67,11/18/2019,0.042,78.206,1.83E-01,2019
+0.98,['Eva Cassidy'],0.333,1.67E+05,2.786,1.31E-01,0,6JPfz2RTDVYqNxMcXSwQWZ,1.52E-01,10,0.113,-20.837,1,Kathy's Song,49,2000,0.031,92.31,3.18E-01,2000
+0.996,"['Jacques Ibert', 'Hae Won Chang']",0.409,1.05E+05,1.747,2.11E-03,0,6z5Pd7UoLA6e1AlHYeVzqA,9.41E-01,0,0.065,-40.486,1,Petite suite en 15 images: Berceuse aux etoiles (Lullaby under the Stars),42,4/13/2000,0.067,72.365,5.47E-01,2000
+0.987,['The Fairfield Four'],0.309,2.47E+05,4.12,1.52E-01,0,3t3c70vtCfM9PwBjy4v4XH,3.04E-04,2,0.147,-14.695,1,Lonesome Valley,41,12/5/2000,0.049,134.204,1.53E-01,2000
+0.994,['John Hartford'],0.246,1.54E+05,2.569,2.48E-02,0,39CbxPVnwNbbiHsen4NrxL,6.98E-02,6,0.083,-23.075,1,I Am A Man Of Constant Sorrow - Instrumental,41,12/5/2000,0.039,141.532,6.46E-01,2000
+0.967,['Silver Mt. Zion'],0.115,4.42E+05,7.372,3.03E-01,0,3cEVhx8rkM0FlETJFFpxoF,8.52E-01,11,0.061,-13.693,0,13 Angels Standing Guard 'Round The Side Of Your Bed,44,3/13/2000,0.04,79.193,3.90E-02,2000
+0.957,['Jill Scott'],0.301,1.02E+05,1.705,6.54E-02,0,1MOAgfNFslmaHFY3RchuIx,4.74E-05,1,0.095,-16.461,0,I Think It's Better,37,7/18/2000,0.047,175.768,5.78E-02,2000
+0.978,"['Alan Menken', 'Anders Soldh', 'Gävle Symphony Orchestra', 'Alexander Hanson']",0.173,2.14E+05,3.573,8.01E-02,0,1woA76rgRgf007W91VCM4N,8.92E-01,5,0.083,-22.474,1,The Little Mermaid: Part of Your World (arr. for orchestra),43,1/1/2000,0.041,139.523,5.00E-02,2000
+0.962,['The Microphones'],0.596,1.89E+05,3.144,1.74E-01,0,2Qhkk4hPdkt3NIVtiT8QEe,8.94E-02,0,0.104,-18.634,1,Headless Horseman,44,9/11/2001,0.069,100.08,7.48E-02,2001
+0.953,['John Debney'],0.247,5.63E+04,0.938,2.45E-02,0,2ujV4s7kebg7kGP7FZUXql,9.70E-01,9,0.112,-27.659,1,Main Titles - Princess Diaries Score,44,1/1/2001,0.035,36.897,1.59E-01,2001
+0.97,['John Williams'],0.303,1.59E+05,2.646,3.82E-03,0,0obKFDzE3dlnDLqkNPLUkx,8.35E-01,7,0.137,-41.844,1,Fluffy's Harp,46,10/30/2001,0.045,121.89,7.05E-02,2001
+0.995,"['Wolfgang Amadeus Mozart', 'Oslo Philharmonic Wind Soloists']",0.156,2.51E+05,4.187,2.82E-02,0,5jahnGcLiUJ534BdDmmgwq,9.24E-01,3,0.115,-24.382,1,"Serenade No. 12 in C Minor, K. 388: II. Andante",49,3/14/2002,0.038,76.728,9.53E-02,2002
+0.995,"['Johann Sebastian Bach', 'Glenn Gould']",0.436,2.24E+05,3.736,5.18E-03,0,1aTpzY2ggWHhPi8p2f56u1,9.32E-01,7,0.079,-36.593,1,"Goldberg Variations, BWV 988: Aria da capo - 1981 Version",47,8/27/2002,0.067,135.286,2.75E-01,2002
+0.994,"['Erik Satie', 'Jean-Yves Thibaudet']",0.167,2.17E+05,3.611,2.61E-03,0,5uaqfXP4wBosOea7QLokJP,8.87E-01,9,0.076,-38.553,0,Gnossiennes: No. 4,45,1/1/2002,0.043,63.029,1.04E-01,2002
+0.994,"['John Cage', 'Alexei Lubimov']",0.202,5.32E+05,8.864,4.80E-03,0,1qbrS9PKOzsack0g7LiBhh,9.38E-01,10,0.077,-37.422,1,In a Landscape,50,5/13/2002,0.04,68.527,1.95E-01,2002
+0.958,"['Stephen Schwartz', 'Idina Menzel', 'Stephen Oremus', 'Alex Lacamoire']",0.231,1.79E+05,2.979,7.55E-02,0,6eRV2uv4DWyZn9dNXn5xX4,1.19E-04,9,0.101,-18.902,1,"I'm Not That Girl - From ""Wicked"" Original Broadway Cast Recording/2003",41,1/1/2003,0.04,180.188,2.05E-01,2003
+0.983,"['Franz Liszt', 'Paul Lewis']",0.29,1.54E+05,2.573,7.70E-03,0,0eiT0cfG4TT3u6Zw68A1Kw,9.21E-01,11,0.079,-38.933,1,"En rêve, nocturne, S. 207",47,12/13/2003,0.043,135.607,3.86E-02,2003
+0.989,['William Chapman Nyaho'],0.458,1.48E+05,2.46,1.83E-02,0,67HF6y5o1UhIFUGIOPzUK5,8.79E-01,4,0.074,-29.244,1,Three Jamaican Dances: No. 2,45,8/28/2003,0.045,117.004,2.19E-01,2003
+0.984,"['Jules Massenet', 'Yo-Yo Ma', 'Kathryn Stott']",0.079,3.47E+05,5.777,2.71E-02,0,2JJWto8imzsHMGXQ1gm84v,8.13E-01,2,0.073,-27.237,1,Thaïs: Méditation (Arr. for Cello & Piano),45,2003,0.045,80.161,3.73E-02,2003
+0.971,['A Perfect Circle'],0.143,2.45E+05,4.08,1.92E-01,0,0yRtn9coNCSWIigvKJA5wn,2.00E-02,1,0.183,-15.355,1,The Nurse Who Loved Me,44,1/1/2003,0.038,79.619,1.27E-01,2003
+0.978,"['Georges Bizet', 'Angela Gheorghiu', 'Michel Plasson', 'Wolff', 'Orchestre National du Capitol de Toulouse', 'Orchestre National Du Capitole De Toulouse']",0.364,2.76E+05,4.591,5.92E-02,0,3pzBD8BVdrv7VJ7glRYshl,0.00E+00,2,0.082,-21.757,1,"Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigarières/Jeunes gens/Dragons)",49,2/25/2003,0.057,123.789,1.85E-01,2003
+0.968,"[""The Wailin' Jennys""]",0.504,1.40E+05,2.336,8.46E-03,0,0zwkLwuSIuqQ9a45lTFlSC,0.00E+00,4,0.226,-19.168,1,The Parting Glass,42,1/2/2004,0.103,86.099,1.79E-01,2004
+0.956,"['Tommy Dorsey', 'Frank Sinatra']",0.456,2.00E+05,3.329,3.28E-02,0,0HFWS5C6ThNeuOr10Xz21U,7.63E-05,2,0.152,-23.702,1,Polka Dots and Moonbeams,47,9/19/2005,0.053,82.938,3.42E-01,2005
+0.962,['Fred Mollin'],0.374,2.09E+05,3.477,2.64E-02,0,41jXeGNqW4ogirMy8IJzzN,6.57E-01,1,0.128,-20.717,1,Hush Little Baby/Rock-A-Bye Baby - Instrumental,46,1/1/2005,0.041,135.874,1.16E-01,2005
+0.958,['Harry Gregson-Williams'],0.231,7.29E+04,1.215,1.74E-01,0,03pWkKJjo8ATe0z4SWGzyd,8.43E-01,5,0.234,-16.718,1,A Narnia Lullaby,49,12/13/2005,0.15,91.125,3.22E-02,2005
+0.991,"['Morten Lauridsen', 'Chamber Choir Of Europe', 'Nicol Matt']",0.062,4.16E+05,6.93,1.16E-02,0,0S0YKiEdR9cT9pYgEaTevF,4.45E-01,2,0.082,-27.893,1,O Magnum Mysterium: O magnum mysterium,50,1/1/2006,0.057,65.057,3.31E-02,2006
+0.982,['Stan Whitmire'],0.539,2.61E+05,4.352,1.66E-01,0,3Ckm40tSW3MSqo7z7GtK4A,8.73E-01,6,0.095,-19.593,0,Hero,51,1/1/2006,0.045,121.925,2.15E-01,2006
+0.977,['The Killers'],0.485,4.99E+04,0.832,2.05E-01,0,4pTvgNra8siMoIT8u3epTr,1.68E-02,11,0.165,-15.733,1,Enterlude,50,10/2/2006,0.052,135.019,3.38E-01,2006
+0.985,"[""The Wailin' Jennys""]",0.462,1.30E+05,2.171,4.35E-02,0,66JpLq0hpmtHWNYgp8USVs,0.00E+00,8,0.182,-16.884,1,Long Time Traveller,43,6/6/2006,0.044,95.762,2.59E-01,2006
+0.986,['Deya Dova'],0.391,2.44E+05,4.06,1.28E-01,0,2O4i80yTXVXmzk68z3dLYf,0.00E+00,5,0.159,-12.946,0,Bloom,50,1/1/2006,0.051,171.336,5.26E-01,2006
+0.952,"[""Catherine O'Hara""]",0.268,1.08E+05,1.794,1.13E-01,0,0Zj3Ihs4nn3G3xZ2LKLEbP,3.89E-04,0,0.191,-19.601,1,Sally's Song,45,1/1/2006,0.038,111.801,1.13E-01,2006
+0.98,"['Johann Nepomuk Hummel', 'Tine Thing Helseth']",0.496,2.25E+05,3.744,2.49E-01,0,246ntJR3A2s7B5E40FTCLf,9.34E-01,3,0.12,-18.131,1,Hummel: Trumpet Concerto In E Flat - Iii Rondo,50,11/12/2007,0.041,144.239,7.19E-01,2007
+0.967,['Norah Jones'],0.484,2.12E+05,3.524,6.53E-02,0,0KNbGtYQmQo8XjVqJMWF3Y,2.03E-02,5,0.073,-17.207,1,Not Too Late,54,1/24/2007,0.031,89.045,1.54E-01,2007
+0.98,['Deuter'],0.136,4.98E+05,8.304,9.55E-02,0,04M6R4Fbah2AvgBPbCCbkl,9.17E-01,4,0.085,-21.049,0,Kindred Spirit,51,2/13/2007,0.046,73.976,3.92E-02,2007
+0.991,['The Cinematic Orchestra'],0.466,1.13E+05,1.88,1.68E-01,0,4jSuthawb7fitf3Wx3MqVM,8.94E-01,9,0.088,-14.068,1,That Home,45,6/5/2007,0.027,85.508,3.86E-02,2007
+0.955,['Stars Of The Lid'],0.063,2.73E+05,4.546,7.18E-02,0,4TrCvd1PrqI14lZb7tEtYo,9.07E-01,8,0.091,-24.789,0,A Meaningful Moment Through a Meaning(less) Process,48,4/2/2007,0.043,67.25,3.24E-02,2007
+0.972,"['Dean Evenson', 'Scott Huckabay']",0.107,4.70E+05,7.835,1.10E-01,0,1Dk2yfU21TrinTb44Nr25J,9.61E-01,4,0.079,-20.904,0,Third Eye Chakra - Light Vision,51,6/10/2008,0.041,60.194,3.69E-02,2008
+0.994,"['Claude Debussy', 'Simon Trpčeski']",0.329,2.71E+05,4.52,1.02E-02,0,5Ebm8OIFGeyoK25ZzXuju5,9.18E-01,6,0.103,-29.214,0,"Debussy: Deux Arabesques, L. 74, L. 66: Deuxième arabesque",50,1/14/2008,0.038,132.244,6.84E-02,2008
+0.984,['Deuter'],0.181,3.56E+05,5.933,6.87E-03,0,3wDjJstO6soS2ewJ3xhyDG,9.46E-01,6,0.103,-26.434,1,Uno,54,2/13/2009,0.036,72.355,4.07E-02,2009
+0.987,['Alexandre Desplat'],0.449,2.49E+05,4.15,8.44E-02,0,4xHpqKKjWAULcbFlVefLrw,9.01E-01,9,0.131,-19.391,0,New Moon (The Meadow),49,10/9/2009,0.044,124.936,1.05E-01,2009
+0.995,"['Ludwig van Beethoven', 'Louis Lortie']",0.244,4.43E+05,7.377,2.10E-03,0,2Y95aUjHiOtgL8A6t52Ynl,8.60E-01,1,0.161,-41.044,0,"Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 ""Moonlight"": I. Adagio sostenuto",53,10/26/2010,0.042,64.364,1.87E-01,2010
+0.988,"['Frédéric Chopin', 'Hélène Grimaud']",0.319,2.93E+05,4.876,7.12E-02,0,38J3F2EqXt9DnRstJiziTJ,9.05E-01,1,0.141,-26.415,1,"Berceuse In D Flat, Op.57",51,1/1/2010,0.038,95.365,8.35E-02,2010
+0.993,"['Franz Liszt', 'Lise de la Salle']",0.341,3.58E+05,5.962,1.42E-02,0,3GecLjGMqzjmgkvy2v41Wf,9.21E-01,2,0.113,-28.293,1,"Ständchen in D Minor (After Schubert), S. 560",55,8/23/2011,0.039,76.382,3.84E-02,2011
+0.99,['Mélanie Laurent'],0.377,1.60E+05,2.668,2.39E-02,0,2g2Ggi6gqJiVD2knmkMEfM,8.82E-01,0,0.1,-30.245,1,Début,56,5/2/2011,0.04,119.263,6.29E-02,2011
+0.991,['Alexandre Desplat'],0.474,1.18E+05,1.961,1.18E-02,0,4FnK3GEuekjYXavXPIGlmQ,8.91E-01,9,0.062,-31.108,0,Extremely Loud and Incredibly Close,56,12/20/2011,0.032,79.1,6.56E-02,2011
+0.965,"['Johannes Brahms', 'David Zinman']",0.082,3.75E+05,6.246,2.18E-02,0,4Weo3vMehKR84QR3gEgwm8,8.41E-01,0,0.104,-28.778,0,"Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",56,9/12/2011,0.041,172.879,6.16E-02,2011
+0.962,['Rachel Portman'],0.063,2.23E+05,3.72,1.38E-01,0,24h9onmUBreB167OG10RV6,9.32E-01,2,0.087,-14.157,1,We Had Today,48,1/1/2011,0.042,57.226,3.89E-02,2011
+0.964,"['George Gershwin', 'Alexander String Quartet']",0.152,4.31E+05,7.188,6.67E-02,0,2bOqEAbpUbCNeZmkUDJQo2,4.71E-01,7,0.089,-23.263,1,Lullaby for String Quartet,52,8/14/2012,0.039,96.057,6.86E-02,2012
+0.989,"['Christoph Willibald Gluck', 'Yuja Wang']",0.279,1.82E+05,3.026,4.61E-03,0,24cgBBhZD1cWekUqaYuqTB,9.82E-01,2,0.064,-36.886,0,"Orfeo ed Euridice, Wq. 30 - Arranged Sgambati / Act 2: Melodie dell'Orfeo",53,3/1/2012,0.044,69.813,3.90E-02,2012
+0.961,['alt-J'],0.484,7.74E+04,1.29,8.81E-02,0,5bp6twky1rHu72giADl7Mv,9.67E-01,9,0.373,-27.743,1,Interlude 2,48,9/18/2012,0.041,116.116,3.63E-01,2012
+0.956,['Current Joys'],0.597,4.28E+05,7.134,3.67E-01,0,39xA1yNSzJRSuyQTR8HpE2,8.62E-01,4,0.117,-19.591,1,You Broke My Heart,53,2013,0.03,155.231,5.74E-01,2013
+0.952,['Jake Owen'],0.537,2.19E+05,3.646,2.57E-01,0,3obQ7Qx6YZt8r1KvTv7uk3,3.89E-05,9,0.09,-10.447,1,What We Ain't Got,50,12/2/2013,0.034,127.981,1.69E-01,2013
+0.994,['Lavinia Meijer'],0.299,2.68E+05,4.459,3.19E-02,0,1Zv6RyHM08gyC4qvOlCZUL,9.28E-01,2,0.105,-30.624,1,Due tramonti,54,10/28/2013,0.06,105.922,9.75E-02,2013
+0.98,"['Gene Kelly', 'Nacio Herb Brown']",0.271,1.74E+05,2.894,2.49E-01,0,1ZEVSOFaWo6hWpuSsx1Xwr,2.17E-02,9,0.171,-11.623,0,Singin' in the rain,56,3/11/2013,0.04,67.936,3.45E-01,2013
+0.966,['Sleeping At Last'],0.394,2.12E+05,3.53,2.28E-01,0,0dHF8t7OIhgPele5WRUfWG,3.81E-05,4,0.113,-12.584,1,I'm Gonna Be (500 Miles),57,5/16/2014,0.043,104.625,2.58E-01,2014
+0.995,['Max Richter'],0.383,7.86E+04,1.309,1.70E-01,0,370TxU3tPIvVLmCrGd2EZ6,8.47E-01,9,0.105,-21.87,1,Vladimir's Blues,52,1/1/2014,0.069,115.803,6.90E-02,2014
+0.962,['Hippie Sabotage'],0,1.57E+05,2.617,2.36E-01,1,4aVbFYIU67P8F5pqPakaXQ,3.35E-04,7,0.105,-13.909,0,Waiting Too Long,54,12/9/2014,0,0,0.00E+00,2014
+0.986,['Spirits Of Our Dreams'],0.19,1.25E+05,2.081,1.02E-02,0,1hk4wGfZMRqmfUzaPtQQL9,9.71E-01,0,0.08,-33.528,0,Moving Silence,61,11/15/2015,0.034,73.68,5.68E-02,2015
+0.995,['Binaural Beats Sleep'],0.393,1.23E+05,2.045,1.05E-03,0,63SvuIM9L3ONAcYS2ODUoN,9.39E-01,4,0.107,-43.013,1,Binaural Beats (Restful Sleep),58,11/29/2016,0.112,72.028,3.92E-02,2016
+0.964,['Deep Sleep Music Collective'],0.204,1.20E+05,2.001,2.97E-03,0,1SPBJ5ol7xYyzxt1Gs0MTD,9.84E-01,1,0.111,-36.056,1,Sleeping Music (Piano Sleep Music),62,11/7/2016,0.044,62.848,3.96E-02,2016
+0.956,['White Noise Spa'],0,3.00E+05,5.005,2.03E-05,0,5wf3wwLBJj4j46xtJETZ8L,2.38E-01,10,0.131,-20.961,0,Soothing Deep Pink Noise,58,10/11/2016,0,0,0.00E+00,2016
+0.974,['Sleeping At Last'],0.467,2.43E+05,4.043,1.57E-01,0,2d7LPtieXdIYzf7yHPooWd,1.46E-06,11,0.082,-9.649,1,Chasing Cars,64,11/4/2016,0.034,108.13,2.77E-01,2016
+0.955,['Deep Sleep Music Collective'],0.182,1.19E+05,1.975,2.48E-03,0,4dKkvmCP8VYyPzyk3TgfQb,9.77E-01,4,0.088,-35.658,1,Calm Sounds for Sleep,61,11/7/2016,0.047,74.752,6.09E-02,2016
+0.961,['littleONES'],0.417,3.31E+05,5.522,7.87E-02,0,38wDkBNOGJJ0YtqWOaLEFh,9.99E-01,9,0.596,-26.446,1,Baby Sleep Shhh: The Perfect Settling Tool for Babies!,74,10/8/2016,0.188,184.059,5.32E-03,2016
+0.97,['Deep Sleep Music Collective'],0.083,1.18E+05,1.973,1.09E-03,0,4K6OlCO3WbxsMr0h7U8nlY,8.36E-01,8,0.115,-37.547,1,Soft Piano,61,11/7/2016,0.046,84.354,3.86E-02,2016
+0.954,['Thunderbound Productions'],0,2.85E+05,4.756,9.99E-01,0,0cTmHyEAcGnkIv3yC0sVwL,5.26E-01,11,0.97,-17.47,1,Timeless Rain,63,4/12/2017,0,0,0.00E+00,2017
+0.995,['Ronald Emery'],0.394,2.12E+05,3.54,2.81E-02,0,2ahwerIzRcGeSMQnZ2DDJa,9.69E-01,1,0.108,-23.71,1,Ho hey,65,4/26/2017,0.067,200.615,3.01E-01,2017
+0.995,['Elisa Mosel'],0.562,1.89E+05,3.141,2.06E-02,0,61FnfOx61kMlzmVfbl5Jtx,9.30E-01,9,0.108,-19.857,1,Fields Of Gold,65,10/26/2017,0.043,72.953,2.07E-01,2017
+0.967,['Wassup Rocker'],0.748,1.79E+05,2.986,2.25E-01,1,0jl2i7G9bt93Byf2I2Q7Mk,5.12E-02,0,0.121,-16.484,0,Luv Bug,63,6/20/2018,0.258,96.99,3.50E-01,2018
+0.963,['Caamp'],0.547,2.19E+05,3.656,8.97E-02,0,0ESvfrHfNuAtkZp8SMJBOY,5.78E-03,3,0.111,-18.732,1,Strawberries,62,7/27/2018,0.046,117.17,2.63E-01,2018
+0.962,"['Lord Huron', 'Phoebe Bridgers']",0.424,2.08E+05,3.47,4.37E-01,0,0jZO7p0nBUi9VHedWUBS9l,3.36E-01,2,0.664,-8.588,1,The Night We Met (feat. Phoebe Bridgers),70,5/18/2018,0.035,174.127,1.31E-01,2018
+0.966,['Lana Del Rey'],0.456,2.73E+05,4.541,1.26E-01,0,3lG6OtGDsYAOALxEmubQQm,1.77E-06,2,0.107,-10.883,1,Happiness is a butterfly,70,8/30/2019,0.044,68.614,1.62E-01,2019
+0.957,['Anson Seabra'],0.551,3.06E+05,5.095,7.54E-02,1,1SoR3NCP3P9dtdoTnpPNi1,0.00E+00,6,0.154,-14.203,1,Broken,67,8/8/2019,0.059,98.348,2.39E-01,2019
+0.994,['Echo River'],0.308,1.98E+05,3.292,2.64E-02,0,40f4bFrEnG7TBLD7FFRqQj,8.13E-01,5,0.084,-29.093,1,Farewell,69,3/21/2019,0.042,73.06,1.01E-01,2019
+0.993,['Arlette Leduc'],0.172,1.97E+05,3.283,2.23E-02,0,2QuojUtKiQ7l8ZQMDelt3s,9.37E-01,2,0.096,-30.281,1,Coralia,68,4/21/2019,0.04,71.379,3.81E-02,2019
+0.984,['Moon Laika'],0.142,1.75E+05,2.919,1.30E-02,0,0ek2PwrDkUWRqoaTq6WKDj,9.09E-01,7,0.099,-33.299,1,Sleep Hibernation,67,6/14/2019,0.043,72.917,7.08E-02,2019
+0.994,['Matilda Charpie'],0.217,2.46E+05,4.096,1.69E-03,0,4FE9jhuatcOZZYoHdBDN8T,9.12E-01,0,0.139,-34.121,1,Crépuscule,69,6/1/2019,0.043,64.118,5.99E-02,2019
+0.994,['Richard Ramsey'],0.56,1.18E+05,1.973,1.96E-02,0,6A72j6HPfF8Y52nPK6BXRk,9.30E-01,0,0.096,-25.043,1,Slumber,69,3/8/2019,0.045,71.694,2.87E-01,2019
+0.973,['Dream Shard'],0.3,1.80E+05,3.001,3.99E-01,0,7iS8aC9Qmet8TyVUqyR4jY,7.24E-01,8,0.112,-33.625,0,Street Noise - Brown Noise,67,5/2/2019,0.075,122.786,2.26E-02,2019
+0.99,['Binary One'],0.139,2.35E+05,3.92,4.03E-02,0,0jlQn5ENU6pt3yDRlMDgjB,9.37E-01,0,0.092,-30.162,0,Returning,64,10/9/2019,0.067,87.34,3.83E-02,2019
+0.971,['Donato Manna'],0.174,2.12E+05,3.538,4.22E-02,0,1LLLm2nPAEw0F8nREc7mbe,9.01E-01,1,0.111,-28.743,1,In Peace,67,1/31/2020,0.044,66.849,8.91E-02,2020
+0.996,['Ever So Blue'],0.307,1.28E+05,2.139,5.00E-02,0,0CoSBNNeO8JgayAfLttECk,9.40E-01,0,0.105,-27.964,1,Onthou,71,4/17/2020,0.035,138.484,4.10E-01,2020
+0.952,['Omara Portuondo'],0.744,2.96E+05,4.939,4.70E-01,0,2gIeStpi0SclaktrnvncdO,6.81E-02,10,0.11,-10.738,0,No me llores más,50,4/17/2000,0.033,124.388,8.13E-01,2000
+0.964,['Cat Power'],0.477,1.21E+05,2.013,5.77E-02,0,6Ge2Ob69SEZ2l78e3IE0Aw,1.42E-06,1,0.154,-11.965,1,I Found A Reason,44,3/21/2000,0.035,102.558,4.66E-01,2000
+0.988,"['George Givot', 'Bill Thompson', 'Disney Studio Chorus']",0.268,1.61E+05,2.678,2.75E-01,0,6suDwyuHm9aTkEGEd5FSNf,3.61E-02,5,0.098,-13.938,1,"Bella Notte - From ""Lady and the Tramp"" / Soundtrack Version",42,1/1/2001,0.032,71.53,2.84E-01,2001
+0.981,['Fred Mollin'],0.46,1.97E+05,3.284,1.20E-01,0,61tnA1xJXS6SUJSXAS0mAN,5.73E-01,7,0.107,-17.511,0,Beauty And The Beast,42,2002,0.03,87.093,2.38E-01,2002
+0.976,['Fred Mollin'],0.324,1.96E+05,3.264,6.67E-02,0,1qJVN4D1fZs3AhaxHntgas,4.44E-01,2,0.095,-20.574,1,Something There,42,2002,0.034,62.872,1.28E-01,2002
+0.974,"['Franz Joseph Haydn', 'The Scottish Baroque Ensemble', 'Leonard Friedman']",0.255,8.94E+04,1.49,5.34E-02,0,2K01jEOja47eLwJsh1j3ZK,3.19E-01,4,0.109,-27.366,1,Haydn: Twelve Little Divertimenti: Menuet: Un poco allegretto,43,2002,0.059,142.695,2.27E-01,2002
+0.966,['John Williams'],0.165,3.08E+05,5.137,7.42E-02,0,0rpSIjKSmZ2SFO6vmLJpXl,9.19E-01,2,0.115,-20.345,1,Reunion of Friends,46,11/11/2002,0.042,129.981,3.80E-02,2002
+0.995,['Mary Youngblood'],0.325,1.94E+05,3.235,8.04E-02,0,6lZhqWTCznlvIwvHuKo1Vy,5.64E-01,4,0.067,-17.583,0,Within My Heart,41,1/1/2002,0.038,75.071,7.30E-01,2002
+0.99,['Fred Mollin'],0.347,2.01E+05,3.348,5.23E-02,0,0d2jEkvq1aUlQlpin2slC8,9.45E-01,5,0.185,-20.952,1,I'm Wishing/One Song,41,2002,0.034,130.377,1.38E-01,2002
+0.983,['William Basinski'],0.153,4.11E+05,6.85,3.91E-02,0,2UZXQrEi0A8ySbDuyeuMt3,9.28E-01,3,0.077,-32.652,1,Melancholia II,50,1/17/2003,0.036,69.906,7.37E-02,2003
+0.986,"['Alexander Borodin', 'Julian Lloyd Webber', 'Royal Philharmonic Orchestra', 'James Judd']",0.224,2.43E+05,4.041,1.16E-01,0,6pV1dGidc6DvzjKhbMqgDa,9.21E-01,9,0.505,-25.714,1,Nocturne,48,1/1/2004,0.062,75.412,9.04E-02,2004
+0.992,['Jim Brickman'],0.453,1.91E+05,3.176,1.25E-01,0,5iday4nwx1UiUNyWzZy2fz,8.69E-01,5,0.094,-18.178,1,Someday My Prince Will Come,46,1/1/2005,0.036,131.873,7.55E-02,2005
+0.967,['Betty Noyes'],0.247,1.27E+05,2.122,4.85E-01,0,5LLc5PMYsumWanLvgr7DCB,9.46E-05,6,0.312,-10.694,0,"Baby Mine - From ""Dumbo""",45,1/1/2005,0.035,96.59,2.39E-01,2005
+0.996,"['George Gershwin', 'Frank Braley']",0.449,1.45E+05,2.42,6.31E-03,0,4BlM6AO7TOtqxcY9qMHIuc,9.02E-01,5,0.112,-36.027,0,Song Book: The Man I Love. Slow and in singing style,49,3/24/2005,0.041,69.325,6.76E-02,2005
+0.981,['Fred Mollin'],0.55,2.11E+05,3.509,9.06E-02,0,70n33U8GKmuyzbCvehaNmz,8.56E-01,2,0.099,-19.387,1,Rainbow Connection - Instrumental,45,1/1/2005,0.032,108.949,1.91E-01,2005
+0.961,['Paul Cardall'],0.385,3.50E+05,5.831,9.94E-02,0,5c5dCM4Ud73aOhd0yEQ1q9,9.31E-01,10,0.06,-20.326,1,I am a Child of God,44,9/14/2005,0.033,127.014,7.94E-02,2005
+0.995,"['Ludwig van Beethoven', 'András Schiff']",0.261,3.14E+05,5.236,7.46E-03,0,2zExp0TMKzbEkssEDJ7uf2,9.55E-01,8,0.105,-34.733,1,"Piano Sonata No. 8 In C Minor, Op. 13 -""Pathétique"": 2. Adagio cantabile - Live",50,3/10/2006,0.054,180.764,6.20E-02,2006
+0.976,['Jeremy Soule'],0.357,1.46E+05,2.425,3.64E-02,0,7MWYv1m0d023BdbLyG6NQE,8.85E-01,1,0.106,-26.283,1,All's Well,47,3/20/2006,0.034,109.888,3.87E-02,2006
+0.99,['Stan Whitmire'],0.386,2.80E+05,4.671,6.15E-02,0,2HvN74GLTZfuaE3Zv5XFjx,9.18E-01,0,0.144,-20.565,1,When You Wish Upon A Star,48,1/1/2006,0.039,72.264,9.94E-02,2006
+0.961,['She & Him'],0.373,2.39E+05,3.986,4.74E-02,0,3U7fJ0VfFR1Msntjgd3DPB,0.00E+00,0,0.113,-13.564,1,You Really Got a Hold on Me,45,3/18/2008,0.038,74.868,1.54E-01,2008
+0.994,['Ashana'],0.086,5.70E+05,9.493,6.31E-02,0,3FKi5WRPoafaARRScDJgJc,2.55E-01,5,0.097,-17.686,1,Hymn,51,1/1/2009,0.042,70.194,3.04E-02,2009
+0.961,['Fruit Bats'],0.622,2.42E+05,4.03,5.51E-01,0,6P6jyX25Twcnts78GASx7n,7.87E-01,4,0.141,-7.521,1,Flamingo,46,4/8/2009,0.035,119.61,3.75E-01,2009
+0.968,"['Sergei Rachmaninoff', 'Valery Gergiev', 'Mariinsky Orchestra', 'Denis Matsuev']",0.123,1.63E+05,2.724,3.86E-02,0,7EcjtjNYDhQ82yCQZU0Z9C,9.39E-01,1,0.086,-25.577,1,"Rhapsody On a Theme of Paganini, Op. 43: V. Variation XVIII",55,2/1/2010,0.037,174.824,5.73E-02,2010
+0.985,"['Franz Liszt', 'Lang Lang']",0.203,2.60E+05,4.326,3.99E-03,0,0Jp7n6FKqGVxtXPMVYtMQr,9.22E-01,1,0.111,-35.638,1,"Consolation No. 3 in D-Flat Major, S. 172",54,8/22/2011,0.041,74.253,7.79E-02,2011
+0.972,['Bon Iver'],0.671,1.65E+05,2.75,1.95E-01,0,5kiZpF6a7kxZLurZVSewtw,5.50E-01,9,0.079,-18.588,0,"Hinnom, TX",48,6/21/2011,0.053,121.691,6.39E-01,2011
+0.988,['Ólafur Arnalds'],0.437,1.88E+05,3.131,4.63E-02,0,0YPagAr3GhXlRX06E4nUcw,9.17E-01,0,0.085,-25.928,1,Tomorrow's Song,54,12/5/2011,0.037,140.478,1.39E-01,2011
+0.993,['Nils Frahm'],0.458,2.30E+05,3.835,7.43E-02,0,346d2tSxhrRUpL4bp4xn2b,9.10E-01,6,0.103,-24.145,0,Re,55,12/3/2012,0.053,108.93,2.32E-01,2012
+0.995,['Beautiful Chorus'],0.081,2.81E+05,4.676,5.57E-03,0,5oGpVVrO0QhZUSrQAd0j69,8.23E-01,5,0.07,-33.922,1,Heart Chakra,52,8/24/2012,0.047,70.021,3.57E-02,2012
+0.983,"['Camille Saint-Saëns', 'Stéphane Tétreault', 'Fabien Gabel', 'Orchestre Symphonique De Québec']",0.116,2.15E+05,3.583,5.90E-02,0,59eTbibtvvBIGj27eN3zqq,9.13E-01,7,0.152,-26.632,1,Le Cygne,56,9/25/2012,0.045,94.137,3.93E-02,2012
+0.992,['The Piano Guys'],0.383,2.62E+05,4.371,6.78E-02,0,3wGQULikds23nGCvIJf5G4,9.17E-01,4,0.081,-18.621,1,Just the Way You Are,57,5/3/2013,0.042,90.578,1.93E-01,2013
+0.954,['Audrey Assad'],0.257,2.23E+05,3.708,1.68E-01,0,3jlAkZoMZovVV5gUA62ulF,1.02E-04,4,0.088,-12.243,1,I Shall Not Want,53,3/18/2014,0.043,58.988,1.51E-01,2014
+0.975,['Sleeping At Last'],0.613,1.97E+05,3.28,3.14E-01,0,3cBtANnJGopPaRMXCl3mV7,8.41E-06,1,0.095,-9.575,1,Every Little Thing She Does Is Magic,57,5/16/2014,0.031,132.776,4.21E-01,2014
+0.975,['John Williams'],0.234,1.91E+05,3.184,1.39E-01,0,5wsHtmFHWntJzcN6n8ivjd,8.89E-01,9,0.081,-16.854,0,Rey's Theme,57,12/18/2015,0.034,102.682,1.20E-01,2015
+0.974,['Tame Impala'],0.547,5.54E+04,0.924,2.08E-01,0,79chzfFIIq7cHkqcYYORk0,9.73E-01,11,0.104,-17.949,0,Gossip,57,7/17/2015,0.037,119.474,3.47E-01,2015
+0.987,['Fox Academy'],0.358,1.59E+05,2.646,1.61E-01,0,0lX13P1uH2Hn6R9iavXWxJ,3.15E-02,1,0.11,-16.848,1,Lavender Blood,56,1/6/2015,0.037,83.351,2.04E-01,2015
+0.975,['Deep Sleep Music Collective'],0.198,1.23E+05,2.045,4.13E-04,0,68JOSWjtRYqsCJbnVSCDkQ,8.64E-01,6,0.11,-37.624,1,Sleep Meditation,62,11/7/2016,0.043,69.492,6.74E-02,2016
+0.958,['Deep Sleep Music Collective'],0.135,1.18E+05,1.97,2.56E-03,0,1e8YXZzw4cnWV9QaSY3BtQ,9.20E-01,1,0.112,-37.495,1,Quiet Music for Sleep,61,11/7/2016,0.046,73.062,4.43E-02,2016
+0.954,['Deep Sleep Music Collective'],0.136,1.32E+05,2.197,5.53E-04,0,2ez01ZsOmyG4m31vxJuQDx,9.00E-01,6,0.112,-35.699,1,Music to Sleep By,61,11/7/2016,0.046,76.037,5.41E-02,2016
+0.957,['Deep Sleep Music Collective'],0.157,1.19E+05,1.99,5.53E-04,0,7HBvKyhAJ4QX2vaq4Nl45N,9.19E-01,0,0.106,-38.094,1,New Age Piano for Sleep,61,11/7/2016,0.048,69.712,3.86E-02,2016
+0.951,['Deep Sleep Music Collective'],0.204,1.21E+05,2.008,1.07E-03,0,1mmw6dQxV5Yw7VsYdZTU1m,8.83E-01,1,0.12,-37.221,1,Sand Castles,61,11/7/2016,0.05,68.724,3.51E-02,2016
+0.973,['Deep Sleep Music Collective'],0.154,1.23E+05,2.055,8.91E-04,0,0OVwmxLIkUQjAT6zVusw5Q,9.12E-01,1,0.116,-37.952,1,Sleep Songs,61,11/7/2016,0.054,66.507,3.50E-02,2016
+0.971,['Bon Iver'],0.304,2.45E+05,4.087,2.29E-01,0,4VZM71F8XAoLRuNyNLxwWS,4.08E-01,4,0.109,-14.678,1,29 #Strafford APTS,60,9/30/2016,0.033,80.118,1.55E-01,2016
+0.958,['Deep Sleep Music Collective'],0.077,1.24E+05,2.062,2.73E-03,0,0ErhZpQwk4JaXevDCSwoBW,7.86E-01,11,0.091,-37.35,1,Teal Sky,61,11/7/2016,0.052,76.542,3.84E-02,2016
+0.987,"['Edvard Grieg', 'Alessio Bax']",0.296,2.21E+05,3.68,4.35E-02,0,2GJFu2G9fhaYFrOoX9bejs,8.57E-01,0,0.079,-29.73,1,"Lyric Pieces, Book 5, Op. 54: Nocturne",61,1/8/2016,0.041,72.282,3.02E-02,2016
+0.963,['Deep Sleep Music Collective'],0.077,1.22E+05,2.027,9.89E-04,0,6JJhLJGpkSea8I7qMdZfGA,9.02E-01,3,0.091,-37.557,1,The Shore,61,11/7/2016,0.051,172.66,3.90E-02,2016
+0.994,['Charles Bolt'],0.229,9.27E+04,1.546,1.89E-02,0,2SIHJo8TXKvFvaW0XvMztF,9.21E-01,6,0.094,-29.919,1,Deco,61,7/16/2016,0.045,95.535,1.16E-01,2016
+0.994,['Peter Sandberg'],0.679,1.15E+05,1.908,8.09E-02,0,2ozeCscFSmHW7FKLSTJlA4,9.42E-01,9,0.097,-21.97,1,Synesthesia (Scaled Down Version),62,6/17/2016,0.058,130.049,1.95E-01,2016
+0.995,['Ronald Emery'],0.514,2.30E+05,3.833,2.82E-02,0,4eyOZVDzYlVslh6POZ9AVP,9.50E-01,11,0.111,-20.249,1,Say You Wont Let Go,65,4/26/2017,0.069,96.015,2.44E-01,2017
+0.954,['Sufjan Stevens'],0.462,1.35E+05,2.257,1.87E-01,0,5iR8v6fTc33LDo2t4w3342,8.47E-01,4,0.099,-19.991,1,Futile Devices (Doveman Remix),57,11/3/2017,0.03,140.096,2.52E-01,2017
+0.967,['Elijah Who'],0.614,6.58E+04,1.097,2.77E-01,0,23gcQr3NRKzLXsP9H5jFQ1,8.91E-01,1,0.07,-11.943,0,my new love,63,9/29/2017,0.042,84.938,2.36E-01,2017
+0.996,['Granular'],0.121,1.34E+05,2.226,6.33E-01,0,4RTVyXYNmaKyqVDnmU4gJZ,4.24E-01,10,0.126,-24.715,0,Dream,67,9/5/2018,0.056,78.844,1.00E-05,2018
+0.969,['kwajbasket'],0.187,2.07E+05,3.456,2.46E-02,0,3l2aKoxhYUlv9THMneynIu,7.28E-01,4,0.089,-33.493,1,The Only Thing Left,62,3/9/2018,0.034,70.635,3.09E-02,2018
+0.989,['Regina Mira'],0.284,1.20E+05,1.995,3.08E-02,0,5VceRZmSDeW6y7ipxiwOvK,9.28E-01,1,0.109,-28.498,1,The Winding Paths,67,10/19/2018,0.043,69.897,5.90E-01,2018
+0.995,['Yue Yan Jen'],0.181,1.61E+05,2.675,2.87E-02,0,2hkPUEsERVGoI4DxfZjUj5,9.35E-01,8,0.097,-33.787,0,梦蝶 - Dream to be a butterfly,67,8/24/2019,0.038,107.222,1.11E-01,2019
+0.967,['Lana Del Rey'],0.461,3.25E+05,5.408,1.02E-01,1,0fB77VOZ2FkQeKLv1DuEwp,2.10E-06,7,0.164,-13.05,1,hope is a dangerous thing for a woman like me to have - but I have it,71,8/30/2019,0.09,71.835,2.59E-01,2019
+0.976,['Cyrano Brussee'],0.148,2.99E+05,4.979,4.96E-02,0,5tc7QNc9sOFQoE2ty3H4TJ,9.29E-01,5,0.084,-26.249,1,Wacht op mij,66,9/20/2019,0.044,71.858,3.98E-02,2019
+0.974,['Zabawa'],0.301,3.09E+05,5.151,1.77E-02,0,36c2NifUp0GDnoOQT5unhR,7.64E-03,0,0.106,-27.293,1,Butterfly's Repose,65,3/14/2020,0.042,119.859,8.92E-02,2020
+0.97,"['Camille Saint-Saëns', 'Ensemble Musique Oblique']",0.243,1.61E+05,2.688,1.95E-02,0,10yXfuLcIilEbs2JrMU7oY,8.92E-01,9,0.086,-34.913,0,Le Carnaval des animaux: Le Carnaval des animaux: Aquarium,44,2000,0.044,126.724,3.93E-02,2000
+0.971,"['Bobby Driscoll', 'Kathryn Beaumont', 'Paul Collins', 'Tommy Luske', 'The Jud Conlon Chorus']",0.519,2.65E+05,4.424,3.64E-01,0,7JD4aIrbFXH3eI7eqmIKhi,2.71E-06,10,0.119,-13.39,1,"You Can Fly! You Can Fly! You Can Fly! - From ""Peter Pan""/Soundtrack Version",40,1/1/2001,0.17,121.551,5.41E-01,2001
+0.99,['Yiruma'],0.531,2.51E+05,4.175,1.31E-01,0,0YbVnJgqzHAHFtg4uFfOxb,9.37E-01,7,0.077,-23.074,1,I,46,11/27/2001,0.064,126.995,1.53E-01,2001
+0.97,['Joe Hisaishi'],0.329,1.93E+05,3.217,9.30E-02,0,26W3vc21aHLaHF90gbsiq1,9.38E-01,0,0.094,-22.214,1,Day Of The River,46,7/18/2001,0.03,79.545,5.50E-02,2001
+0.994,['George Shearing'],0.331,1.95E+05,3.254,9.66E-02,0,5bqw1jBy6gacBpxsn8xFuF,9.58E-01,8,0.133,-24.707,1,Guilty - Remastered,51,1/1/2001,0.048,75.441,1.95E-01,2001
+0.971,['Fred Mollin'],0.406,1.76E+05,2.931,1.09E-01,0,4tw2MGyKR4FW8vIShly7T9,8.18E-01,7,0.109,-18.023,1,A Dream Is A Wish Your Heart Makes,42,2002,0.03,101.076,1.57E-01,2002
+0.954,['Boards of Canada'],0.079,6.86E+04,1.143,8.22E-02,0,2A3Mkcpf7t5lz402c2JklE,8.57E-01,8,0.11,-27.857,0,Over The Horizon Radar,45,2/19/2002,0.034,179.913,2.18E-01,2002
+0.983,['Fred Mollin'],0.352,2.43E+05,4.043,7.34E-02,0,09eEn3vbwXzrfnTJOhYLWC,9.25E-01,5,0.377,-19.988,1,Just Around The Riverbend,41,2002,0.033,77.057,3.95E-02,2002
+0.962,['Norah Jones'],0.588,1.45E+05,2.421,1.88E-01,0,1nljoM9tvlik9heVXnpGjT,3.95E-03,7,0.105,-13.939,1,Seven Years,42,2/22/2002,0.035,127.143,3.87E-01,2002
+0.983,['Johnny Cash'],0.334,1.99E+05,3.308,5.95E-02,0,5o4SqGekEfvdkNuOVx5d3S,8.74E-05,9,0.124,-11.069,1,Danny Boy,48,1/1/2002,0.042,177.07,2.41E-01,2002
+0.995,['Hovia Edwards'],0.294,2.15E+05,3.579,4.42E-02,0,5S43VGbqIGWBoA8MDL8zwq,9.63E-01,7,0.083,-22.951,0,Song of Friendship,41,1/1/2003,0.046,89.116,8.75E-01,2003
+0.959,['Jane Winther'],0.069,5.04E+05,8.401,5.76E-03,0,5eMbvXKpk3CS1T693wRJkN,3.14E-01,2,0.104,-19.72,0,Om Mani Padme Hum 1,50,2004,0.047,61.318,5.85E-02,2004
+0.957,"['Edward Elgar', 'Sir John Barbirolli', 'London Symphony Orchestra']",0.112,4.78E+05,7.968,1.34E-01,0,5cwPIak6Pg5HRuXpA5ecuO,4.42E-01,4,0.119,-20.226,0,"Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",42,2004,0.043,92.134,4.57E-02,2004
+0.974,['Jon Brion'],0.567,1.44E+05,2.399,4.37E-02,0,4AQwwsz0ztRx4YKNb1GdBB,9.43E-01,3,0.111,-22.912,1,Theme - Score,48,1/1/2004,0.037,104.024,1.91E-01,2004
+0.98,['Fred Mollin'],0.457,2.70E+05,4.502,6.32E-02,0,1SJ7kgrYnrZ1rlyZDFCL6f,8.79E-01,1,0.111,-19.403,1,You'll Be In My Heart - Instrumental,46,1/1/2005,0.03,83.973,5.72E-02,2005
+0.957,['Patrick Doyle'],0.246,1.29E+05,2.151,7.30E-02,0,08IA5pdUxV881M3pFBKepS,9.24E-01,2,0.1,-21.086,1,Neville's Waltz,49,11/9/2005,0.037,95.624,1.26E-01,2005
+0.973,['Paul Cardall'],0.251,2.67E+05,4.442,1.06E-01,0,5SSpHX29Gnzsv4ZN2ImYrx,8.88E-01,1,0.129,-21.072,1,I Love to See the Temple,42,9/14/2005,0.037,167.358,7.72E-02,2005
+0.991,['Patrick Watson'],0.459,1.87E+05,3.123,6.98E-02,0,1GIPP103zfsythULEpsmdw,1.03E-01,6,0.109,-16.827,1,The Great Escape,55,9/26/2006,0.035,105.202,2.32E-01,2006
+0.988,['Ludovico Einaudi'],0.271,3.59E+05,5.987,8.43E-02,0,4CbwEZXVgxViCiPYPfGQIs,9.15E-01,2,0.11,-25.501,1,I Giorni,42,3/15/2006,0.053,136.15,7.89E-02,2006
+0.971,['Jeremy Soule'],0.162,2.59E+05,4.323,9.45E-02,0,7rtxlP1iijQrZeUASrioeg,9.35E-01,4,0.089,-24.325,0,Through the Valleys,47,3/20/2006,0.039,131.547,3.77E-02,2006
+0.972,"['Edvard Grieg', 'Academy of St. Martin in the Fields', 'Sir Neville Marriner']",0.078,3.12E+05,5.193,2.10E-02,0,6XNxVEWV0NiBaJZpUjIVHa,7.86E-01,9,0.061,-30.849,0,"Peer Gynt Suite No. 2, Op. 55: IV. Solveig's Song",52,1/1/2007,0.05,80.913,3.56E-02,2007
+0.982,['Jake Shimabukuro'],0.407,2.55E+05,4.25,2.77E-01,0,3yACY5F6Q8jTq3qxBr3EhS,6.20E-01,5,0.088,-14.616,1,Somewhere Over the Rainbow,43,9/18/2007,0.061,82.114,7.83E-02,2007
+0.984,"['Ludwig van Beethoven', 'András Schiff']",0.227,4.57E+05,7.62,1.13E-01,0,6G1V1TM0TeHfQzIQSEKCsH,9.11E-01,7,0.062,-24.217,0,"Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -""The Tempest"": 3. Allegretto - Live",52,9/7/2007,0.04,137.466,1.75E-01,2007
+0.961,"['Dean Evenson', 'Jonathan Kramer']",0.216,4.66E+05,7.765,1.38E-01,0,0AvQspmvZCDfbTAJVphhwW,9.73E-01,5,0.103,-20.229,1,Heart Chakra - Breath of Love,51,6/10/2008,0.038,115.27,4.57E-02,2008
+0.954,['Bedtime Baby'],0.432,1.22E+05,2.034,7.19E-02,0,5Wux4Vq9nWrmeBbFoT5kJe,9.14E-01,8,0.106,-16.117,1,Rockabye Baby,49,12/1/2009,0.042,132.533,2.22E-01,2009
+0.995,"['Johann Sebastian Bach', 'Julia Cload']",0.397,2.93E+05,4.883,1.85E-02,0,0VI8QAH1YupPK6xdCJuwpn,9.17E-01,7,0.083,-32.417,1,"Goldberg-Variationen, BWV 988: I. Aria",53,11/23/2009,0.048,128.58,2.56E-01,2009
+0.971,['Disney Pixar Duets Karaoke'],0.316,9.47E+04,1.578,2.47E-01,0,0ZGsQUf2WaAGvn4xnwUR6o,5.78E-03,4,0.132,-12.433,1,"So This Is Love - From ""Cinderella""/Vocal",46,1/1/2009,0.038,79.16,1.55E-01,2009
+0.956,['Bedtime Baby'],0.433,1.36E+05,2.266,5.65E-02,0,2BicrIvfuJhLN6aw5yg5lu,9.08E-01,7,0.085,-16.312,1,Sleep Baby Sleep,47,12/1/2009,0.061,110.432,1.20E-01,2009
+0.988,"['Wolfgang Amadeus Mozart', 'Mitsuko Uchida', 'Cleveland Orchestra']",0.209,5.76E+05,9.596,3.14E-02,0,5iNbFdlGQ7d1y2HfIfvdNP,8.40E-01,10,0.102,-26.249,1,"Piano Concerto No.20 in D minor, K.466: 2. Romance - Live At Severance Hall, Cleveland / 2010",54,1/1/2010,0.034,81.629,9.83E-02,2010
+0.982,"['Frédéric Chopin', 'Nelson Freire']",0.342,3.34E+05,5.568,1.79E-02,0,7vIJwiFD2FKiulXzCDMvc4,9.06E-01,1,0.083,-24.846,1,"Nocturne No.1 in B flat minor, Op.9 No.1",46,1/1/2010,0.039,61.757,3.82E-02,2010
+0.989,"['Frédéric Chopin', 'Brigitte Engerer']",0.422,2.74E+05,4.567,1.63E-02,0,2FP7JttwbYPXcXxIihEvop,9.18E-01,3,0.177,-26.561,1,"Nocturnes, Op. 9: No. 2 in E-Flat Major. Andante",55,6/22/2010,0.04,64.079,1.08E-01,2010
+0.971,['Trent Reznor and Atticus Ross'],0.205,2.59E+05,4.311,1.54E-01,0,1v0uVPU6BWcbog5BiWLWVa,9.48E-01,2,0.103,-25.38,1,Hand Covers Bruise,50,9/28/2010,0.042,114.851,3.89E-02,2010
+0.987,"['Wolfgang Amadeus Mozart', 'Mitsuko Uchida', 'Cleveland Orchestra']",0.171,4.53E+05,7.545,1.15E-02,0,2TDYhUsCuLEK0mkPZCYKPV,8.48E-01,3,0.099,-30.173,1,"Piano Concerto No.27 in B flat, K.595: 2. Larghetto",53,1/1/2010,0.044,72.404,8.30E-02,2010
+0.965,['Portico Quartet'],0.4,3.42E+05,5.698,2.45E-01,0,6e65fH1wClamA2QPI5HUi3,9.44E-01,3,0.158,-14.345,1,Prickly Pear,59,2010,0.034,164.165,2.68E-01,2010
+0.964,['C418'],0.223,1.77E+05,2.942,6.71E-02,0,1yRvOL3HruyNKODMBHt1Qh,9.54E-01,4,0.116,-30.388,0,Thirteen,50,3/4/2011,0.045,69.309,2.86E-02,2011
+0.99,['Chad Lawson'],0.189,3.62E+05,6.039,3.43E-02,0,5edzZx7AiRFOUNZtyQJAGW,9.26E-01,9,0.096,-27.421,0,Nocturne in a Minor,53,10/9/2011,0.041,100.968,4.16E-02,2011
+0.952,['Birdy'],0.379,2.01E+05,3.351,2.90E-01,0,0HRshWRNAwQBROvxXqG3i9,1.06E-03,4,0.118,-8.485,1,Skinny Love,60,11/4/2011,0.051,166.467,1.69E-01,2011
+0.994,"['Domenico Scarlatti', 'Alexandre Tharaud']",0.479,1.98E+05,3.299,1.72E-01,0,7rtHi9wgpYS4h25tUfhvQ5,9.20E-01,2,0.138,-22.543,1,"Sonata in D Major, Kk.430",49,1/21/2011,0.063,199.596,7.15E-01,2011
+0.993,['The Echelon Effect'],0.4,4.69E+05,7.815,1.56E-01,0,4J4yJ9VpPIIsRDf9w4cPG7,8.49E-01,0,0.124,-15.542,1,Tracking Aeroplanes,52,8/30/2012,0.032,82.99,9.05E-02,2012
+0.954,"['Benjy Wertheimer', 'John De Kadt']",0.517,5.63E+05,9.39,1.02E-01,0,6y4zQgeTuyOV3osTIPljwy,8.62E-01,7,0.107,-22.482,1,Shivaratri,55,6/19/2012,0.028,94.015,9.83E-02,2012
+0.992,"['Claude Debussy', 'Inon Barnatan']",0.375,3.14E+05,5.235,6.07E-03,0,0mjT194sWauS2YBwxM2ZhS,8.83E-01,1,0.056,-29.405,1,Suite Bergamasque: Clair de Lune,53,4/23/2012,0.05,67.978,4.45E-02,2012
+0.994,"['Antonín Dvořák', 'Stefan Veselka']",0.331,1.92E+05,3.196,1.18E-02,0,36XWhADD7DpCYfe2EYwgWF,9.05E-01,7,0.076,-29.056,1,"2 Pieces, Op. posth., B. 188: No. 1. Lullaby in G Major",51,3/6/2012,0.037,65.591,5.77E-02,2012
+0.958,"['César Franck', 'Joshua Bell', 'Jeremy Denk']",0.25,3.64E+05,6.068,1.35E-01,0,0xX7kREWmOGBWzYNcpZwRN,3.49E-02,9,0.048,-18.615,1,"Violin Sonata in A Major, FWV 8: IV. Allegretto poco mosso",53,1/6/2012,0.049,94.404,1.79E-01,2012
+0.96,['Chromatics'],0.61,3.23E+05,5.383,3.85E-01,0,7MXlRIl901aXfJ2oSGn0E2,4.42E-01,9,0.078,-8.765,0,Into The Black,56,3/26/2012,0.028,108.968,1.26E-01,2012
+0.995,['Childish Gambino'],0.263,5.45E+04,0.908,1.26E-01,1,1jWoeUIvNJniadGbeTj03X,9.48E-01,7,0.243,-22.601,0,Playing Around Before the Party Starts,50,12/10/2013,0.04,166.073,8.79E-02,2013
+0.98,['Aphex Twin'],0.277,3.22E+05,5.365,1.00E-02,0,3ESsjKqrj3M79I8sSZieK3,8.48E-01,4,0.131,-32.893,0,aisatsana [102],56,9/19/2014,0.036,102.397,3.53E-02,2014
+0.977,"['Sleep Baby Sleep', 'Meditation Awareness', 'Sleep Sound Library', 'Outside Broadcast Recordings', 'Deep Sleep']",0.182,6.35E+04,1.058,2.02E-01,0,5HVjLxAftX35Y0GyqNCY7Y,3.58E-02,8,0.111,-28.542,1,Office Air Conditioners,50,10/2/2014,0.091,57.069,3.65E-02,2014
+0.973,['Sufjan Stevens'],0.441,2.79E+05,4.655,1.04E-01,0,4K3RZJ8sWPbv0IedcnEfw6,3.54E-01,6,0.119,-22.399,0,Fourth of July,59,3/31/2015,0.046,120.266,1.56E-01,2015
+0.991,['Natural White Noise Relaxation'],0,1.64E+05,2.733,1.02E-03,0,1SZh3eUOXgzLqZ19mQlIQ9,2.57E-01,1,0.111,-25.555,1,Premium Brown Noise: Best of Constant Pacific Ocean Roar Sounds to Induce Sleep,60,2/19/2015,0,0,0.00E+00,2015
+0.954,['Nursery Rhymes 123'],0.502,1.36E+05,2.267,1.70E-01,0,2eP2kKhFaTBWjnoi7LxLUm,0.00E+00,0,0.115,-14.62,1,You Are My Sunshine,62,1/26/2016,0.032,100.051,3.81E-01,2016
+0.991,['Hermann'],0.465,1.04E+05,1.739,3.88E-02,0,5hJ5736o2jQRXnslKxoWqG,9.15E-01,9,0.077,-24.262,0,Leaves,61,8/1/2016,0.056,139.735,1.54E-01,2016
+0.954,['Ryan Gosling'],0.585,1.11E+05,1.854,8.09E-02,0,5BMwpS4iYKR30kq9U9beaT,2.33E-02,6,0.093,-19.346,0,City Of Stars,62,12/9/2016,0.052,98.379,2.04E-01,2016
+0.986,['Mandolin Orange'],0.519,2.25E+05,3.755,6.09E-02,0,0Zyt3eB2Ddhert42wIa181,1.33E-03,5,0.107,-11.328,1,Take This Heart of Gold,55,9/30/2016,0.051,118.56,1.22E-01,2016
+0.974,['Karin Borg'],0.287,1.40E+05,2.331,1.98E-02,0,5bP9JMP7HKh1G3sJtTymgT,9.42E-01,6,0.1,-22.851,0,Kebnekajse,60,10/18/2016,0.039,65.741,6.90E-02,2016
+0.967,['eevee'],0.645,8.66E+04,1.443,1.14E-01,0,2U42jVkNgEU6DoM64eFD7i,8.31E-01,9,0.112,-15.768,1,viola,59,2/10/2016,0.356,78.015,1.91E-01,2016
+0.994,['Samuel Lindon'],0.367,1.39E+05,2.314,2.53E-03,0,5QcpXwGONi7bKyphLwySs5,9.48E-01,9,0.095,-26.785,0,Meadow Mornings,61,12/12/2016,0.049,128.994,2.28E-01,2016
+0.994,['Serenity for Sleep'],0.35,2.31E+05,3.854,2.62E-02,0,73nAdnaRt0Qmm1dG5fhdK8,8.95E-01,0,0.119,-24.468,1,I Will Wait,64,4/23/2017,0.04,100.076,5.56E-02,2017
+0.993,['Whitney'],0.568,2.13E+05,3.544,2.95E-01,0,3HNKZy1An5Jlnb02lcV2yd,4.99E-01,7,0.14,-7.867,0,Southern Nights,60,11/10/2017,0.049,84.225,4.30E-01,2017
+0.993,['Samuel Lindon'],0.573,1.34E+05,2.233,1.98E-02,0,0NOzMlTrPHMQ68snNK891G,9.41E-01,3,0.112,-25.76,0,La Tour,65,5/11/2017,0.045,61.978,2.84E-01,2017
+0.982,['Granular'],0,2.35E+05,3.919,1.09E-02,0,2GBvksBLD4dLqjKbqp4uor,1.76E-01,5,0.127,-20.829,1,Clover,65,7/6/2018,0,0,0.00E+00,2018
+0.996,['Regina Mira'],0.493,1.09E+05,1.813,1.00E-02,0,7x8ILiGyZAFW3F0rPUPYxm,9.62E-01,10,0.115,-26.589,1,October,66,10/19/2018,0.048,69.47,3.49E-01,2018
+0.993,['Mayer Julcsa'],0.141,2.70E+05,4.496,3.53E-02,0,7wMtecN31PghxCJGvAwN8n,7.79E-01,4,0.086,-31.019,0,Szundikál,64,12/13/2019,0.113,173.056,1.11E-01,2019
+0.996,['Levi Stills'],0.625,1.23E+05,2.045,8.44E-03,0,1rAv3gMViglWehdm1baqcF,9.59E-01,0,0.108,-23.823,0,Intermezzo,69,3/8/2019,0.08,131.543,5.71E-01,2019
+0.977,['Lori Dulac'],0.12,1.91E+05,3.183,1.80E-02,0,5CC8QT7TuttcXXSlj5cx2T,8.63E-01,2,0.119,-30.883,0,cognizant,69,9/6/2019,0.036,68.249,9.24E-02,2019
+0.956,['Empty Space'],0.153,1.89E+05,3.149,1.65E-01,0,07dIxNWwFGWwPrYuMypE2z,8.27E-01,7,0.079,-18.633,0,Whisperer,65,1/31/2019,0.037,135.468,3.39E-02,2019
+0.971,['Taylor Swift'],0.737,1.50E+05,2.507,1.75E-01,0,1SmiQ65iSAbPto6gPFlBYm,3.37E-04,10,0.171,-9.912,1,It’s Nice To Have A Friend,66,8/23/2019,0.04,70.008,5.45E-01,2019
+0.993,['Eric Badanti'],0.418,1.61E+05,2.687,3.68E-02,0,3I3WY0C7AQMe6Z6hMUQqd5,9.44E-01,11,0.085,-24.304,0,Vals De Rodrigues,68,9/5/2019,0.05,111.355,1.19E-01,2019
+0.954,['Jupiter Grains'],0.209,1.12E+05,1.872,2.19E-02,0,3tCBeat5YZBwLf61yoQJ9v,9.38E-01,5,0.104,-25.95,1,Untitled,68,9/12/2019,0.034,78.336,3.58E-02,2019
+0.99,['Stephan Moccio'],0.324,2.08E+05,3.461,1.86E-02,0,2m2GJpBjQNNphaCgBeoj7R,9.34E-01,2,0.105,-28.248,1,Fracture,68,4/17/2020,0.048,85.297,1.26E-01,2020
+0.994,['Maura Bellucci'],0.294,1.34E+05,2.225,7.09E-02,0,6L73Pb4dv5p9OOlY1ja32c,9.17E-01,3,0.099,-26.318,1,Sagittabondo,69,3/27/2020,0.038,66.213,2.20E-01,2020
+0.993,['Matooma'],0.207,1.85E+05,3.079,5.37E-02,0,1GfdC8GouQqL0RKKzgIhXw,9.53E-01,0,0.099,-26.829,1,Heavenly Harps,63,1/16/2020,0.043,68.227,3.25E-02,2020
+0.992,['Berlioz'],0.498,1.59E+05,2.652,1.08E-01,0,7tDHMhO0bJpbkXzMyMIE0b,9.65E-01,0,0.103,-25.641,1,Isla De Flores,69,2/28/2020,0.072,70.046,5.51E-02,2020
+0.98,['Mauro Cangemi'],0.428,1.34E+05,2.237,1.12E-01,0,3AogJjKJYSIEiXx8Xfq9Z9,8.97E-01,0,0.112,-21.152,1,Continuo,69,4/6/2020,0.047,99.653,2.15E-01,2020
+0.994,['Night Poets'],0.324,2.38E+05,3.964,2.49E-03,0,7zoNjIq4DZadcFOxwKvrlC,9.46E-01,0,0.11,-34.247,1,Parts Unknown,68,1/13/2020,0.035,67.725,3.62E-02,2020
+0.979,['Keira Barton'],0.134,1.89E+05,3.154,4.13E-02,0,7DEcoyUFy04Zhe89uthswA,8.15E-01,9,0.088,-28.929,1,Buoyant,65,1/24/2020,0.061,144.693,4.44E-02,2020
+0.99,['Blonde Redhead'],0.631,1.82E+05,3.038,2.00E-01,0,4sZI1I2z5UODePKXgzyFho,3.62E-02,5,0.154,-13.379,0,For the Damaged,47,6/6/2000,0.047,140.136,1.92E-01,2000
+0.982,['David Bauer'],0.593,2.08E+05,3.47,5.25E-02,0,0ciAqRdIpOfhRfuCPzbyq0,9.33E-01,0,0.115,-25.555,1,It Is Well With My Soul,44,2000,0.046,119.947,1.11E-01,2000
+0.992,"['Johann Sebastian Bach', 'Murray Perahia']",0.428,1.11E+05,1.846,3.23E-01,0,78sZ6qdT6HFK2NZPSoClLa,9.17E-01,7,0.156,-20.248,1,"Goldberg Variations, BWV 988: Var. 1",46,9/1/2000,0.038,106.06,9.65E-01,2000
+0.952,['Malvina Reynolds'],0.588,1.31E+05,2.191,2.69E-01,0,0dRvjBVCStIlBxOqbhAQ3q,4.19E-02,5,0.093,-9.341,1,Little Boxes,42,5/23/2000,0.048,122.15,5.12E-01,2000
+0.966,"['Johann Sebastian Bach', 'Kolja Blacher', 'Kolner Kammerorchester', 'Helmut Muller-Bruhl']",0.479,4.43E+05,7.381,3.12E-01,0,5TBekkTQcKzto3sLrUUbKy,1.40E-02,2,0.083,-17.053,0,"Violin Concerto in D Minor, BWV 1052: I. Allegro",46,4/20/2000,0.05,105.991,6.16E-01,2000
+0.991,['David Bauer'],0.232,9.61E+04,1.601,8.03E-03,0,6KHx0lfm8n3J0ohcEg3SEZ,9.63E-01,8,0.108,-31.084,1,"I Love You, Lord",42,2000,0.046,69.56,1.68E-01,2000
+0.982,['Monks Of The Abbey Of Notre Dame'],0.188,2.02E+05,3.367,9.14E-02,0,4FUeIDdjVRxnYBDKmyqiQG,8.55E-01,6,0.111,-23.113,1,Introit Benedicta Sit,44,2001,0.048,83.085,3.62E-02,2001
+0.963,['Masashi Hamauzu'],0.634,2.84E+05,4.737,3.63E-01,0,6Q4nNB7exf30TTt2SdhPAb,8.22E-01,7,0.103,-12.753,1,Besaid,43,8/1/2001,0.03,108.988,3.41E-01,2001
+0.977,['Aphex Twin'],0.338,2.05E+05,3.42,9.82E-04,0,6Wei2NUSG66WzLiqSuQAy5,2.39E-01,8,0.097,-28.82,1,Nanou2,44,10/22/2001,0.046,93.066,7.76E-02,2001
+0.964,"['Wolfgang Amadeus Mozart', 'Sandrine Piau', 'Freiburger Barockorchester']",0.394,3.08E+05,5.137,8.83E-02,0,6ce2irPKNzScUnTO6NU6GV,1.37E-03,5,0.081,-20.867,1,"Die Entführung Aus Dem Serail - Arie : Ach, iche liebte, war so...",48,2/1/2002,0.054,121.678,9.14E-02,2002
+0.965,"['Tony Bennett', 'k.d. lang']",0.47,2.04E+05,3.398,1.09E-01,0,4xsJ6KEsIjsHKWJA7D8GAI,2.02E-04,1,0.122,-18.386,1,A Kiss to Build a Dream On,45,11/2/2002,0.038,86.839,2.20E-01,2002
+0.97,"['Howard Shore', 'Renée Fleming']",0.069,2.10E+05,3.506,6.63E-02,0,1eWsXHpKj3BhE9Uw9Q5XKI,9.48E-01,4,0.102,-21.996,0,Twilight and Shadow (feat. Renee Fleming),47,11/24/2003,0.044,74.251,3.83E-02,2003
+0.955,"['Howard Shore', 'James Galway']",0.063,3.59E+05,5.99,4.27E-02,0,0gt7ei2Fube4V9jnJ5VCKM,9.76E-01,2,0.117,-27.648,1,The Grey Havens (feat. Sir James Galway),46,11/24/2003,0.044,57.72,3.45E-02,2003
+0.962,['Howard Shore'],0.094,4.55E+05,7.575,2.52E-02,0,6caCfb9Hg5NlUfXg9nRSnm,9.54E-01,9,0.127,-29.202,1,The Journey to the Grey Havens (feat. Sir James Galway),46,11/24/2003,0.043,70.318,3.50E-02,2003
+0.955,['Fra Lippo Lippi'],0.453,2.81E+05,4.687,1.83E-01,0,4Cn3jeDKxrpxJwRjbc5GFB,3.13E-04,10,0.149,-14.54,1,Beauty and Madness - 1993,56,2003,0.032,100.174,4.40E-01,2003
+0.98,['Fred Mollin'],0.456,2.70E+05,4.503,6.46E-02,0,2Kij021y6biW8YWwTM82Xo,8.43E-01,1,0.11,-19.354,1,You'll Be In My Heart - Instrumental,43,9/14/2004,0.03,83.929,5.10E-02,2004
+0.98,"['Ennio Morricone', 'Yo-Yo Ma', 'Roma Sinfonietta']",0.105,1.45E+05,2.419,2.08E-01,0,7ufjlAqHC2ED4y8574RM6v,8.38E-01,7,0.374,-15.295,1,The Mission: The Falls,45,2004,0.038,157.851,4.66E-02,2004
+0.977,['Fred Mollin'],0.482,1.84E+05,3.07,1.08E-01,0,1bFx9DWBFy1U7o7Dd6IQcU,8.35E-01,3,0.152,-17.732,1,Puff The Magic Dragon - Instrumental,45,1/1/2005,0.031,81.046,1.18E-01,2005
+0.989,['Fred Mollin'],0.304,2.11E+05,3.516,7.45E-02,0,7lE2IEY8KXtqQRGs3TZhX0,8.55E-01,5,0.116,-19.243,1,London Bridge/Tura-Lura-Lural (That's An Irish Lullaby) - Instrumental,45,1/1/2005,0.032,97.623,8.22E-02,2005
+0.976,['Celtic Woman'],0.25,2.05E+05,3.408,1.55E-01,0,75sSAymXP6tGOeRvImwzOf,1.17E-05,2,0.077,-16.983,1,Danny Boy,46,1/1/2005,0.039,100.842,9.35E-02,2005
+0.961,['Jim Brickman'],0.385,1.94E+05,3.233,2.19E-01,0,121jHMUmLlQ24bViLY1btQ,7.99E-01,8,0.112,-16.444,1,Reflection - Instrumental,45,1/1/2005,0.042,119.748,2.34E-01,2005
+0.995,['Peter Phippen'],0.21,2.59E+05,4.312,1.54E-02,0,2r8tPRK0TolVaNKBECT6t6,8.47E-01,10,0.105,-27.946,1,Night Falls,44,1/1/2006,0.048,139.598,3.77E-02,2006
+0.989,['Stan Whitmire'],0.428,2.72E+05,4.524,9.98E-02,0,7bMnF1m5ZcwPKMbLm9ArZD,9.23E-01,10,0.109,-18.18,1,You Raise Me Up,48,1/1/2006,0.046,58.942,1.46E-01,2006
+0.96,['Jeremy Soule'],0.084,1.85E+05,3.087,7.50E-02,0,1bXoENBZuBkZniaPhRVgNp,8.30E-01,4,0.101,-22.065,0,Auriel's Ascension,46,3/20/2006,0.04,74.743,3.92E-02,2006
+0.955,['Madeleine Peyroux'],0.621,2.38E+05,3.964,1.99E-01,0,20Wrb8zv1LCJYGeJDQetLK,2.62E-01,11,0.101,-15.576,1,Smile,42,9/12/2006,0.034,87.086,1.57E-01,2006
+0.951,['Nobuo Uematsu'],0.087,3.48E+05,5.8,1.29E-01,0,2s4wu9Z76eEczUOfAQXMEz,7.68E-01,7,0.076,-13.77,1,Aerith's Theme (Final Fantasy VII),47,12/4/2007,0.037,78.835,3.85E-02,2007
+0.985,"['Dean Evenson', 'Scott Huckabay']",0.216,4.75E+05,7.921,9.43E-02,0,42b8m7QbauXo7QQX62Pvsz,5.98E-01,4,0.129,-19.979,0,Chakra Balancing - Merging All,50,6/10/2008,0.037,66.329,6.13E-02,2008
+0.962,"['Sara Bareilles', 'Ingrid Michaelson']",0.354,2.67E+05,4.444,1.40E-01,0,1KDkSCXJIR4CJaVUK9qP7O,2.90E-05,1,0.176,-14.136,1,Winter Song,48,10/14/2008,0.046,81.108,1.94E-01,2008
+0.996,['Alexis Ffrench'],0.431,1.15E+05,1.92,7.75E-02,0,5YfZknxIgQayJKaMn5Z11G,9.33E-01,4,0.081,-23.964,1,Last Song,51,11/21/2009,0.071,64.86,2.90E-01,2009
+0.982,"['Jónsi', 'Alex Somers']",0.183,3.03E+05,5.055,2.45E-01,0,3oww3hQ0kv9b2QjEkvyer0,9.74E-01,7,0.417,-17.934,1,Boy 1904,42,7/20/2009,0.039,123.139,3.76E-02,2009
+0.993,['Thad Fiscella'],0.378,3.04E+05,5.058,1.54E-01,0,0ovWl3roso9gtJZTYsSKdH,9.28E-01,9,0.098,-18.785,1,Wedding Song,50,8/31/2010,0.05,120.776,2.51E-01,2010
+0.976,"['Dario Marianelli', 'Jack Liebeck', 'Benjamin Wallfisch']",0.095,2.34E+05,3.899,5.70E-02,0,7Ly4vpc0e0JaqKIbCHtSHX,4.03E-01,5,0.091,-24.673,1,My Edward and I (feat. Jack Liebeck),52,3/8/2011,0.048,67.598,3.75E-02,2011
+0.98,['Uther Moads'],0.517,2.41E+05,4.013,3.16E-02,0,1bL3lI3ykZjw9Zul1Ir51y,9.10E-01,1,0.112,-21.51,0,Future Waves,48,2011,0.035,110.02,1.55E-01,2011
+0.992,"['Frédéric Chopin', 'Vladimir Feltsman']",0.309,2.32E+05,3.871,4.72E-02,0,6qUjY7JsuQYxn99qfOAQyB,8.66E-01,3,0.098,-25.497,1,"Nocturne in E-Flat Major, Op. 9, No.2",54,2/1/2011,0.041,72.915,6.93E-02,2011
+0.996,['Jon E. Amber'],0.4,1.21E+05,2.015,6.12E-02,0,0wmmFkwOtzaanH4T5vMMLz,9.09E-01,7,0.107,-17.481,1,"Softly, Gently",55,12/2/2011,0.05,75.983,1.44E-01,2011
+0.969,['Jump Start Your Heart'],0.575,4.73E+04,0.789,1.82E-01,0,4QbKevGgXsbtO5uPD5ws9E,9.86E-01,7,0.375,-23.637,1,Intro In Bm,45,2/21/2012,0.068,100.037,2.63E-01,2012
+0.964,['The Staves'],0.558,2.46E+05,4.107,1.17E-01,0,6x7oPOBrfsqx9WbON5X1go,6.86E-04,5,0.085,-16.958,1,Mexico,46,11/12/2012,0.035,131.847,1.74E-01,2012
+0.958,['Gregory Alan Isakov'],0.378,1.68E+05,2.792,2.50E-01,0,76PS07wzG7zYMy8rHPjL2t,1.18E-03,5,0.124,-11.51,1,Time Will Tell,48,7/9/2013,0.029,168.071,4.15E-01,2013
+0.991,"['Gioachino Rossini', 'Ferdinand Wrede', '12 Pianists']",0.414,1.38E+05,2.296,1.87E-02,0,3Wwba621okL6wwGn6KMzre,8.92E-01,7,0.051,-39.385,1,Guillaume Tell (William Tell): Overture (arr. F. Wrede for 2 pianos 8 hands): Andante -,52,2/26/2013,0.056,74.477,1.95E-01,2013
+0.972,['Sara Bareilles'],0.415,2.79E+05,4.642,1.68E-01,0,0aSgzAUObtmSSwh1yO6shv,5.85E-04,9,0.113,-12.223,1,Manhattan,51,7/16/2013,0.04,90.321,2.35E-01,2013
+0.953,['Dave Thomas Junior'],0.365,3.31E+05,5.508,1.58E-01,0,4tpeXx5XfqGdjITefUN3Rr,3.92E-02,3,0.096,-14.019,0,I Can't Make You Love Me,57,10/6/2013,0.035,123.531,7.40E-02,2013
+0.986,['The Piano Guys'],0.318,2.71E+05,4.514,4.45E-01,0,71I9xjigtEcEYcbZgtvG1J,8.28E-01,3,0.089,-9.597,1,Story of My Life,54,10/3/2014,0.035,123.855,9.62E-02,2014
+0.991,['Baby Lullaby Academy'],0.243,1.08E+05,1.801,3.84E-03,0,1YiknHCa9pXZVKWUYeNgbx,9.69E-01,0,0.085,-41.378,1,Baby Lullaby Music,60,11/24/2015,0.04,114.566,1.96E-01,2015
+0.994,['Beautiful Chorus'],0.106,3.80E+05,6.329,5.41E-03,0,0pV7ZNlSXRtleKtlKgnUlF,9.52E-01,11,0.129,-34.765,1,Faith's Hymn,57,6/14/2015,0.041,92.154,7.99E-02,2015
+0.986,['Sigimund'],0.331,1.30E+05,2.167,5.42E-02,0,5frrMKfRVby9maqYjlBpDB,9.40E-01,7,0.113,-23.525,0,Emptiness,60,7/31/2016,0.05,71.943,7.61E-02,2016
+0.983,['Rebour'],0.401,1.08E+05,1.791,2.68E-02,0,5smg7I3dlFezDBYjLY2f0S,8.79E-01,0,0.121,-23.912,1,Mrs. Smith,61,7/31/2016,0.045,121.47,7.25E-02,2016
+0.991,['Oneke'],0.222,1.21E+05,2.017,5.84E-02,0,4RuYDrJ4a2ybcEVkSy1xFB,9.46E-01,2,0.1,-22.44,0,Rays of Hope,60,7/31/2016,0.032,143.786,4.71E-02,2016
+0.994,"['Maurice Ravel', 'Bertrand Chamayou']",0.491,3.47E+05,5.776,1.76E-02,0,3MRQn2RYo2VLYMoStnLRxu,9.27E-01,4,0.099,-26.911,0,"Ravel: Pavane pour une infante défunte, M. 19",60,1/15/2016,0.064,125.793,9.01E-02,2016
+0.996,['Binaural Beats Sleep'],0.398,1.18E+05,1.973,9.56E-03,0,3md9ih5DcuqhYO6FVs6KDs,9.88E-01,2,0.111,-36.329,1,Binaural Beats (REM Sleep),56,11/29/2016,0.055,69.067,3.57E-01,2016
+0.984,['Toby Fox'],0.696,5.03E+04,0.838,3.00E-01,0,4aMrd3aAnuVgGbwdmAQWY4,6.24E-01,8,0.17,-12.647,1,Shop,59,6/3/2016,0.032,154.918,8.49E-01,2016
+0.97,['Rex Orange County'],0.281,2.60E+05,4.329,8.42E-02,1,7fxHpjrR6YwyFcp19P6tv6,7.09E-06,4,0.078,-17.476,1,Belly (The Grass Stains),57,11/7/2016,0.047,202.416,8.80E-02,2016
+0.976,['Esthie'],0.71,1.20E+05,2.006,1.87E-01,0,4yWCiMOk150jbE3NPuhXHu,4.32E-06,2,0.094,-15.505,1,Cotton Candy Skies,60,9/25/2017,0.036,85.029,5.86E-01,2017
+0.991,['Aaron Lansing'],0.397,1.58E+05,2.634,3.15E-02,0,1JoAjYaI3zvhXVx41HH7Fc,9.26E-01,7,0.092,-22.308,0,Naive Spin,64,10/20/2017,0.039,72.833,1.80E-01,2017
+0.996,['Piano Pianissimo'],0.505,2.35E+05,3.913,4.09E-02,0,7hQYakDtSt1uj9W6NAOQxI,9.48E-01,7,0.104,-20.356,1,When You Love Someone,63,4/26/2017,0.047,172.341,3.10E-01,2017
+0.994,['Mae Ji-Yoon'],0.671,1.74E+05,2.895,2.00E-01,0,1COWV6U3LKqCBpiHPthbiB,9.39E-01,8,0.114,-23.978,1,Vibrations,65,9/10/2017,0.036,107.517,5.30E-01,2017
+0.969,['Bruno Major'],0.388,1.69E+05,2.824,8.59E-02,0,30QNjcM3Q1GnLFIIJjWQL1,7.35E-05,7,0.108,-16.061,0,Places We Won't Walk,64,8/31/2017,0.047,88.253,1.90E-01,2017
+0.991,['The Harpeurs'],0.565,9.41E+04,1.568,3.57E-02,0,1w8KJUP2hZ57CbJq7Z1cBD,9.46E-01,5,0.113,-18.991,1,Brahms Lullaby,63,6/1/2017,0.072,66.007,5.16E-01,2017
+0.996,['Bernard Dubicki'],0.688,2.09E+05,3.489,1.95E-02,0,3J7iUsiftcjZxPfewt4jM6,9.57E-01,4,0.095,-20.35,1,White Winter Hymnal - Piano,63,4/23/2017,0.057,132.225,2.93E-01,2017
+0.973,['Rand Aldo'],0.273,1.17E+05,1.942,6.50E-03,0,7IeAd6rhMU9zMG0wccZbwb,9.46E-01,4,0.112,-27.214,1,Between Moments,66,12/7/2018,0.037,63.427,2.34E-01,2018
+0.992,['Silje Månsson'],0.313,1.16E+05,1.933,1.02E-02,0,3a14Ywse8vF62KNc7zI4wW,9.07E-01,1,0.103,-23.15,1,Sparkle,68,4/4/2019,0.033,82.781,9.65E-02,2019
+0.995,['Tosh Møller'],0.488,1.58E+05,2.625,9.59E-02,0,3eMTcFDfBkdUxzRDAb8Krs,9.58E-01,1,0.086,-25.806,1,Alene uden dig,68,11/22/2019,0.064,145.957,3.02E-01,2019
+0.965,['Lana Del Rey'],0.374,2.29E+05,3.822,6.94E-02,0,5tyMJlMqaggzvuX7TtlrTe,3.68E-04,9,0.081,-16.529,1,Love song,69,8/30/2019,0.039,134.238,2.41E-01,2019
+0.996,['Ever So Blue'],0.622,1.36E+05,2.267,2.51E-02,0,6sSFbKl9oQ7ToYxBeTQZvw,9.45E-01,2,0.09,-24.907,1,At Dawn,68,7/26/2019,0.056,116.364,3.63E-01,2019
+0.99,['Artura Ponce Valles'],0.203,1.87E+05,3.121,5.88E-03,0,3CkHOquzU3g6ekoYiuo5Fo,8.29E-01,5,0.118,-34.66,1,No me despiertes,67,6/22/2019,0.039,69.468,4.18E-02,2019
+0.994,['Keira Conlon'],0.232,1.54E+05,2.558,4.49E-03,0,72mDETn3Ba8yVewAcqnlqQ,8.52E-01,1,0.07,-34.69,0,Lyrebird,68,6/14/2019,0.037,73.356,9.88E-02,2019
+0.965,['Naturally Recurring'],0.173,2.50E+05,4.164,1.85E-02,0,4BOCx4hnSq0xWO3lcEbibQ,9.05E-01,2,0.1,-36.582,0,Sunrise Glory,66,10/29/2019,0.04,138.268,6.42E-02,2019
+0.989,['Luna Meguise'],0.356,1.57E+05,2.62,4.02E-02,0,1KDGb7d3PHIOI6bLWgLFfV,9.20E-01,0,0.118,-25.461,1,Heading West,67,5/13/2019,0.043,69.595,2.99E-01,2019
+0.991,['Ever So Blue'],0.374,1.85E+05,3.09,9.89E-02,0,7uvey8m0ZfknE25sBVWoGY,8.05E-01,9,0.08,-28.377,1,Cessura,67,7/26/2019,0.033,152.84,3.42E-01,2019
+0.974,['Najma Wallin'],0.175,1.34E+05,2.225,7.59E-03,0,6RuFOroO9VO0aMGEzirLHk,9.25E-01,7,0.113,-35.072,1,Med slutna ögon,68,2/21/2020,0.045,70.872,8.38E-02,2020
+0.983,['Patricia Sevin'],0.195,1.19E+05,1.979,1.11E-01,0,4ynA4JLwQIRfIhPuOLVoHZ,9.52E-01,6,0.11,-25.778,1,Choices,69,5/1/2020,0.05,177.125,2.86E-01,2020
+0.996,['Miles Patrick'],0.627,9.22E+04,1.537,1.10E-01,0,7vR65Iy5mH6cD3vWJBnzzA,9.53E-01,8,0.123,-19.809,1,Brahms Lullaby,69,2/7/2020,0.057,74.434,6.95E-01,2020
+0.991,['Desolate Horizons'],0.153,1.60E+05,2.667,2.14E-01,0,7qrFwjD4GmpDli3OmAAkCY,9.44E-01,4,0.133,-28.989,0,More Than Anything,64,1/10/2020,0.042,68.834,3.28E-02,2020
+0.996,['Adelmar Borrego'],0.443,1.01E+05,1.676,2.48E-02,0,147gCksvDRmjG1pO51ZCcf,9.67E-01,11,0.12,-25.351,1,"Twinkle, Twinkle, Little Star",69,1/31/2020,0.062,68.123,5.20E-01,2020
+0.951,['Nancy Wilson'],0.441,1.74E+05,2.891,6.13E-02,0,2IcRKEB63dQD9YnWso8Ogu,4.05E-03,5,0.079,-17.268,1,Tonight May Have To Last Me All My Life - Remastered,40,1/1/2000,0.044,117.357,7.77E-02,2000
+0.99,"['Frédéric Chopin', 'Idil Biret']",0.304,4.12E+04,0.686,8.99E-02,0,6UlYfU3dCqFXKCOIcfTrb9,9.14E-01,0,0.103,-24.446,1,"24 Preludes, Op. 28: No. 1 in C Major",45,1/21/2000,0.038,76.797,2.84E-01,2000
+0.99,"['George Givot', 'Bill Thompson', 'Disney Studio Chorus']",0.195,1.62E+05,2.701,2.86E-01,0,4vePE79zJShD1QIedYcEgn,3.58E-01,5,0.281,-13.24,1,Bella Notte - Soundtrack,39,1/1/2000,0.036,169.624,2.81E-01,2000
+0.96,"[""Da Vinci's Notebook""]",0.594,2.24E+05,3.728,2.80E-01,0,7rTnBNV9MXeDf7OgGVERi2,0.00E+00,9,0.143,-12.082,1,Kingdom In the Sky,38,2000,0.099,116.056,4.91E-01,2000
+0.985,"['Frédéric Chopin', 'Idil Biret']",0.316,8.85E+04,1.474,3.49E-02,0,6rjemuZ8zBQIz36tbqrPd7,8.14E-01,4,0.133,-20.164,1,"24 Preludes, Op. 28: No. 9 in E Major",45,1/21/2000,0.062,78.458,3.62E-02,2000
+0.979,['Roy Rogers'],0.65,1.72E+05,2.867,2.02E-01,0,3FUL2VqnKPvpuRLvUQozn1,8.58E-04,4,0.071,-12.128,1,Don't Fence Me In,39,1/1/2000,0.045,138.223,8.44E-01,2000
+0.981,"['George Frideric Handel', 'Cecilia Bartoli', 'Academy of Ancient Music', 'Christopher Hogwood']",0.198,2.85E+05,4.756,6.64E-02,0,6xZGds6ClLaEPeyep1C8si,4.76E-03,4,0.129,-24.115,1,"Rinaldo, HWV 7a / Act 2: ""Lascia ch'io pianga""",48,10/16/2000,0.07,175.541,3.98E-02,2000
+0.96,['Howard Shore'],0.157,1.63E+05,2.712,1.24E-01,0,7i0nvZRGgVqymOsRbJvQmi,7.68E-01,3,0.088,-18.094,0,The Great River,46,11/19/2001,0.041,77.278,3.43E-02,2001
+0.958,['John Debney'],0.202,2.04E+05,3.399,9.29E-02,0,7qWIRNY83R89ZXJxjMqgIR,9.19E-01,5,0.121,-20.185,1,The Princess Diaries Medley - Score,41,1/1/2001,0.043,72.91,1.85E-01,2001
+0.991,['Yann Tiersen'],0.565,2.68E+05,4.462,5.59E-02,0,6FRQ4HYndOhM4OlVt0Ou3L,5.36E-01,10,0.081,-16.409,0,Le Moulin,37,4/23/2001,0.053,142.232,2.15E-01,2001
+0.953,['Rodrigo y Gabriela'],0.491,2.55E+05,4.249,2.99E-01,0,23jaacZ4V3mdoMJYWrDI3n,8.24E-01,9,0.122,-9.819,1,30 De Marzo,44,9/27/2002,0.043,108.336,1.02E-01,2002
+0.952,['John Williams'],0.581,1.26E+05,2.1,2.49E-02,0,4Fproek7uXgqMyUgCFJcWt,9.49E-01,2,0.166,-24.104,1,Gilderoy Lockhart,44,11/11/2002,0.038,93.356,2.45E-01,2002
+0.97,"[""Martin O'Donnell"", 'Michael Salvatori']",0.111,2.14E+05,3.56,1.98E-01,0,1fLPmjAfhHjHcO6t98HN9W,9.57E-01,4,0.222,-16.448,0,Opening Suite,43,6/11/2002,0.032,91.437,2.62E-02,2002
+0.966,['John Williams'],0.12,1.99E+05,3.319,4.56E-02,0,5yh0phgrkE0qQeWJs3x3hf,9.21E-01,6,0.113,-24.199,0,Fawkes Is Reborn,44,11/11/2002,0.038,89.648,3.93E-02,2002
+0.965,['Johnny Cash'],0.668,1.53E+05,2.545,5.34E-01,0,3NGzaY9pJjoMvP4gnnajGF,3.79E-02,5,0.109,-7.484,1,Devil's Right Hand,41,1/1/2003,0.049,150.866,9.60E-01,2003
+0.989,"['John Foxx', 'Harold Budd']",0.109,3.60E+05,5.995,4.59E-03,0,4Piypso6HAayTb3FwJIIaW,8.90E-01,9,0.08,-32.667,0,Subtext,46,8/25/2003,0.034,70.122,4.41E-02,2003
+0.99,['Philip Glass'],0.395,4.72E+05,7.864,9.97E-02,0,1NYElq76ajtGZWEOubEK8b,8.92E-01,5,0.088,-23.579,1,Orphée Suite - 6. Orphee's Return,44,2003-01,0.043,127.275,3.12E-02,2003
+0.983,"['Mormon Tabernacle Choir', 'Orchestra at Temple Square', 'Craig Jessop']",0.164,3.31E+05,5.523,2.06E-01,0,6BOgMI1pVONpiu2xkpMW2i,8.40E-01,10,0.172,-21.148,1,Consider the Lilies,40,5/6/2003,0.042,129.878,5.37E-02,2003
+0.957,['Alicia Keys'],0.535,2.32E+05,3.861,2.74E-01,0,3VdLjuOdBfFHQ2TTCY7zKw,1.82E-05,7,0.155,-9.405,1,If I Ain't Got You - Piano & Vocal Version,55,2/17/2004,0.043,118.363,4.64E-01,2004
+0.986,['Ludovico Einaudi'],0.385,2.34E+05,3.891,9.44E-02,0,1NNrdT3dU1hHmyVSLdV7JO,8.69E-01,8,0.099,-28.817,1,Dietro casa,43,2004,0.058,103.808,2.89E-02,2004
+0.951,"['Ennio Morricone', 'Yo-Yo Ma', 'Roma Sinfonietta']",0.089,2.12E+05,3.532,1.86E-01,0,4AmXnLqtS15Mq2cjrnru96,9.21E-01,4,0.096,-17.286,1,"Sergio Leone Suite: Deborah's Theme from ""Once Upon a Time in America""",44,2004,0.039,85.2,3.61E-02,2004
+0.996,['Joe Hisaishi'],0.411,7.18E+04,1.197,3.44E-02,0,3Lsdp3mbD27MjxvTeFm0v3,9.24E-01,7,0.118,-27.855,0,You're in Love,46,11/19/2004,0.089,83.027,1.84E-01,2004
+0.991,"['Wolfgang Amadeus Mozart', 'Marina Mescheriakova', 'Judith Halász', 'Michelle Breedt', 'Orsolya Safar', 'Gabriele Sima', 'Alexander Klinger', 'Michael Roider', 'Bo Skovhus', 'Peter Koves', 'Janusz Monarcha', 'Renato Girolami', 'Nicolaus Esterhazy Sinfonia', 'Michael Halasz']",0.322,1.66E+05,2.762,8.09E-02,0,0TTNwVdKcuH9ATbqugYEAq,2.43E-03,10,0.175,-20.253,1,"Le nozze di Figaro, K. 492, Act II No. 12: Arietta - Voi, che sapete",48,5/8/2004,0.052,117.537,9.47E-02,2004
+0.992,"['Johann Sebastian Bach', 'Alexandre Tharaud']",0.354,2.53E+05,4.224,3.22E-02,0,4a8dR8XKOBOMxUSr8UT58W,9.55E-01,2,0.104,-27.492,0,"Concerto en ré mineur, BWV 974: II. Adagio",50,2005,0.043,67.872,6.38E-02,2005
+0.99,['Jim Brickman'],0.453,2.60E+05,4.327,1.64E-01,0,77jdFbKeyVqhNn8BmgRzdV,8.84E-01,0,0.087,-15.722,1,Mary Poppins Medley,43,1/1/2005,0.045,129.941,2.28E-01,2005
+0.991,['Fred Mollin'],0.315,1.84E+05,3.07,4.87E-02,0,3qrMlhV4Re0GOv5PU7JfXD,9.51E-01,6,0.113,-21.113,1,Golden Slumbers/Over the Rainbow - Instrumental,44,1/1/2005,0.033,100.136,1.05E-01,2005
+0.986,['Fred Mollin'],0.184,2.47E+05,4.121,9.24E-02,0,3rB2bdrGTsyRuqapUeOMz1,9.16E-01,10,0.102,-16.866,1,Can You Feel the Love Tonight - Instrumental,44,1/1/2005,0.036,166.082,2.02E-01,2005
+0.976,['Sibylle Baier'],0.576,1.47E+05,2.444,9.41E-02,0,2JIVtls9Jf9nAosUbFzbyw,2.75E-04,5,0.109,-14.713,0,Tonight,49,1/1/2006,0.046,120.017,1.51E-01,2006
+0.968,['Sibylle Baier'],0.632,2.08E+05,3.468,1.40E-01,0,2ucFCqazVVhPKHDoaR73t8,2.22E-03,8,0.112,-14.665,1,I Lost Something in the Hills,49,1/1/2006,0.035,117.496,1.46E-01,2006
+0.961,['Fernando Ortega'],0.229,3.37E+05,5.619,1.58E-01,0,1I1ShJC4B0kwSa1XVKy3zc,3.23E-04,7,0.09,-12.428,0,Sing To Jesus,44,10/24/2006,0.033,96.022,1.22E-01,2006
+0.956,['Jeremy Soule'],0.067,2.82E+05,4.692,2.67E-02,0,4Qf4sunHJJz4581avJ07kX,9.47E-01,3,0.11,-25.469,0,Minstrel's Lament,45,3/20/2006,0.039,71.49,3.44E-02,2006
+0.963,"['Katherine Jenkins', 'Kiri Te Kanawa', 'Philharmonia Orchestra', 'Anthony Inglis']",0.32,2.31E+05,3.849,2.91E-01,0,11Er3qlX9yXQjhvHkmvcBD,4.57E-04,11,0.102,-12.972,1,"The Flower Duet (From ""Lakmé"")",53,1/1/2006,0.039,102.281,7.83E-02,2006
+0.96,['Slow Dancing Society'],0.556,3.75E+05,6.241,6.12E-02,0,0itMKInovica9ugQZRTx5p,9.03E-01,6,0.069,-24.556,1,A Song That Will Help You Remember to Forget,46,2006,0.044,150.09,1.84E-01,2006
+0.992,['Kelvin Mockingbird'],0.28,5.84E+05,9.732,2.25E-02,0,4YPnMiG3qbVhQv4gqHhpJ3,5.09E-01,4,0.093,-26.537,0,Awakening Of The Beauty Within,42,1/1/2006,0.043,68.081,9.19E-02,2006
+0.97,['Raffi'],0.74,7.24E+04,1.207,1.07E-01,0,4qehtoeLFnk44kfO3m4LBQ,5.91E-02,0,0.164,-15.48,1,"Twinkle, Twinkle, Little Star",39,1/1/2006,0.033,97.802,6.27E-01,2006
+0.971,"['Jean Sibelius', 'Jian Wang', 'Göran Söllscher']",0.425,1.69E+05,2.813,3.33E-02,0,4KEiSfnnR70F0Iz5Y9Hh3Y,9.00E-01,7,0.106,-28.34,0,"13 Pieces for Piano, Op.76: 2. Etude",52,1/1/2007,0.039,122.039,4.77E-01,2007
+0.989,"['John K. Almeida', 'John K. Almeida Orchestra', 'Benny Rogers', 'Hawaiian Steel Guitar']",0.524,2.43E+05,4.057,1.06E-01,0,7ddIIzmPVOs4s0yg6n4hzb,9.29E-01,7,0.11,-17.024,1,Hawaiian Hula Dance - Instrumental,44,9/1/2008,0.053,131.468,6.34E-01,2008
+0.988,['Ashana'],0.169,5.14E+05,8.574,9.76E-02,0,3ghTZXvEH9V7ZEsaWc8QA3,9.76E-01,0,0.102,-18.291,1,Heart of Gaia,51,1/1/2009,0.044,75.664,2.49E-02,2009
+0.955,['Scripture Lullabies'],0.208,2.65E+05,4.414,1.49E-01,0,4IVb3KoePQ2Lc0f14yhzwC,5.19E-04,0,0.109,-14.437,1,Seek Ye First,43,11/21/2009,0.033,134.832,7.40E-02,2009
+0.982,['Nicholas Hooper'],0.283,1.21E+05,2.013,5.75E-02,0,2FnHMItLWhhPIxXeRC1lCe,9.52E-01,0,0.115,-29.881,0,In Noctem,50,7/14/2009,0.044,63.853,3.62E-02,2009
+0.975,['Sounds for Life'],0.153,4.270e+06            7,1.167,7.92E-02,0,605JTCltCe1IcqrGXQ294K,1.00E+00,10,0.113,-23.962,0,Brown Noise for Sleep,42,3/15/2009,0.125,132.904,5.37E-04,2009
+0.992,['Helios'],0.241,1.55E+05,2.579,1.52E-02,0,4xxIMjx6sNmRgJx7fJ7ihg,9.22E-01,0,0.111,-23.109,1,Emancipation,47,1/16/2009,0.04,73.218,8.39E-02,2009
+0.977,"['Pyotr Ilyich Tchaikovsky', 'Sir Simon Rattle', 'Berliner Philharmoniker']",0.442,1.46E+05,2.427,1.16E-01,0,06am46cX3Z6YlSsg0TyVHA,8.68E-01,4,0.086,-23.172,0,"Tchaikovsky: The Nutcracker - Ballet, Op. 71, Act 1: No. 2 March",51,10/11/2010,0.041,151.064,5.11E-01,2010
+0.99,['Yiruma'],0.557,3.00E+05,5.007,9.58E-02,0,4qto2kJITIHyE086P4WtkU,8.72E-01,8,0.145,-18.457,1,Kiss the Rain,56,12/9/2011,0.054,112.819,2.02E-01,2011
+0.953,['Jeremy Soule'],0.107,2.26E+05,3.768,2.10E-01,0,1l7bKxkdTymsFbxWzsK3vw,8.17E-01,7,0.281,-18.282,0,The City Gates,52,1/31/2013,0.039,91.227,3.88E-02,2013
+0.979,['Glee Cast'],0.37,1.95E+05,3.257,1.20E-01,0,4Vbwap6K56bB5sYnBBD6GY,1.54E-03,10,0.082,-12.637,1,Make You Feel My Love (Glee Cast Version),55,10/15/2013,0.034,77.404,1.90E-01,2013
+0.968,['Brown Owl Plays'],0.51,1.32E+05,2.194,9.36E-02,0,570PQwK8DJ0LgpomYlBTj0,3.44E-06,4,0.105,-13.742,1,Baa Baa Black Sheep,55,12/23/2014,0.051,80.866,2.60E-01,2014
+0.97,['Michael Cera'],0.292,1.86E+05,3.1,2.41E-01,0,0XgRWgcs0Pcr9PSIdFWD4N,9.89E-03,6,0.105,-17.001,1,Clay Pigeons,50,8/14/2014,0.043,172.175,4.41E-01,2014
+0.955,['Jack Johnson'],0.662,2.00E+05,3.339,4.02E-01,0,1vL5bZNsFWVYED96IgWEIM,2.02E-02,0,0.257,-8.503,1,Seasick Dream,57,12/1/2015,0.041,116.296,4.03E-01,2015
+0.991,"['Gabriel Fauré', 'Yo-Yo Ma']",0.187,1.60E+05,2.67,3.06E-02,0,05yzhEWkmVXiigqWfcNTQS,9.68E-01,5,0.098,-27.399,0,"Après un rêve, Op. 7, No. 1",57,9/18/2015,0.04,96.639,3.60E-02,2015
+0.987,['Aisha Badru'],0.484,1.53E+05,2.549,1.49E-01,0,6sFLeTTehG9M2nmZ3jKJ1p,8.11E-03,0,0.111,-14.991,1,Waiting Around - Acoustic,58,3/10/2015,0.037,144.589,1.23E-01,2015
+0.987,['Ari Naman'],0.401,9.68E+04,1.614,6.41E-03,0,230wJHD5YU7cSDWjyWWcoD,9.04E-01,5,0.106,-24.556,0,Becoming Aware,60,11/2/2016,0.046,69.241,3.03E-01,2016
+0.966,['Sleeping At Last'],0.513,1.93E+05,3.21,1.83E-01,0,0dDdc2ugBXcZkO00xvR6wZ,0.00E+00,2,0.327,-10.249,1,Rainbow Connection,57,11/4/2016,0.041,107.18,2.66E-01,2016
+0.994,['Michael Penny'],0.298,1.90E+05,3.162,3.70E-03,0,3mBy5mXHvUJ7sRr9Bz7zK9,9.32E-01,4,0.102,-30.052,1,Nocturne,63,5/11/2017,0.039,70.806,1.34E-01,2017
+0.996,['Michael Penny'],0.639,1.14E+05,1.893,2.91E-02,0,4SZbG1h04TXi6e9JOyjY1z,9.70E-01,1,0.101,-27.109,1,Ida's Summer Song,64,5/11/2017,0.065,74.673,4.30E-01,2017
+0.994,['Elskavon'],0.249,1.55E+05,2.587,2.48E-03,0,5hAsWMGQXBjDjYMoIlP9Ak,9.31E-01,2,0.118,-30.501,1,Soft Night,66,8/10/2018,0.036,73.601,7.88E-02,2018
+0.992,['Julius Aston'],0.268,1.74E+05,2.895,5.80E-03,0,2pypBNUUzViaP7Dswi9zpF,9.29E-01,10,0.124,-31.607,1,A Clear Mind,65,5/8/2018,0.047,69.709,1.26E-01,2018
+0.964,['Joji'],0.577,1.26E+05,2.105,3.87E-01,1,0baNzeUcPQnQSagpe8T0mD,7.05E-01,7,0.208,-8.607,1,worldstar money (interlude),62,2/14/2018,0.274,146.565,4.59E-01,2018
+0.969,['Floriscope'],0.419,1.75E+05,2.918,1.68E-02,0,45HRj3YdVgAOLbkSRiJ4l3,9.39E-01,0,0.111,-26.478,0,Floriscope,65,11/25/2018,0.038,63.238,2.78E-01,2018
+0.953,['Adam Melchor'],0.493,2.16E+05,3.6,2.84E-01,0,2VvTMIXG760UiG9OSiFt9j,7.39E-03,2,0.151,-12.815,1,Real Estate,63,12/4/2018,0.031,79.959,1.99E-01,2018
+0.992,['Oliver Évilo'],0.21,1.78E+05,2.973,3.85E-03,0,1tQKUYjY3h950XByYm0ZAf,9.50E-01,9,0.074,-37.141,0,Jupiter Sunrise,66,10/29/2019,0.035,107.116,1.14E-01,2019
+0.971,['S.A. Karl'],0.127,2.16E+05,3.602,8.15E-02,0,2BNIB51vC5Xf4s14N57VTH,9.56E-01,9,0.105,-21.016,1,Wren,64,8/9/2019,0.04,75.115,5.35E-02,2019
+0.992,['Clifford Solum'],0.196,1.91E+05,3.188,2.70E-02,0,45nNKzH7nKMfyFhUUqdyGY,7.99E-01,7,0.102,-29.634,1,Decumbent,63,12/13/2019,0.049,133.866,3.59E-02,2019
+0.986,['Steve Mokwebe'],0.326,1.30E+05,2.17,8.91E-03,0,6RMjZgsE9IcQZqubTzLtDs,9.34E-01,0,0.111,-24.103,1,It Ends with Us,66,1/2/2019,0.052,69.79,2.99E-01,2019
+0.96,['Devansh Tushar'],0.163,1.79E+05,2.98,1.45E-02,0,1khJhtT78fpUbjiZCH1rLV,9.51E-01,2,0.092,-29.973,1,Endless Nights,63,6/14/2019,0.051,131.103,3.90E-02,2019
+0.967,['Boxout'],0.497,8.08E+04,1.347,3.49E-01,0,7gZDMiW9u6N3UIgBzbdUFU,3.70E-02,9,0.228,-8.749,0,I Just Want to Be the One You Love,65,6/14/2019,0.088,140.551,2.51E-01,2019
+0.996,['Elsa Greeve'],0.212,1.77E+05,2.954,7.49E-03,0,4CVtPhfKMyA8ST6ZQhJvZY,9.31E-01,2,0.076,-29.575,0,Catastrophically in love with you,67,10/11/2019,0.035,71.061,9.85E-02,2019
+0.968,['Intentional Vibes'],0.08,2.26E+05,3.773,3.20E-02,0,37bWNUTzhM1DvYyOEXY0rC,9.77E-01,5,0.364,-28.533,1,...There You Are!,64,2/21/2019,0.046,62.399,7.15E-02,2019
+0.988,['Donald Beaudoin'],0.067,1.93E+05,3.208,3.46E-02,0,1nIVZg8EmaIZD5FuJ5nOuw,9.39E-01,7,0.122,-29.992,1,Boötes,62,9/27/2019,0.053,71.583,3.95E-02,2019
+0.963,['Yonder Dale'],0.142,1.63E+05,2.71,4.12E-02,0,63yQS5uf762DJHLssPlrNw,8.13E-01,8,0.129,-22.866,1,Tidal Flow,68,11/8/2019,0.047,67.3,3.69E-02,2019
+0.987,['Leah Day'],0.186,1.78E+05,2.967,1.13E-02,0,6JMuZsTQprhBrbywStSwer,9.63E-01,10,0.1,-36.853,0,Snowdonia,66,10/18/2019,0.039,64.657,1.54E-01,2019
+0.995,['Andrew Witzinger'],0.669,1.17E+05,1.947,2.52E-02,0,47hPOcAbwkZJLRK5XFZouA,9.60E-01,7,0.097,-25.674,1,Rockabye Baby,68,2/13/2020,0.104,131.293,8.28E-01,2020
+0.993,['Stephan Moccio'],0.458,1.71E+05,2.854,7.01E-03,0,3pJnfyKoVePwVmljB6Wun1,9.48E-01,8,0.102,-34.755,1,Sea Change,68,5/15/2020,0.044,118.444,9.39E-02,2020
+0.977,['Yonatan Awate'],0.204,1.62E+05,2.692,9.88E-03,0,6CtgSHDxivSLqi4vjYCUs8,7.54E-01,7,0.097,-33.749,1,Continuation,68,2/7/2020,0.043,69.683,7.46E-02,2020
+0.984,"['Lisa Gerrard', 'Gavin Greenaway', 'The Lyndhurst Orchestra']",0.25,6.33E+04,1.054,3.39E-02,0,0t8BbIcYYG0aICc1YEPWdd,8.56E-01,2,0.104,-33.147,1,The Wheat,42,4/25/2000,0.036,84.191,7.42E-02,2000
+0.958,"['Jerry Bryant', 'Starboard Mess']",0.618,1.92E+05,3.205,9.78E-02,0,7w7B0C7kT6CWLPGb0i4ArG,0.00E+00,1,0.297,-15.391,1,Don't Forget Your Old Shipmate,38,2000,0.315,173.951,5.87E-01,2000
+0.978,['Bob Myers'],0.251,1.76E+05,2.938,3.21E-01,0,30gRmzQoIlLxWwJcXYFFaN,9.01E-01,5,0.069,-8.18,1,What a Friend We Have in Jesus,37,6/1/2001,0.03,91.447,2.08E-01,2001
+0.994,['Yiruma'],0.434,1.32E+05,2.207,8.72E-02,0,09shqcvMsLb6qDNtf9fdAd,9.38E-01,0,0.081,-23.049,1,Dream A Little Dream Of Me,44,11/27/2001,0.045,78.282,6.95E-02,2001
+0.965,['Vienna Teng'],0.633,2.34E+05,3.891,1.43E-01,0,6anScmEgi2LUoGRD9PpFVu,1.11E-05,11,0.109,-15.375,1,Lullabye for a Stormy Night,39,11/5/2002,0.037,114.131,3.82E-01,2002
+0.995,"['Erik Satie', 'Jean-Yves Thibaudet']",0.371,2.75E+05,4.576,2.46E-03,0,5SZ47jchNPq4i4dhpcNPdA,9.63E-01,5,0.089,-31.159,0,Gnossiennes: No. 1 - Lent,46,1/1/2002,0.057,73.543,1.63E-01,2002
+0.973,['The Red Army Choir'],0.444,1.62E+05,2.692,5.72E-01,0,3TWlCopR57fPQ0Tgn6LOlB,0.00E+00,4,0.358,-7.24,0,The Red Army Is The Strongest,36,6/25/2002,0.041,111.655,5.44E-01,2002
+0.973,['Enaid'],0.148,2.81E+05,4.674,3.16E-01,0,4FZqRi5EvjdMooumrDukbk,7.51E-01,5,0.184,-11.847,1,The Spirit of Excalibur,43,2/19/2002,0.036,83.875,5.92E-02,2002
+0.992,"['Howard Shore', 'Renée Fleming']",0.123,1.44E+05,2.396,1.50E-02,0,5r04nCsGXiTBsyd0yBys7j,7.06E-01,0,0.1,-25.37,1,The Eagles (feat. Renée Fleming),45,11/24/2003,0.044,96.838,3.65E-02,2003
+0.966,['Thomas Newman'],0.275,5.75E+04,0.959,1.15E-01,0,099QlSujdXkd9DCwAh2fgX,9.60E-01,2,0.1,-18.861,1,Field Trip,42,5/20/2003,0.035,85.497,1.55E-01,2003
+0.972,['Howard Shore'],0.241,8.43E+04,1.405,1.15E-02,0,6BEkaQDf8HOBD8woRzSmIH,6.62E-01,9,0.085,-33.576,0,Éowyn's Dream,45,11/24/2003,0.041,59.353,3.74E-02,2003
+0.992,"['Wolfgang Amadeus Mozart', 'Alfred Brendel']",0.292,4.94E+05,8.233,1.40E-01,0,58VVEDJ8NK12UqV0bApBzn,9.10E-01,5,0.1,-22.971,1,"Piano Sonata No.15 In F, K.533/494: 1. Allegro, K.533 - 2002 Recording",47,1/1/2003,0.036,85.169,4.43E-01,2003
+0.97,"['Mormon Tabernacle Choir', 'Orchestra at Temple Square', 'Craig Jessop']",0.102,2.11E+05,3.517,2.22E-01,0,6szVwCHjicg6tQktCvFwmZ,8.83E-01,11,0.287,-18.013,1,For the Beauty of the Earth,39,5/6/2003,0.039,90.408,1.52E-01,2003
+0.953,"['Ludwig van Beethoven', 'Sir Simon Rattle', 'Wiener Philharmoniker']",0.389,2.12E+05,3.527,1.22E-01,0,4ySqdQH0bhSzuGbBjeJrQm,4.89E-01,2,0.054,-22.312,1,"Beethoven: Symphony No. 2 in D Major, Op. 36: III. Scherzo. Allegro",45,2003,0.045,153.201,5.86E-01,2003
+0.994,"['Maurice Ravel', 'Alexandre Tharaud']",0.275,3.43E+05,5.711,3.60E-03,0,7MjEk3ha3TdVVfeYryOIAq,9.36E-01,4,0.065,-32.675,0,Pavane pour une infante défunte,44,2003,0.059,62.969,1.54E-01,2003
+0.964,['Susumu Yokota'],0.515,2.39E+05,3.984,4.85E-01,0,0PH2KcNZfDYIPGDVjuzxGW,8.23E-01,10,0.115,-11.303,0,blue sky and yellow sunflower,44,10/27/2004,0.032,91.185,2.00E-01,2004
+0.985,"['Ennio Morricone', 'Yo-Yo Ma', 'Roma Sinfonietta']",0.163,1.09E+05,1.816,1.44E-01,0,393qU26zNVIQNzdBxWQPek,8.80E-01,2,0.113,-17.159,1,"Giuseppe Tornatore Suite: Playing Love from ""The Legend of 1900""",43,2004,0.038,80.402,7.22E-02,2004
+0.991,"['Scott Joplin', 'Alexander Peskanov']",0.406,1.90E+05,3.165,2.26E-01,0,4AE032Y0x1WPOi5CsmggnU,8.82E-01,8,0.245,-22.866,1,Maple Leaf Rag,44,7/28/2004,0.048,116.267,9.37E-01,2004
+0.982,['Jon Brion'],0.498,6.26E+04,1.043,3.77E-01,0,7LYeytL8R2fuqnsW1s0k86,9.38E-01,1,0.107,-19.858,1,Phone Call - Score,43,1/1/2004,0.047,126.252,5.45E-01,2004
+0.992,"['John Cage', 'Herbert Henck']",0.208,7.682e+05            1,2.803,6.43E-03,0,3OzNi0pIuKw2TislAAD83I,9.35E-01,2,0.085,-44.347,0,In A Landscape,46,6/6/2005,0.043,66.289,4.76E-01,2005
+0.954,['Daniel Lanois'],0.371,1.12E+05,1.862,6.89E-02,0,0MPgkoIlmnaSH5VYDMpSNe,9.12E-01,2,0.116,-23.376,1,Desert Rose,44,7/12/2005,0.035,138.599,1.29E-01,2005
+0.96,['Elizabeth Mitchell'],0.487,1.48E+05,2.47,2.23E-01,0,5mdDzJBkQ7Gz7ePDCB397w,7.11E-03,0,0.121,-17.7,0,"Little Bird, Little Bird",43,8/29/2006,0.367,175.357,6.41E-01,2006
+0.98,['Steven Sharp Nelson'],0.145,4.93E+05,8.209,1.23E-01,0,26mv7c5urNef5nPsSnavq3,9.32E-01,1,0.084,-18.949,1,Clair De Lune,43,1/1/2006,0.041,61.782,3.79E-02,2006
+0.989,"['Wolfgang Amadeus Mozart', 'Imogen Cooper', 'Royal Northern Sinfonia']",0.208,4.18E+05,6.961,1.33E-02,0,7ogqidU5KkUWxRDgWwRkVt,9.19E-01,6,0.234,-28.633,0,Concerto for Piano and Orchestra No. 23 in A major: II. Adagio,50,10/1/2006,0.036,85.135,3.97E-02,2006
+0.964,['Jim Sturgess'],0.327,6.43E+04,1.072,9.86E-02,0,3jzzpIMxy4AqdjuJyARWKc,0.00E+00,0,0.091,-14.667,1,Girl,44,1/1/2007,0.047,74.851,2.72E-01,2007
+0.968,['Evan Rachel Wood'],0.474,1.57E+05,2.614,6.63E-02,0,0gd3hRBQAEAw096YOcUrmR,4.73E-06,7,0.142,-17.908,1,If I Fell,44,1/1/2007,0.035,79.217,1.10E-01,2007
+0.99,['David Tolk'],0.317,1.94E+05,3.228,1.41E-01,0,5QUMpl8wzwAe38sytydjpR,8.83E-01,2,0.102,-16.251,1,Grace,45,1/1/2008,0.037,123.534,2.28E-01,2008
+0.961,"['Dean Evenson', 'Jonathan Kramer', 'Scott Huckabay']",0.274,4.52E+05,7.537,1.19E-01,0,0I6tw6cWhpgkofPOkOzvDN,9.77E-01,2,0.112,-21.896,0,Sacral Chakra - Creative Union,48,6/10/2008,0.031,59.786,5.52E-02,2008
+0.958,"['Deepak Chopra', 'Adam Plack']",0.531,1.32E+05,2.199,1.14E-01,0,1rXs2fgby8yhqUEW9tLk0H,1.59E-03,0,0.115,-20.792,1,Acceptance,46,10/7/2008,0.118,80.418,1.47E-01,2008
+0.995,"['Johann Sebastian Bach', 'Anne Queffélec']",0.298,2.10E+05,3.493,3.57E-02,0,0p6eXDSAFhKm9CB192DLeB,8.64E-01,7,0.123,-31.271,1,"Choral ""Jesu, meine Freude"" de la Cantate ""Herz und Mund Tat und Leben"" en sol majeur, BWV 147",52,1/27/2009,0.04,67.197,4.25E-01,2009
+0.979,['Scripture Lullabies'],0.462,1.71E+05,2.844,8.93E-02,0,2bweRNFhi8M6fkVPBAPF5X,7.65E-01,5,0.103,-17.761,1,Precious Life (Instrumental),43,11/21/2009,0.032,98.001,1.11E-01,2009
+0.98,['Alexandre Desplat'],0.151,1.04E+05,1.731,1.40E-02,0,25XuCuq4K715NKLOohw7ZM,9.47E-01,2,0.093,-33.439,0,Harry and Ginny,42,11/23/2010,0.043,66.96,3.86E-02,2010
+0.993,['Bon Iver'],0.17,9.34E+04,1.556,2.19E-02,0,159ld20LzWoNcdk5HmPjjW,9.17E-01,4,0.087,-26.439,1,"Lisbon, OH",46,6/21/2011,0.041,69.827,3.46E-02,2011
+0.99,['Brian Crain'],0.314,2.52E+05,4.199,3.52E-02,0,4YZwWfva9YsKx2Xoo5eCBK,8.54E-01,7,0.088,-24.861,1,Hallelujah,48,2/17/2011,0.035,92.556,7.57E-02,2011
+0.965,"['Marcus Gilmore', 'Danny Grissett', 'Vicente Archer']",0.445,3.97E+05,6.609,9.78E-02,0,75A0vJQiBzAxkC7pMjoSeX,9.15E-01,3,0.121,-26.924,1,Two Sleepy People,50,6/6/2011,0.04,117.283,1.73E-01,2011
+0.995,['Thad Fiscella'],0.356,2.56E+05,4.263,7.07E-02,0,6kLpYUjZQ1BNCxTTvJxrTd,9.42E-01,1,0.123,-19.375,1,Annie's Song,51,8/21/2012,0.069,195.181,1.76E-01,2012
+0.952,['Christophe Beck'],0.254,1.64E+05,2.726,1.73E-01,0,7sKChFvViJZ6FzQZwCuPqZ,5.29E-01,10,0.043,-20.266,1,"Elsa and Anna - From ""Frozen""/Score",49,1/1/2013,0.049,97.934,1.30E-01,2013
+0.97,['Jasmine Thompson'],0.479,2.63E+05,4.376,1.89E-01,0,5lUbIsKvBfML00F1UNV1i2,0.00E+00,0,0.095,-10.036,1,Almost Lover,52,9/6/2013,0.046,116.735,2.62E-01,2013
+0.98,['Jeremy Soule'],0.06,2.33E+05,3.881,8.98E-02,0,3wnSHCMTtD1fxwOzTc5Gdh,9.19E-01,4,0.093,-22.09,0,Distant Horizons,51,1/31/2013,0.042,52.07,3.47E-02,2013
+0.958,['Imaginary Future'],0.643,2.10E+05,3.503,1.17E-01,0,6r44uyKRo3jKFRkThTZBXu,3.42E-04,3,0.108,-13.048,1,I Knew This Would Be Love,54,5/14/2013,0.035,120.611,5.01E-01,2013
+0.966,['Jeremy Soule'],0.168,2.06E+05,3.439,1.60E-01,0,1BRtrNXFD8RrlsHfo61PS7,9.53E-01,4,0.108,-20.899,0,Frostfall,51,1/31/2013,0.04,131.471,3.04E-02,2013
+0.994,['Joep Beving'],0.312,1.52E+05,2.533,2.68E-02,0,6c7uYlmHJtZPnenPjqG7Ir,8.85E-01,7,0.107,-26.537,0,Sleeping Lotus,59,3/1/2015,0.037,68.524,1.88E-01,2015
+0.994,['Teen Suicide'],0.357,1.52E+05,2.536,2.81E-01,0,6htie60haocR56p0SIYqFG,8.44E-01,5,0.273,-12.809,1,"no, the moon",55,10/7/2015,0.031,107.295,2.12E-01,2015
+0.977,['Baby Lullaby Academy'],0.282,1.07E+05,1.789,4.46E-01,0,0VRGvi1QvvaamcL9ZefjRK,8.94E-01,7,0.138,-17.943,1,Rock a Bye Baby with Relaxing Ocean Waves for Baby Sleep,58,5/14/2015,0.083,86.368,1.51E-01,2015
+0.976,['Baby Lullaby Academy'],0.394,1.09E+05,1.809,3.80E-02,0,3qjtWuQbKnLt1nd6N1lD0Q,9.55E-01,0,0.082,-21.753,1,Calm Music for Baby with Relaxing Sounds of Ocean Waves,58,5/14/2015,0.056,99.32,4.24E-01,2015
+0.958,['Mandolin Orange'],0.512,2.12E+05,3.528,3.68E-01,0,2e9FxyGISHtOxXdKHTw8QP,1.57E-02,7,0.061,-12.328,1,Echo (Recorded at Spotify Studios NYC),54,2016,0.043,181.676,6.12E-01,2016
+0.987,"['Ólafur Arnalds', 'Nils Frahm']",0.359,3.55E+05,5.916,2.24E-02,0,7vbCfkJf89i4s745KbELgr,8.66E-01,3,0.111,-29.089,1,20:17,60,3/4/2016,0.039,107.849,1.69E-01,2016
+0.959,"['Tyler, The Creator']",0.552,3.62E+04,0.603,4.15E-01,1,4KgTrzmfiWNcVneh2Dd1Ou,2.39E-04,3,0.164,-11.996,1,Sometimes...,60,7/21/2017,0.045,72.862,3.60E-01,2017
+0.96,['Louie Zong'],0.707,6.00E+04,1,2.34E-01,0,4MVk79dmYqi7HQs0bMgboy,8.61E-01,7,0.124,-16.523,1,Ghost Duet,60,10/31/2017,0.086,78.036,6.11E-01,2017
+0.989,['Moon Laika'],0.279,1.06E+05,1.772,6.39E-03,0,6LnG3cueIxb0SpZP3AfdUw,8.38E-01,0,0.109,-32.406,1,Triangle,62,6/27/2017,0.038,68.484,1.75E-01,2017
+0.983,['John Mayer'],0.538,1.90E+05,3.167,1.31E-01,0,51lPx6ZCSalL2kvSrDUyJc,5.22E-03,7,0.156,-14.104,1,You're Gonna Live Forever in Me,64,4/14/2017,0.032,136.149,3.20E-01,2017
+0.993,['Józef Gatysik'],0.322,1.61E+05,2.682,1.21E-02,0,01T3AjynqSMVfiAQCAfrKJ,9.27E-01,5,0.127,-31.994,1,Evolutionistically Yours,62,2/7/2017,0.049,112.464,1.18E-01,2017
+0.992,['Benjamin Gustafsson'],0.289,1.61E+05,2.684,2.90E-02,0,3ruGcz1vh9wdcLJ7IF4ek2,9.06E-01,1,0.133,-31.863,1,Dormiveglia,61,11/17/2017,0.029,66.942,4.00E-01,2017
+0.994,['Max Richter'],0.518,1.42E+05,2.358,7.83E-03,0,77O9eTcQpYwCnANBQHjGDQ,9.57E-01,0,0.111,-30.163,0,Lamentation For A Lost Life,62,9/15/2017,0.047,74.609,5.10E-02,2017
+0.994,['Joel Lyssarides'],0.23,1.36E+05,2.258,2.74E-02,0,4rcbkYwipgC6L1GQzPhZoK,9.33E-01,8,0.099,-29.02,0,Silent Agreement,65,8/24/2018,0.045,68.028,3.94E-02,2018
+0.995,['Novo Talos'],0.321,1.43E+05,2.388,2.58E-02,0,7KWhxUrK9ofPTn3ItWceR5,9.15E-01,1,0.137,-27.129,1,For the Love of Love,64,9/24/2018,0.045,67.535,2.55E-01,2018
+0.995,['Agni Bjark'],0.257,1.38E+05,2.296,6.28E-02,0,6p1DiRU5INxaJPVlhRk8Xd,9.18E-01,5,0.106,-22.921,1,Leaves,65,10/19/2018,0.039,167.417,3.42E-01,2018
+0.994,['Ferdinando Zetticci'],0.224,2.06E+05,3.433,1.38E-02,0,2Ud0BKOtLvXRFXXE6ikCKn,9.04E-01,10,0.105,-30.011,0,Sonnambulismo,67,9/27/2019,0.037,60.584,8.63E-02,2019
+0.976,['Tuva Meyer'],0.169,1.78E+05,2.971,7.35E-02,0,6L1sKb2kv74gPGUpjkybTO,9.69E-01,9,0.103,-26.106,1,Dream about me,62,11/22/2019,0.044,127.959,4.34E-02,2019
+0.987,['Vas Bela'],0.201,1.52E+05,2.533,2.72E-03,0,2qHGPanT2ux9hwZDbmPr8t,8.79E-01,10,0.116,-35.169,1,Éjszakai,68,6/22/2019,0.041,68.22,9.92E-02,2019
+0.957,"['FKJ', 'Bas']",0.761,2.39E+05,3.981,3.59E-01,0,2QDFsehUg5Fui2LOVpCw3Q,1.43E-04,7,0.147,-12.326,1,Risk,60,11/5/2019,0.07,103.069,5.05E-01,2019
+0.992,['Tejal Yann'],0.157,2.71E+05,4.521,1.51E-01,0,211l6gKeErP58kN2gvzuQZ,9.69E-01,4,0.17,-24.236,1,Cosmos,64,4/30/2019,0.042,62.781,3.79E-02,2019
+0.995,['Matilda Charpie'],0.243,1.54E+05,2.567,6.04E-03,0,7fjl8fmaUdRWNstdzGHCeF,9.72E-01,7,0.159,-31.018,1,Fermez vos yeux,68,10/25/2019,0.041,134.33,6.72E-02,2019
+0.978,['Eva Slott'],0.422,1.40E+05,2.327,3.32E-02,0,3Rs7eZ7c0N5NwNvGBMD4Va,8.86E-01,0,0.103,-24.949,1,Serenity,67,9/10/2019,0.038,97.871,5.00E-02,2019
+0.959,['The Lay-Backs'],0.13,2.25E+05,3.745,4.79E-02,0,2NhZaJOYL4MHhuh3hhCH4e,9.52E-01,0,0.095,-25.695,1,Laborers Lake,61,6/3/2019,0.048,84.791,3.02E-02,2019
+0.993,['Phillipp Vogler'],0.143,2.19E+05,3.642,6.79E-03,0,775dmuIRQojrplsns8VKen,9.25E-01,10,0.115,-30.543,0,Schwebend,67,8/4/2019,0.039,62.001,6.24E-02,2019
+0.968,['Syntropy'],0.158,1.75E+05,2.918,5.30E-02,0,1RMuWWLRYeJvvPgnwaW3Tt,9.84E-01,5,0.147,-28.051,1,Samadhi (Alpha 10 hz),62,12/13/2019,0.038,132.642,3.18E-02,2019
+0.956,['Delle Alpi'],0.261,1.58E+05,2.64,2.57E-02,0,6nx6oC4HgnZOxC4dgsPiIU,8.78E-01,1,0.111,-25.711,1,Falling Stars,68,9/12/2019,0.041,72.323,7.95E-02,2019
+0.958,['Spheres'],0.115,2.01E+05,3.35,6.64E-02,0,1WYZio6NAhl2ykJs2jBXuO,9.24E-01,1,0.082,-26.363,1,Frangibility,67,8/22/2019,0.041,159.506,3.80E-02,2019
+0.995,"['Johann Sebastian Bach', 'Lucas Jussen', 'Arthur Jussen']",0.402,8.80E+04,1.467,1.44E-02,0,6F0mBVGUg6BsjPBxppZY3B,8.54E-01,9,0.067,-29.837,0,"Orgelbüchlein - Arr. For Piano Four Hands by György Kurtág: Nun komm’ der Heiden Heiland, BWV 599",0,6/6/2020,0.048,61.184,1.47E-01,2020
+0.995,['Claribel Ramón'],0.309,1.56E+05,2.592,8.50E-02,0,7iw3S9vmaQYrdp9fUh4gzC,9.64E-01,5,0.09,-23.526,1,Con el tiempo todo se consigue,69,4/17/2020,0.069,205.094,2.06E-01,2020
+0.996,['Zachary Patel'],0.399,1.43E+05,2.383,6.53E-02,0,0E97LEEOz5rk6wAJr6rNI3,9.55E-01,4,0.105,-28.599,0,Bartram's Garden,67,3/20/2020,0.069,67.465,3.30E-01,2020
+0.991,['Stephan Moccio'],0.215,1.95E+05,3.254,2.23E-02,0,7JVjcxfs9CG6Ozlmibdrkl,9.22E-01,7,0.105,-28.528,0,Whitby,68,5/1/2020,0.043,166.528,2.53E-01,2020
+0.956,['Alicia Keys'],0.41,2.31E+05,3.842,3.74E-01,0,3H68NURFkJOaG0woWCK2sL,5.65E-04,8,0.089,-5.933,1,Good Job,67,4/23/2020,0.037,179.315,3.95E-01,2020
+0.993,['Clyde Boudreaux'],0.133,1.52E+05,2.529,5.12E-03,0,0kKOC50fPTnqmrYvtJInsT,8.51E-01,9,0.095,-33.295,1,Nepenthe,68,1/31/2020,0.038,67.818,4.95E-02,2020
+0.995,['Joep Beving'],0.342,2.26E+05,3.764,3.11E-02,0,21UkknmSYISvDaQbaMIOgq,9.20E-01,9,0.131,-26.999,1,Solitude,67,4/17/2020,0.035,97.622,6.34E-02,2020
+0.994,['Amity Fall'],0.485,1.52E+05,2.524,3.03E-02,0,5EOANVSfg3dX4zE4Askrau,9.35E-01,7,0.111,-27.835,1,Duende,68,4/24/2020,0.043,111.785,8.48E-02,2020
+0.959,['Lara Fabian'],0.156,3.15E+05,5.254,2.79E-01,0,6embXV2TNlwiP0lrVsiwLa,7.81E-03,0,0.117,-10.108,1,Broken Vow,50,5/26/2000,0.04,72.555,1.42E-01,2000
+0.98,"['Dean Evenson', 'Li Xiangting']",0.209,4.06E+05,6.766,1.77E-01,0,63u4EIXqAjfSCO1d2zCRS2,9.57E-01,2,0.087,-16.63,0,Gentle Season,40,3/29/2000,0.04,141.98,1.05E-01,2000
+0.993,['David Bauer'],0.486,2.18E+05,3.638,3.10E-02,0,6UZAtyex2izYCmD9a3vQmn,9.43E-01,8,0.097,-21.026,1,Quiet Moments,41,2000,0.065,134.931,2.06E-01,2000
+0.962,['John Tesh'],0.282,1.82E+05,3.033,1.95E-01,0,1YvfddO5B4IAbE83XzkQeg,8.82E-01,9,0.103,-11.952,1,"Brian's Song (From ""Brian's Song"")",39,4/18/2000,0.028,72.498,1.37E-01,2000
+0.958,['Doc Watson'],0.461,1.62E+05,2.694,1.27E-01,0,7MjYIqk3plWn2CHz9SFozd,2.58E-04,2,0.691,-18.864,1,The Riddle Song,38,4/5/2000,0.032,139.921,5.30E-01,2000
+0.98,"['Dan Evmark', 'Paula Gustafsson', 'Gothenburg Symphony Orchestra, members']",0.365,3.39E+05,5.643,8.93E-02,0,6v0zFoBkuLjThZCymM9CF3,9.10E-01,0,0.111,-19.303,1,Desir,40,1/1/2000,0.039,127.511,9.61E-02,2000
+0.964,['Mississippi John Hurt'],0.611,2.28E+05,3.796,7.85E-02,0,16GdiwewBf99MhUSVsxUBe,1.40E-04,9,0.09,-20.543,1,Coffee Blues,40,2000,0.05,104.233,7.63E-01,2000
+0.977,"[""Patrick O'Hearn""]",0.099,5.31E+05,8.847,1.20E-02,0,7ocJPvoS4xnFcaFc4B3AJj,9.63E-01,3,0.097,-29.215,0,A Lovely Place to Be,43,1/1/2001,0.041,89.717,3.42E-02,2001
+0.971,['John Williams'],0.229,1.09E+05,1.82,3.96E-02,0,4kwclHRtcMJLza1W39BSMB,7.84E-01,2,0.122,-25.33,1,Introducing Colin,43,11/11/2002,0.035,79.006,7.94E-02,2002
+0.958,['John Williams'],0.415,2.48E+05,4.136,3.35E-01,0,5GhYwnHzkHpE8vYOsqdxeZ,8.99E-01,7,0.168,-16.82,1,The Flying Car,43,11/11/2002,0.041,79.864,1.50E-01,2002
+0.979,['Philip Glass'],0.244,3.34E+05,5.562,1.07E-01,0,5U7vahMkL41gueMDNtoLhp,8.69E-01,3,0.159,-22.906,1,Morning Passages,45,12/5/2002,0.035,106.323,3.25E-02,2002
+0.992,"['Jean Sibelius', 'Håvard Gimse']",0.369,2.18E+05,3.638,3.72E-03,0,4fU1mpvaRbTqRXZN6JNlRj,8.58E-01,2,0.092,-27.547,1,"5 Pieces, Op. 75, ""The Trees"": No. 5 Granen (The Spruce)",44,6/11/2003,0.039,67.856,6.40E-02,2003
+0.97,['Hans Zimmer'],0.136,3.45E+05,5.741,3.75E-02,0,3UOFrelbGLUWJpRRzH3hbZ,8.91E-01,2,0.241,-28.76,0,A Hard Teacher,48,11/25/2003,0.037,144.073,4.04E-02,2003
+0.955,['Jon Brion'],0.629,5.99E+04,0.999,1.51E-01,0,1MAeLzBF3xsg6fpRZztyCD,9.45E-01,11,0.109,-19.033,1,Row - Score,43,1/1/2004,0.074,75.982,2.02E-01,2004
+0.963,['Ludovico Einaudi'],0.231,4.77E+05,7.95,1.24E-01,0,2aUUsj6puY14yvfbSyM6Jj,8.83E-01,10,0.086,-26.448,1,Ora,43,2004,0.056,129.758,5.14E-02,2004
+0.962,"['Jan A.P. Kaczmarek', 'Nick Ingman']",0.339,2.69E+05,4.483,8.44E-02,0,3rwboSQlP6nOElurhXQFnB,9.19E-01,0,0.217,-22.602,1,Neverland - Piano Variation In Blue - Finding Neverland/Soundtrack Version,44,1/1/2004,0.041,120.517,1.37E-01,2004
+0.993,['Eminem'],0.63,7.18E+04,1.196,3.71E-01,1,62c1RhroaeTVV7yGKBIBne,1.30E-03,7,0.487,-17.591,1,Em Calls Paul - Skit,42,11/12/2004,0.449,97.191,1.77E-01,2004
+0.956,['Patrick Doyle'],0.179,1.76E+05,2.938,2.50E-01,0,2ecYJyAHF43oBSQ5Crcrel,9.49E-01,7,0.109,-11.282,1,Hogwarts' Hymn,47,11/9/2005,0.039,67.507,4.10E-02,2005
+0.993,['Fred Mollin'],0.444,2.21E+05,3.675,6.44E-02,0,4yKZZfDo52opAkTX97gD3W,7.46E-01,7,0.089,-17.92,1,Love Me Tender - Instrumental,43,1/1/2005,0.038,142.41,1.60E-01,2005
+0.993,"['Frédéric Chopin', 'Maurizio Pollini']",0.331,2.43E+05,4.043,9.22E-03,0,503fwzlbWHx5g0CqlU9Giu,9.53E-01,10,0.102,-30.88,1,"Nocturne No.2 In E Flat, Op.9 No.2",49,1/1/2005,0.041,132.883,7.13E-02,2005
+0.987,['Greg Maroney'],0.214,3.42E+05,5.704,2.38E-01,0,6eXKmKkd9O7Em4bFrkIhyg,8.61E-01,1,0.137,-16.18,0,Breathe,45,4/8/2005,0.033,91.729,1.84E-01,2005
+0.993,['Chuck Jonkey / Sonic Safari Productions'],0.141,4.51E+05,7.516,1.52E-03,0,70QyxqmlcrW5FboUqMQr9T,9.70E-01,4,0.105,-36.043,1,Ancient Spirit's Sing,46,1/1/2005,0.057,69.178,3.04E-02,2005
+0.974,"[""Dustin O'Halloran""]",0.429,1.88E+05,3.14,2.45E-02,0,6CngZA32wwYDbfY0f3pVj2,9.17E-01,5,0.11,-31.444,1,Opus 23,44,10/10/2006,0.036,71.187,1.97E-01,2006
+0.995,['Peter Phippen'],0.198,2.39E+05,3.98,3.91E-02,0,0mGBqjK2f3tewleF9uCTdc,8.00E-01,4,0.105,-24.675,1,East/West,41,1/1/2006,0.063,70.112,3.94E-02,2006
+0.993,"['Frédéric Chopin', 'Leif Ove Andsnes']",0.274,2.09E+05,3.477,3.62E-02,0,3wnR4FIaT8Ok3gJjStIkyV,9.39E-01,8,0.097,-29.165,1,"Chopin: Impromptu No. 1 in A-Flat Major, Op. 29",49,9/12/2006,0.04,79.543,6.95E-02,2006
+0.962,"['George Frideric Handel', 'Leopold Stokowski', 'Bournemouth Symphony Orchestra', 'José Serebrier']",0.107,2.27E+05,3.784,3.29E-02,0,2WuYYACpbXgn41VaPN3IYs,8.68E-01,0,0.093,-29.429,1,"Messiah, HWV 56, Part I: Pastoral Symphony, ""Pifa"" (arr. L. Stokowski)",46,9/1/2006,0.039,91.64,3.77E-02,2006
+0.993,['K. Mockingbird'],0.303,6.719e+05            1,1.198,1.41E-02,0,4UviED7A48N4QKcZMMpiqP,6.26E-01,0,0.348,-27.669,0,Wind Child,42,1/1/2006,0.041,67.859,4.56E-01,2006
+0.99,['Sibylle Baier'],0.59,1.51E+05,2.524,1.06E-01,0,00epdG9ONPL8KkErbmKW8o,6.48E-01,10,0.11,-17.245,1,Forget About,47,1/1/2006,0.033,97.042,2.80E-01,2006
+0.964,['Liquid Mind'],0.122,3.47E+05,5.781,1.21E-01,0,1BnqvUgxXhBzVmw03fPJ0e,9.48E-01,0,0.096,-24.508,1,"Journey to Peace, Pt. 2",40,3/14/2006,0.04,77.747,3.21E-02,2006
+0.974,['David Tolk'],0.213,2.46E+05,4.103,7.46E-02,0,4Tx16LfAMJMNOOwW60DyNg,9.26E-01,9,0.129,-19.708,1,In Reverence,41,10/26/2006,0.038,143.775,7.50E-02,2006
+0.99,"['Claude Debussy', 'Alain Planes']",0.229,3.69E+05,6.142,1.74E-02,0,05utSpK1EFNOnj98Aqy5Si,9.21E-01,11,0.08,-29.373,1,Estampes: I. Pagodes. Modérément animé,45,7/31/2007,0.036,68.331,8.89E-02,2007
+0.974,['Mary Youngblood'],0.518,1.77E+05,2.947,2.25E-01,0,7l8d1kKkQLPWWI1kJI8Btb,2.22E-02,2,0.121,-18.164,1,Silent Wolf,42,1/1/2008,0.068,144.518,6.49E-02,2008
+0.971,['Paul Cardall'],0.359,1.99E+05,3.318,2.19E-02,0,478Xg3kZfyDaps43NeZ0R2,9.41E-01,5,0.086,-20.001,1,Nearer My God to Thee,41,1/1/2008,0.038,70.08,1.18E-01,2008
+0.988,['Philip Wesley'],0.266,4.31E+05,7.176,1.63E-01,0,7KRaeLuGqHJNhU3V3Vw67Z,8.37E-01,4,0.099,-21.919,0,Dark Night of the Soul,43,1/1/2008,0.048,156.327,7.63E-02,2008
+0.991,['Zen Hanami'],0.145,2.97E+05,4.95,2.45E-02,0,3x27YTgedJZlHvBcF7aaQ0,9.25E-01,5,0.092,-30.513,1,A Gentle Rain Of Thoughts,45,6/17/2008,0.045,68.315,3.83E-02,2008
+0.995,['Bedtime Baby'],0.46,1.04E+05,1.737,1.20E-01,0,6pax9oyg0VAELHKlPPnggz,9.38E-01,0,0.086,-17.785,1,Greensleeves,48,12/1/2009,0.054,132.369,2.67E-01,2009
+0.988,"['Drake', 'Chilly Gonzales']",0.397,1.74E+05,2.907,9.06E-02,1,6hHKFReuQR9VQp39ev43wY,8.56E-01,5,0.344,-21.655,1,Outro (feat. Chilly Gonzales),45,2009,0.054,185.167,1.36E-01,2009
+0.951,['Verna Felton'],0.541,7.80E+04,1.3,5.70E-01,0,23Ypb2SLgeY2OQxfXHPKLN,5.61E-05,8,0.269,-6.712,1,"Bibbidi-Bobbidi-Boo - From ""Cinderella""",44,1/1/2009,0.049,105.556,8.52E-01,2009
+0.982,"['Gorillaz', 'Sinfonia ViVa']",0.107,6.94E+04,1.156,3.76E-01,0,3s2f6XU5sJ6aqEe7GgDBta,9.05E-01,4,0.347,-12.342,1,Orchestral Intro (feat. Sinfonia ViVA),49,3/3/2010,0.04,161.42,3.34E-02,2010
+0.969,"['Marcos Brunet', 'Toma Tu Lugar']",0.311,2.89E+05,4.814,1.24E-01,0,4bEUNyytrIT5dYbeVBsZ5z,0.00E+00,7,0.126,-16.175,1,Beso Tus Pies,52,7/12/2011,0.037,136.047,1.17E-01,2011
+0.97,['Steven Halpern'],0.245,3.20E+05,5.325,3.01E-02,0,1bdhhKZAxmdqAOt18QFXNc,9.52E-01,5,0.087,-27.814,1,Deep Theta 4 Hz,48,10/11/2011,0.043,65.784,3.77E-02,2011
+0.994,['Native American Flute'],0.218,2.62E+05,4.367,3.40E-02,0,09n5OYAlgClYFQFYtXjVwS,7.44E-01,4,0.075,-25.723,0,Lullaby with Flute & Crickets - Soothing Crickets And Solo Flute,45,12/5/2011,0.04,66.617,1.63E-01,2011
+0.982,['Yiruma'],0.287,1.92E+05,3.202,2.45E-01,0,5H9nnDuwE0UCEyQgN42XCs,9.23E-01,0,0.088,-17.241,1,Reminiscent,53,12/9/2011,0.038,150.269,6.26E-02,2011
+0.965,['alt-J'],0.363,1.58E+05,2.625,1.14E-01,0,3Kuz6KSGfiNIV9Rphs5hgL,7.37E-03,9,0.113,-13.082,1,Hand-Made,45,9/18/2012,0.036,115.031,4.94E-02,2012
+0.975,"['Mychael Danna', 'Rob Simonsen', 'Mike Nowak']",0.173,1.70E+05,2.826,1.29E-01,0,1RxaEvQCmT36nIZFYjpk5F,9.64E-01,6,0.101,-20.377,0,Tsimtsum,52,11/16/2012,0.042,62.98,3.39E-02,2012
+0.952,['Birdy'],0.379,2.01E+05,3.351,2.90E-01,0,1oBDaufG8Arkz3t52UbiQi,1.06E-03,4,0.118,-8.485,1,Skinny Love,56,9/16/2013,0.051,166.467,1.69E-01,2013
+0.955,['Idina Menzel'],0.343,1.79E+05,2.979,7.39E-02,0,5HZCMnScUwekum55mcRdjK,1.73E-04,9,0.102,-18.964,1,"I'm Not That Girl - From ""Wicked"" Original Broadway Cast Recording/2003",49,1/1/2013,0.033,90.265,1.73E-01,2013
+0.988,['Jeremy Zuckerman'],0.244,3.07E+04,0.512,1.51E-01,0,1gtflD7JVxpozNitZJp6xu,9.46E-01,6,0.116,-12.535,0,The Legend of Korra End Credits,46,7/16/2013,0.035,83.772,5.63E-01,2013
+0.98,['Jeremy Soule'],0.133,2.38E+05,3.963,2.97E-02,0,63zmiYZRPVSRLoYXbqfLPv,9.56E-01,9,0.091,-29.885,0,Dawn,51,1/31/2013,0.044,88.834,3.22E-02,2013
+0.989,['dandelion hands'],0.35,1.67E+05,2.785,1.00E-01,0,4mlqHOqOXja92BT4M51lkj,5.45E-01,4,0.11,-18.491,1,I Like You,50,1/1/2013,0.033,108.74,1.35E-01,2013
+0.99,['Musica Para Meditacion Profunda'],0.156,2.03E+05,3.38,1.10E-01,0,0ODALQinASCloaogj0xgAF,9.91E-01,0,0.104,-24.097,1,"El Chakra Del Corazón, Anahata - Om En La Clave De F",53,1/5/2013,0.041,68.262,3.82E-02,2013
+0.978,['C418'],0.102,1.85E+05,3.083,2.65E-02,0,0G6qJsqHP0Bbe5XuRjxGQq,9.63E-01,1,0.082,-20.832,1,Mutation,50,11/9/2013,0.042,73.097,3.91E-02,2013
+0.954,['Casting Crowns'],0.342,2.81E+05,4.69,1.51E-01,0,2PuvIyN4e2w2i4GIjWCqsB,0.00E+00,10,0.157,-12.397,1,Broken Together,49,1/24/2014,0.036,88.358,1.92E-01,2014
+0.982,['Jóhann Jóhannsson'],0.336,1.72E+05,2.874,4.40E-02,0,5ay0cvjtVAbMLOe8gTadFh,9.60E-01,7,0.221,-29.255,0,A Model of the Universe,56,11/4/2014,0.046,90.243,6.66E-02,2014
+0.951,['Eric Church'],0.511,1.94E+05,3.23,9.71E-02,0,4tLNKzcRv95bWCtwNpH4w6,0.00E+00,11,0.106,-16.561,1,A Man Who Was Gonna Die Young,47,1/1/2014,0.044,134.936,3.97E-01,2014
+0.952,['Steffany Gretzinger'],0.25,1.95E+05,3.244,1.70E-01,0,2TTpZrsNdlOBoHKNGdpSeq,1.11E-05,2,0.14,-14.247,1,No Fear in Love,50,8/25/2014,0.036,87.724,2.40E-01,2014
+0.97,['Aquilo'],0.314,2.54E+05,4.232,2.07E-01,0,3oCd8HkxnzvAWHxaZi3jIB,4.60E-03,0,0.082,-14.707,1,You There,54,4/7/2014,0.031,76.529,5.24E-02,2014
+0.953,['Lana Del Rey'],0.169,3.50E+05,5.834,2.69E-01,0,4X5zaUdlRhvBWYnyQIKmH8,8.28E-03,5,0.111,-13.265,0,Honeymoon,57,9/18/2015,0.036,74.847,1.73E-01,2015
+0.972,['Bon Iver'],0.298,1.68E+05,2.8,1.12E-01,0,5oK98mpTJSU0iqLHN1hZ3y,8.23E-02,1,0.093,-15.765,1,22 (OVER S∞∞N),57,9/30/2016,0.035,86.786,9.72E-02,2016
+0.973,['The Lumineers'],0.477,9.71E+04,1.618,2.36E-01,0,5xxqxlolNTVsPwSqaltfZm,9.22E-01,4,0.108,-16.991,1,Patience,51,4/8/2016,0.046,138.361,9.82E-02,2016
+0.988,['Julius Aston'],0.555,1.86E+05,3.1,3.97E-02,0,64ltkWiXTteDM5x4s1XP1M,9.39E-01,5,0.085,-21.354,1,Trieste,58,12/13/2016,0.067,103.709,2.19E-01,2016
+0.959,['Ruelle'],0.444,2.32E+05,3.872,1.26E-01,0,2aJWkpCXMvIIZISkMQr1lE,0.00E+00,9,0.075,-11.77,0,War of Hearts (Acoustic Version),64,6/23/2017,0.034,138.069,4.07E-01,2017
+0.995,['Evelyn Stein'],0.349,2.07E+05,3.456,2.05E-02,0,5FoZCDCl6WhrAIm4Ygyjg7,9.30E-01,5,0.096,-26.793,1,Quiet Resource,63,2/7/2017,0.043,68.983,3.96E-02,2017
+0.958,"['moow', 'Lotte Kestner']",0.754,9.71E+04,1.618,1.97E-01,0,0vS05UkNkb0dZxbHkxCp6v,9.44E-01,2,0.097,-11.627,1,You're in My Head,61,1/27/2017,0.105,140.178,3.26E-01,2017
+0.979,['xerLK'],0.241,1.46E+05,2.429,6.28E-02,0,3UTIDzn7QvyeU4fl09Wa2B,9.36E-01,2,0.086,-26.156,0,Sandy Foam,60,9/21/2018,0.049,70.024,3.90E-02,2018
+0.99,['Martin Lindgaarden'],0.378,1.79E+05,2.983,3.69E-02,0,0eQZinXiAeZ75SRcJwuweI,8.96E-01,3,0.101,-25.859,0,Montauk,63,8/10/2018,0.037,71.997,1.20E-01,2018
+0.959,['Novo Amor'],0.514,2.09E+05,3.478,3.09E-01,0,7CoMBpPTwQi2wPT0U0Nr9b,2.32E-01,9,0.096,-10.623,1,State Lines,65,10/19/2018,0.031,137.462,1.52E-01,2018
+0.975,"['Rufi-O', 'Lily Potter']",0.714,1.53E+05,2.549,1.31E-01,0,2zhPy8zbBf53XgTtkEbnbO,9.04E-01,5,0.354,-21.958,1,Oblivion,63,12/13/2018,0.056,113.032,6.85E-01,2018
+0.97,['Matter and Energy'],0.09,1.76E+05,2.927,4.45E-02,0,531T2IlqucxLsyDPtw6LSv,8.84E-01,1,0.087,-23.641,0,Quantum,67,6/28/2019,0.042,77.326,4.12E-02,2019
+0.991,['Francesca Caroléo'],0.136,1.74E+05,2.892,1.52E-02,0,5ptMWCoMxUP5phRKZ5MyBx,9.11E-01,7,0.057,-31.307,1,Celandine,68,6/14/2019,0.049,70.955,3.76E-02,2019
+0.986,['Spirit Minds'],0.22,2.07E+05,3.45,5.14E-02,0,0Ycl08JD5MBn28OPznygwz,8.97E-01,7,0.129,-25.116,0,Spaces,61,9/7/2019,0.044,80.671,3.58E-02,2019
+0.996,['Viclo'],0.289,1.56E+05,2.591,2.21E-02,0,0rdOvRimwzjyBHdZ0pR2E7,9.52E-01,2,0.101,-27.635,1,Dream dependence,66,9/12/2019,0.057,137.546,9.79E-02,2019
+0.982,['Zen Gaya'],0.155,2.04E+05,3.407,2.76E-02,0,199TOFLcLwoW2knx6OTC0l,9.11E-01,11,0.097,-24.866,1,Lost in the Clouds,66,3/25/2019,0.042,69.694,1.22E-01,2019
+0.99,['Benette'],0.368,1.61E+05,2.688,8.92E-03,0,4UlarjdicLUPbdssOxWbYX,9.11E-01,10,0.102,-29.555,1,Lily's Cradle,66,5/13/2019,0.05,63.639,2.87E-01,2019
+0.962,['Everlight'],0.164,1.92E+05,3.195,4.57E-02,0,0Cks68XMF8C89s1zTfFtR2,8.58E-01,1,0.101,-27.965,1,Sleeping Beauty,61,8/12/2019,0.044,130.96,4.39E-02,2019
+0.981,['Leerseite'],0.253,1.78E+05,2.962,1.17E-01,0,2c15DLDKQDhMVWk3CQ2GZ4,8.45E-01,2,0.095,-21.979,1,Mind Retreat,62,4/29/2019,0.072,78.36,9.71E-02,2019
+0.964,['Primer Dia'],0.198,1.67E+05,2.782,1.25E-01,0,3WeYjOyamokKdl3cvQysZq,9.20E-01,0,0.112,-22.252,1,Skylines,62,3/5/2019,0.041,95.653,3.88E-02,2019
+0.984,"['Frédéric Chopin', 'Idil Biret']",0.301,4.61E+05,7.683,5.52E-02,0,4FJJKMXwKerjg6YOZlSvIA,9.07E-01,5,0.064,-22.124,1,"Ballade No. 2 in F Major, Op. 38",43,1/21/2000,0.046,76.012,4.00E-02,2000
+0.991,"['Erik Satie', 'Aldo Ciccolini']",0.588,1.89E+05,3.15,2.50E-02,0,7EmWxGbLI9kq4SCl8gokfb,8.81E-01,7,0.101,-27.829,1,"Satie: 3 Gymnopédies: No. 1, Lent et douloureux",40,2/1/2000,0.084,81.057,5.98E-01,2000
+0.988,"['Frédéric Chopin', 'Idil Biret']",0.496,1.50E+05,2.499,1.08E-01,0,251nfOQOQYMGiAYTgDJyjp,8.36E-01,9,0.151,-23.813,1,"Mazurkas, Op. 33: Mazurka No. 23 in D Major, Op. 33, No. 2",43,1/21/2000,0.032,96.969,3.68E-01,2000
+0.96,['Amel Larrieux'],0.387,2.71E+05,4.513,9.08E-02,0,6nVWopkV9TK2YR7HZUh8oS,0.00E+00,9,0.177,-16.757,1,Make Me Whole,36,2/2/2000,0.043,103.322,2.70E-01,2000
+0.962,['Nicolas de Angelis'],0.392,2.03E+05,3.39,2.86E-01,0,0oNyxmkS58UGVd86VcVAOp,8.85E-01,2,0.124,-11.222,0,Passion,41,4/5/2001,0.037,82.121,3.36E-01,2001
+0.979,['Monks Of The Abbey Of Notre Dame'],0.235,1.05E+05,1.743,1.11E-01,0,01phCD6Upm5SNe53hTPW9u,4.07E-01,4,0.106,-19.789,1,Dignus Est Deus,41,2001,0.052,125.48,3.90E-02,2001
+0.972,['Howard Shore'],0.091,2.06E+05,3.434,6.19E-02,0,3wlNmUeoHnM1jcOcXxC6qI,9.12E-01,0,0.105,-23.247,1,Rivendell,43,2001,0.044,86.93,3.64E-02,2001
+0.98,['Norah Jones'],0.413,1.88E+05,3.129,3.01E-02,0,6DoOBnoCZNOzPAsfT4h9Eb,3.95E-04,0,0.085,-17.425,1,The Nearness Of You,40,2/22/2002,0.04,82.771,2.21E-01,2002
+0.957,"['Howard Shore', 'Hilary Summers']",0.07,2.77E+05,4.613,7.89E-02,0,3tEW3BubSpSzJ6GoCT3cV8,8.89E-01,5,0.109,-27.029,0,Farewell to Lorien,44,12/2/2002,0.05,75.953,3.13E-02,2002
+0.987,['Eva Cassidy'],0.524,2.76E+05,4.607,5.28E-02,0,4jS6mCmznV5fjTNLf4h61o,5.70E-04,6,0.085,-14.706,1,Imagine,50,2002,0.049,129.029,2.88E-01,2002
+0.968,['Sufjan Stevens'],0.417,2.24E+05,3.732,7.15E-02,0,4oWTPL6ihHK1JNwDcJ94z4,1.32E-02,5,0.11,-17.39,1,Flint (For the Unemployed and Underpaid),41,7/1/2003,0.045,123.119,1.72E-01,2003
+0.971,['Howard Shore'],0.183,1.78E+05,2.963,5.75E-02,0,4aB29POCPX88HgVvwl4xqb,9.85E-01,9,0.127,-29.202,1,Bilbo's Song,44,11/24/2003,0.049,81.066,3.61E-02,2003
+0.974,['The Jive Bombers'],0.373,1.73E+05,2.879,2.90E-01,0,2L9ISa8cLoUZMMlY1JEkoE,1.24E-06,5,0.09,-11.722,1,Bad Boy,38,1/1/2003,0.041,217.743,4.82E-01,2003
+0.969,"['Mormon Tabernacle Choir', 'Orchestra at Temple Square', 'Craig Jessop']",0.097,2.87E+05,4.787,1.70E-01,0,0uC0Deej3lmVqivFFfj0sk,8.43E-01,10,0.154,-23.428,1,I'm Trying to Be Like Jesus,38,5/6/2003,0.038,89.328,1.50E-01,2003
+0.992,['John Williams'],0.259,7.27E+04,1.211,9.62E-02,0,59xohjlL8uhdil8UEMIN76,9.94E-01,2,0.097,-33.463,1,The Patronus Light,44,5/25/2004,0.045,66.128,4.29E-02,2004
+0.973,['Will Ackerman'],0.342,2.58E+05,4.307,5.05E-02,0,10PcJgNwEdMwfBXmj2pYBi,8.77E-01,8,0.118,-22.377,1,The Bricklayer's Beautiful Daughter,40,2004,0.049,145.936,3.05E-01,2004
+0.967,['The Shivers'],0.349,2.11E+05,3.524,2.62E-01,0,5wC5aUCu9gp7kb23I8OECm,1.70E-04,8,0.113,-8.595,0,Beauty,42,10/15/2004,0.029,76.892,7.74E-02,2004
+0.961,['Fred Mollin'],0.267,2.17E+05,3.609,1.27E-01,0,1oigWpHyzcC5grxH1rpW0f,8.38E-01,0,0.137,-17.499,1,Somewhere Out There - Instrumental,43,1/1/2005,0.034,78.303,7.22E-02,2005
+0.983,['Fred Mollin'],0.482,1.60E+05,2.661,1.50E-01,0,1zxKIzxF2NUwseAsb5shSG,5.74E-01,5,0.094,-15.454,0,Chim Chim Cher-ee - Instrumental,42,1/1/2005,0.033,124.971,5.50E-02,2005
+0.955,"['Johann Baptist Vanhal', 'Toronto Chamber Orchestra', 'Kevin Mallon']",0.317,3.05E+05,5.08,1.23E-02,0,3DruXfuowq2uyM9FkTt6A4,4.04E-01,2,0.172,-30.127,1,"Symphony in G Major, Bryan G6: II. Andante molto grazioso",43,3/1/2005,0.046,73.514,1.53E-01,2005
+0.989,['Robert Mirabal'],0.171,2.39E+05,3.984,1.74E-01,0,3bzc0xRyNkeXvESUvE2VYr,9.53E-01,3,0.105,-21.328,0,Courtship Song,41,1/1/2005,0.041,94.355,6.84E-02,2005
+0.979,['Patrick Doyle'],0.101,1.39E+05,2.31,1.24E-01,0,1ez8ZmONwGLDsOzqLECDoU,9.53E-01,7,0.073,-17.876,1,Another Year Ends,46,11/9/2005,0.04,75.2,3.57E-02,2005
+0.988,['Fred Mollin'],0.516,1.72E+05,2.869,8.03E-02,0,5rWi8IzQtoTVNRSDUYEio4,8.39E-01,10,0.13,-19.782,1,Morning Has Broken - Instrumental,43,1/1/2005,0.036,135.938,3.39E-01,2005
+0.986,['Daniel Johnston'],0.408,3.12E+05,5.192,3.16E-01,0,5nSXjtRmTY22UHwf2qZOCX,2.31E-01,0,0.332,-10.771,1,Story Of An Artist,44,4/18/2006,0.042,106.133,6.71E-01,2006
+0.99,['Emile Pandolfi'],0.494,2.65E+05,4.423,3.72E-02,0,6r0HePjY5K8WWjHffKL1sG,9.34E-01,7,0.096,-22.287,1,Gymnopedie,42,3/6/2006,0.05,93.654,2.44E-01,2006
+0.952,['Liquid Mind'],0.167,4.46E+05,7.425,1.10E-01,0,5INLKzjb8a6SrwI3xik6DN,9.69E-01,0,0.086,-23.029,1,Breathe in Me,39,3/14/2006,0.05,112.601,3.39E-02,2006
+0.983,['Ludovico Einaudi'],0.248,1.94E+05,3.231,9.97E-03,0,2jNbG2ZVvEi0qqt7ut3dnM,8.67E-01,2,0.133,-20.631,0,L'origine Nascosta,49,4/20/2007,0.048,85.634,1.41E-01,2007
+0.954,['Michael Giacchino'],0.164,1.94E+05,3.227,7.98E-02,0,1XgQtMoo2drLvh0qRHMvJB,6.53E-01,2,0.41,-20.671,1,Anyone Can Cook,44,1/1/2007,0.041,101.995,3.98E-02,2007
+0.995,['Coyote Oldman'],0.121,3.60E+05,5.993,1.74E-02,0,1OmnvhVmoct7xBGdm0VTXD,9.68E-01,8,0.11,-27.719,1,Translucent Shadows,44,3/25/2008,0.042,85.352,3.93E-02,2008
+0.959,['Timber Timbre'],0.64,2.18E+05,3.629,1.26E-01,0,7yP9PPNZQrq1TE0XNpswJA,7.86E-04,5,0.106,-17.093,1,Demon Host,40,6/30/2009,0.037,75.663,2.73E-01,2009
+0.99,"['Frédéric Chopin', 'Elisabeth Leonskaja']",0.402,3.10E+05,5.161,2.08E-02,0,2FRnxuLDZ4vSdvER2Xzrv2,9.19E-01,3,0.097,-27.294,1,"Chopin: Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",51,9/1/2009,0.045,94.457,8.62E-02,2009
+0.993,"['Frédéric Chopin', 'Alexandre Tharaud']",0.215,5.40E+05,8.992,2.45E-01,0,7gXWx5DBR5MfsFBzPm9zSS,8.92E-01,7,0.109,-14.514,0,"Chopin: Ballade No. 1 in G Minor, Op. 23",50,11/23/2009,0.043,69.561,3.97E-02,2009
+0.957,['Rhyan Zorn'],0.316,1.90E+05,3.165,1.96E-02,0,0y3yFju7xqGgYx6TD0ygau,9.40E-01,8,0.113,-17.519,1,Talawanda,52,12/6/2010,0.049,65.794,1.20E-01,2010
+0.991,"['Kundalini: Yoga, Meditation, Relaxation']",0.2,1.53E+05,2.553,4.61E-03,0,3SrEmZTtPBo5Mzsa7qRsQE,9.42E-01,10,0.257,-32.499,1,Yoga Meditation and Relaxation,48,10/1/2010,0.037,75.284,2.39E-01,2010
+0.963,['J.S. Epperson'],0.165,8.352e+05            1,3.919,4.36E-02,0,3rw3uYUoKicjBxUW7EigtS,9.35E-01,1,0.085,-27.528,1,528 Hz D.N.A. Repair,49,8/29/2010,0.05,141.129,3.81E-02,2010
+0.979,['Nazareno Aversa'],0.614,2.13E+05,3.557,1.75E-01,0,017dbEUVSuGK7YzU8CLb8S,9.23E-01,7,0.103,-18.861,1,Man In the Mirror,49,1/4/2010,0.047,102.113,1.72E-01,2010
+0.984,"['Keith Jarrett', 'Charlie Haden']",0.38,2.55E+05,4.254,3.77E-02,0,6TCEJVBIrm9YysBGEVHFD0,9.35E-01,11,0.097,-22.733,0,One Day I'll Fly Away,52,5/7/2010,0.042,75.286,1.14E-01,2010
+0.958,['Alexi Murdoch'],0.566,3.30E+05,5.501,1.27E-01,0,2Tax7fSPDly9OLIAZRd0Dp,9.16E-01,7,0.111,-18.624,1,Through The Dark,47,3/8/2011,0.044,123.211,1.89E-01,2011
+0.994,"['Dario Marianelli', 'Jack Liebeck', 'Benjamin Wallfisch']",0.375,5.84E+04,0.973,4.06E-03,0,02BumRY2OTFMkMxrXSVMat,9.08E-01,7,0.084,-31.824,0,A Game of Badminton (feat. Jack Liebeck),51,3/8/2011,0.067,139.682,3.58E-01,2011
+0.979,['Jake Shimabukuro'],0.511,3.54E+05,5.904,9.12E-02,0,1PzD8CQfJbJNRQys7kHqlf,8.68E-01,0,0.074,-16.354,1,Bohemian Rhapsody,46,1/4/2011,0.069,148.415,2.73E-01,2011
+0.952,['George Benson'],0.467,1.78E+05,2.974,1.08E-01,0,6VRvhiVLih80IWCTXY8Sxr,1.61E-06,7,0.11,-12.753,1,Since I Fell For You,45,1/1/2011,0.035,92.82,2.42E-01,2011
+0.981,['Gillian Welch'],0.627,2.92E+05,4.869,1.80E-01,0,3FJ46AfhOr2TyfhVTlK1sj,3.73E-04,6,0.107,-11.696,1,Hard Times,43,6/28/2011,0.038,134.247,4.66E-01,2011
+0.972,['Dave Matthews Band'],0.43,2.52E+05,4.207,2.60E-01,0,5fCxl609046LL8q6Ib5xaY,4.77E-03,3,0.39,-12.732,1,Sweet,43,9/11/2012,0.032,102.27,5.30E-01,2012
+0.953,['The Growlers'],0.402,2.16E+05,3.596,7.72E-01,0,6eJobiVXF5HQN48BX4spZs,8.60E-01,10,0.172,-4.578,1,Someday,46,1/23/2013,0.039,156.116,7.48E-01,2013
+0.995,['Tracey Chattaway'],0.752,1.79E+05,2.974,2.72E-02,0,5LopRVLII1pAVeQxm8tNpI,9.66E-01,0,0.108,-20.228,1,Embers,51,10/16/2013,0.059,135.59,1.15E-01,2013
+0.967,['Jeremy Soule'],0.073,2.30E+05,3.825,5.02E-02,0,0lIDOHnoe4RJgm6rzowj6x,9.69E-01,10,0.076,-28.819,1,Tundra,50,1/31/2013,0.04,78.152,3.85E-02,2013
+0.96,"['Craig Armstrong', 'Paul Bateman', 'Royal Philharmonic Orchestra']",0.147,3.50E+05,5.832,4.57E-02,0,5FOHBhUtWl2x5Z6qflA8nd,9.27E-01,0,0.106,-19.188,1,Romeo + Juliet (arr. P. Bateman): Romeo and Juliet: The Balcony Scene (arr. P. Bateman for piano and orchestra),51,7/2/2013,0.042,138.942,3.64E-02,2013
+0.981,['The Neighbourhood'],0.61,1.92E+05,3.193,1.65E-01,0,7sDzAu7alAL1hWvL86tSGB,5.44E-04,8,0.134,-14.659,1,Sweater Weather - Spotify Sessions Curated by Jim Eno,54,6/18/2013,0.05,102.68,2.58E-01,2013
+0.994,['Baby Lullaby'],0.706,1.01E+05,1.684,8.49E-02,0,0KIhA8otx6yYsHy1RctxJN,9.06E-01,3,0.131,-21.926,1,Brahms Lullaby,55,10/23/2014,0.034,94,4.17E-01,2014
+0.956,['Steffany Gretzinger'],0.283,2.45E+05,4.075,9.66E-02,0,1VNzpN2QspjP5us4nms4De,8.66E-05,9,0.093,-13.534,1,Cecie’s Lullaby,49,8/25/2014,0.038,92.657,1.32E-01,2014
+0.988,"['Johann Pachelbel', 'Music Lab Collective', 'Valentina Lisitsa']",0.407,2.89E+05,4.814,1.22E-01,0,1p8Po4X9rWvMOuGR2vhVI2,9.42E-01,2,0.113,-17.925,1,"Canon in D Major, P.37",59,3/1/2015,0.043,105.484,2.16E-01,2015
+0.963,['Baby Lullaby Academy'],0.606,1.19E+05,1.982,6.88E-03,0,586k3MTMSuIDdPMMKuGIq3,7.65E-02,7,0.21,-37.972,1,Rock a Bye Baby,57,11/24/2015,0.041,79.932,3.39E-01,2015
+0.969,['Baby Lullaby Academy'],0.221,1.32E+05,2.205,1.69E-03,0,3SPCtqHndiHRNZEXAVFNLk,1.34E-02,4,0.068,-43.82,1,Piano Baby Lullabies for Baby Sleep,55,11/24/2015,0.05,75.705,2.29E-01,2015
+0.994,['Baby Lullaby Academy'],0.669,9.27E+04,1.545,1.43E-02,0,1pNQKV0LjUwxpLC1uPxUSt,9.04E-01,3,0.117,-32.653,1,Hush Little Baby,57,11/24/2015,0.033,135.996,2.15E-01,2015
+0.951,['White Noise Therapy'],0,3.60E+05,6,2.03E-05,0,3C32S8W8BBBKfHg3qyNX7E,8.73E-01,2,0.113,-16.555,1,Smooth Sailing,52,1/7/2015,0,0,0.00E+00,2015
+0.968,['Radiohead'],0.299,3.84E+05,6.407,2.63E-01,0,1uRxyAup7OYrlh2SHJb80N,8.57E-01,9,0.126,-13.207,0,Daydreaming,60,5/8/2016,0.032,137.848,1.13E-01,2016
+0.994,['Agatha Reilly'],0.33,1.92E+05,3.206,5.00E-03,0,4bjXeKnM7jGi4mjNx2kFbY,9.76E-01,5,0.109,-34.638,1,Fantasazing,59,10/16/2016,0.05,85.067,7.49E-02,2016
+0.967,['Childish Gambino'],0.606,2.14E+05,3.568,1.12E-01,0,6iGPBcdGv5gVGFZiKAGID5,2.03E-01,1,0.061,-15.055,0,The Night Me and Your Mama Met,55,12/2/2016,0.029,134.061,1.10E-01,2016
+0.976,['Benny Bernstein'],0.243,1.54E+05,2.571,1.23E-01,0,5huIzPcRJkbL7UyyzViQPU,8.79E-01,8,0.176,-20.642,1,Conscious Jorney,60,12/13/2016,0.042,111.435,5.01E-02,2016
+0.958,['Joseph Vincent'],0.701,1.71E+05,2.85,2.52E-01,0,6J9tgHIE8qdy5ulg3c9SwG,1.10E-05,11,0.094,-10.844,1,Our First Song,66,4/19/2016,0.048,158.087,7.23E-01,2016
+0.991,['Saga Rosen'],0.546,1.36E+05,2.264,5.74E-03,0,2zVBNZ94NII3JmBbvdrPq6,9.00E-01,8,0.17,-26.789,1,Gentle Waltz,59,12/11/2016,0.04,71.996,3.86E-01,2016
+0.996,['Steve Dawson'],0.571,1.15E+05,1.92,3.22E-02,0,74RK3VANEjmOCv9v7mV6mV,9.73E-01,11,0.107,-27.475,1,Brother John,63,5/11/2017,0.066,95.346,5.79E-01,2017
+0.995,['Bela Nemeth'],0.253,1.55E+05,2.578,6.11E-03,0,6gp6sejiJXYU1i6xHPf8hh,9.59E-01,4,0.086,-29.25,1,This Moment,63,2/7/2017,0.049,81.02,3.09E-01,2017
+0.996,['Emma Wiederstahl'],0.748,1.96E+05,3.265,4.50E-02,0,03XFziNAcPbc4VuIr4W7Al,9.70E-01,7,0.109,-19.795,1,Cold Water,61,4/26/2017,0.088,98.449,2.44E-01,2017
+0.951,['Thomas Sanders'],0.617,2.04E+05,3.393,3.90E-01,0,3v64IAj0C9myTAtDsUAqR3,5.82E-06,0,0.128,-8.681,1,The Things We Used to Share,57,7/27/2017,0.062,141.953,3.81E-01,2017
+0.993,['Heinz Goldblatt'],0.335,1.19E+05,1.983,1.70E-01,0,5ih49fmvqPDV9Hq7IRzf7U,9.55E-01,10,0.12,-20.236,1,Traveling,62,6/21/2017,0.052,77.194,7.81E-02,2017
+0.992,['Dean Stance'],0.377,2.45E+05,4.077,2.70E-02,0,0oYpL4iDhZirA5ctnB6vcA,9.45E-01,7,0.125,-22.285,0,We Don't Talk Anymore,61,8/29/2017,0.037,131.545,1.30E-01,2017
+0.974,['Carl Borg'],0.199,6.98E+04,1.164,9.37E-03,0,3OSr4tLBco2Me4WrexyoQR,9.84E-01,7,0.114,-27.362,0,Connection,60,1/26/2017,0.04,88.76,3.27E-02,2017
+0.954,['charlie dreaming'],0.081,1.56E+05,2.6,9.14E-02,0,6v7bs0au0qVttAV0dAZtMN,8.84E-01,5,0.083,-29.036,1,Sun Flower,58,8/10/2018,0.036,172.255,6.67E-02,2018
+0.963,['Trevor Kowalski'],0.354,1.94E+05,3.23,1.50E-02,0,72cj11O7lJBQiLu3dXzKLV,8.94E-01,5,0.118,-33.438,1,The Garden's Light,64,9/28/2018,0.039,66.738,8.99E-02,2018
+0.993,['Jonathan Coffey'],0.733,1.65E+05,2.745,7.03E-03,0,2DTi3hxKgiIJE1M9zwWvQB,9.78E-01,2,0.106,-25.595,0,No Struggle - No Progress,63,12/13/2018,0.087,78.006,2.90E-01,2018
+0.996,['Max Richter'],0.124,1.11E+05,1.848,9.24E-02,0,42c1ppLBsSbUjFNDzYLY10,8.48E-01,11,0.093,-31.726,1,A Catalogue Of Afternoons,63,4/20/2018,0.041,205.999,1.35E-01,2018
+0.988,['Lhokanda'],0.143,1.38E+05,2.292,1.55E-01,0,1aeKotbZ2wBYuOspDawtwo,7.40E-01,3,0.109,-21.899,1,Mandala,63,6/30/2019,0.041,146.503,3.89E-02,2019
+0.994,['Roger Reuse'],0.37,1.28E+05,2.138,2.71E-03,0,5QfENz96Rk140fmTccgCPa,9.27E-01,0,0.124,-26.981,1,All Is Well Now,65,4/2/2019,0.048,69.348,2.45E-01,2019
+0.995,['Ever So Blue'],0.403,1.53E+05,2.552,6.21E-02,0,3VBPPIu4MGBnMj4SF8sJBJ,9.32E-01,6,0.1,-28.678,1,Fragment,67,7/26/2019,0.049,135.761,1.46E-01,2019
+0.962,['Michel LeBond'],0.101,2.00E+05,3.339,7.24E-02,0,2HFa8YQM9xXsaqquv8efKI,8.42E-01,1,0.109,-31.13,1,Primordeal Instincts,62,8/27/2019,0.042,78.438,3.52E-02,2019
+0.965,['Dardan Leistra'],0.134,2.07E+05,3.454,7.89E-02,0,6tsmYOwZtMfL3DdoG1itMa,9.30E-01,7,0.115,-24.742,0,Maak me niet wakker,61,12/20/2019,0.053,176.471,4.45E-02,2019
+0.995,['Berlioz'],0.388,1.06E+05,1.767,5.84E-03,0,5MIyzgrAUZ5TryLLF30hcY,6.84E-01,1,0.103,-26.36,1,Origami,65,2/10/2019,0.046,137.497,3.44E-01,2019
+0.992,['Scintillante'],0.224,2.00E+05,3.329,8.28E-03,0,3sAJq6EDW2iNSJnHwLzSqV,8.75E-01,2,0.1,-31.722,1,Notte,67,5/10/2019,0.037,78.001,6.90E-02,2019
+0.993,['Chama Wijnen'],0.313,1.77E+05,2.942,7.29E-03,0,0KvgYjNjdjpgjanBhUnSfO,7.96E-01,9,0.106,-29.599,1,Reaching,66,5/25/2019,0.039,72.082,7.99E-02,2019
+0.995,['Mewael Yemane'],0.468,9.80E+04,1.633,7.91E-02,0,1KnTw354jtQmDvA6b3Fvi0,9.60E-01,9,0.105,-27.055,0,Wishes,67,12/6/2019,0.058,117.918,3.37E-01,2019
+0.993,['Artemio Li Fonti'],0.256,2.33E+05,3.879,4.86E-03,0,1pFCkU2BQHr0mJIj05KXSD,8.72E-01,5,0.111,-33.197,1,Chiudete Gli Occhi,67,6/1/2019,0.04,68.869,5.80E-02,2019
+0.996,['Dreamscaper'],0.211,2.77E+05,4.615,2.87E-02,0,7FpuImiEfUmOWKKi4UyO9y,9.55E-01,5,0.09,-30.39,1,Call to Rest,66,6/24/2019,0.063,68.099,3.25E-01,2019
+0.973,['O.A.S.'],0.111,2.07E+05,3.45,5.97E-02,0,1I217X8W4dL6niEzXOf2nQ,9.64E-01,0,0.105,-28.951,1,Jupiter Song,60,11/8/2019,0.041,73.632,3.60E-02,2019
+0.985,['Rosa Løvstrøm'],0.111,1.58E+05,2.633,1.18E-02,0,3SwiMJxBE5eqYdbXJBRtiT,9.17E-01,2,0.108,-31.874,1,Noctis,66,6/7/2019,0.04,77.891,8.12E-02,2019
+0.994,['Haakon Stange'],0.216,1.47E+05,2.45,8.19E-02,0,1ZxqvIpfcqYDcV4nP6jxms,9.54E-01,9,0.093,-26.17,1,Finding Hope,68,4/24/2020,0.044,71.07,9.11E-02,2020
+0.995,['Thomasine Robinson'],0.279,1.41E+05,2.348,5.79E-02,0,3nZ31x1cLcCRnIRpiOIkPU,9.63E-01,8,0.113,-28.197,1,It is a Beauteous Evening,66,1/31/2020,0.05,71.138,3.57E-01,2020
+0.99,['Fortuna'],0.149,1.63E+05,2.717,5.55E-01,0,2jJ1dkSJqbtv9kLiDVPHFG,5.04E-01,11,0.111,-29.489,1,SPC Brown Noise 2,65,2/26/2020,0.055,136.595,2.72E-02,2020
+0.965,['Robert Farrugia'],0.233,3.52E+05,5.867,2.24E-01,0,7vELAwkC04g6YjGtgZi3gq,9.00E-01,4,0.089,-20.733,1,Segments,63,1/20/2020,0.041,61.652,5.92E-02,2020
+0.992,['Václav Slezák'],0.237,2.59E+05,4.317,3.11E-02,0,1v8nEP8CRicvuRiGxxjZF6,9.07E-01,2,0.1,-30.822,0,Snesl bych ti modré z nebe,62,2/7/2020,0.053,68.753,1.30E-01,2020
+0.996,['Joni Bernier'],0.41,1.40E+05,2.325,7.35E-02,0,1qfYCqVpMcuYLhyThCR7k6,9.63E-01,10,0.159,-30.013,1,A Gift To Share,66,4/10/2020,0.069,132.722,2.52E-01,2020
+0.993,['Peter Ehrlichmann'],0.492,5.77E+04,0.962,4.65E-02,0,4E0b1oXvrPoxHc9Mh3bYzZ,9.61E-01,2,0.118,-25.636,1,Eeny Meeny Miny Moe,66,4/17/2020,0.042,64.271,5.71E-01,2020
+0.993,['Patrizio Pisani'],0.45,1.34E+05,2.227,9.10E-02,0,4Y6WTrmqcv8JkwgF3USWnB,9.56E-01,7,0.103,-24.322,0,Guardami,67,1/3/2020,0.043,94.927,3.54E-01,2020
+0.985,['Raymond Scott'],0.575,1.35E+05,2.243,4.04E-01,0,1TnSRPeMJJEHKSz45U0sOq,9.16E-01,10,0.112,-15.678,1,Portofino 2,38,2000,0.041,112.31,8.10E-01,2000
+0.978,['Franco Albertini'],0.54,7.22E+04,1.203,1.51E-01,0,3Sg42hY1aqhaQHaqL8qOdM,9.34E-01,0,0.151,-16.568,0,"Life in the Ruins for Piano (From ""The Legend of Zelda: Breath of the Wild"")",40,2000,0.046,87.211,1.04E-01,2000
+0.978,['Chet Atkins'],0.601,1.56E+05,2.606,2.96E-01,0,628aUzy2L6xHNoEtY7hsqN,9.01E-01,2,0.098,-14.538,1,The Jitterbug Waltz - Buddha Remastered - 2000,36,3/4/2000,0.06,160.533,6.80E-01,2000
+0.989,['Paul Cardall'],0.336,2.14E+05,3.565,8.98E-02,0,6JySdTlGJTxJd9ALXSxAcO,8.78E-01,5,0.077,-20.269,1,I Feel My Savior's Love,34,2000,0.051,93.805,2.34E-01,2000
+0.995,"['Edvard Grieg', 'Mikhail Pletnev']",0.366,1.66E+05,2.767,7.13E-03,0,1Wy5fW4R9zU0wQcC7ufHxi,9.63E-01,2,0.07,-30.181,1,"Lyric Pieces Book II, Op.38: 1. Berceuse",39,1/1/2000,0.053,67.461,3.60E-02,2000
+0.983,['Yiruma'],0.456,2.98E+05,4.965,6.30E-02,0,2PdmAIaiKrQeiGdcQYOtmh,9.22E-01,2,0.068,-23.328,1,Time Forgets...,44,11/27/2001,0.054,125.501,2.43E-01,2001
+0.984,['Monks Of The Abbey Of Notre Dame'],0.225,8.02E+04,1.336,1.12E-01,0,7pHz7Rl2sxsj5e87uB82fq,2.33E-01,2,0.078,-20.869,1,O Sacrum Convivium,41,2001,0.048,70.111,3.76E-02,2001
+0.988,"['Zutty Singleton', 'Fats Waller']",0.548,2.45E+05,4.091,3.10E-01,0,3XfdUtpJ8VW1iCMJkxZob2,8.69E-01,0,0.158,-14.484,0,Ain't Misbehavin',43,1/19/2002,0.055,95.765,5.98E-01,2002
+0.982,['Blindside'],0.414,3.37E+05,5.618,4.84E-01,0,7tm6kZFYu4hIaxFkw1RZj8,6.17E-01,6,0.116,-13.059,1,Silence,42,8/20/2002,0.046,113.26,3.05E-01,2002
+0.994,"['Wolfgang Amadeus Mozart', 'Oslo Philharmonic Wind Soloists']",0.499,1.84E+05,3.066,2.66E-01,0,3ZC6ibxbELAePyeC9zrekg,8.91E-01,10,0.11,-21.114,1,"Divertimento in B-Flat Major, K. Anh. 227: I. Allegro",45,3/14/2002,0.051,175.392,8.54E-01,2002
+0.953,['Pete Seeger'],0.53,7.75E+04,1.292,3.97E-01,0,3nj18sxe1CA0eohDsDirrm,4.93E-03,4,0.31,-10.352,1,"Oh, Susanna",41,6/25/2002,0.06,137.893,7.95E-01,2002
+0.977,"['Dean Evenson', 'Li Xiangting']",0.205,4.89E+05,8.152,1.40E-01,0,6nLryX6NcQ8ES4UCHLHJuP,9.17E-01,9,0.115,-17.773,0,Stillness at Midnight,42,6/11/2002,0.037,67.951,4.92E-02,2002
+0.974,['Fred Mollin'],0.565,1.82E+05,3.031,1.01E-01,0,5tpDYRQzjY1KidStki4Mtp,5.37E-01,9,0.119,-18.338,1,The Sweetest Dream (Princess Theme),37,2002,0.029,94.984,1.45E-01,2002
+0.976,['Ashana'],0.13,5.77E+05,9.615,2.36E-01,0,6DlDX4ghYBeiKb44HgVM5j,1.07E-02,1,0.108,-10.142,1,Ave Maria,48,1/2/2002,0.034,89.878,3.99E-02,2002
+0.968,['John Williams'],0.178,1.26E+05,2.097,5.03E-02,0,389qtBoJVF0riHChgXgrkt,8.55E-01,5,0.122,-26.414,1,Moaning Myrtle,41,11/11/2002,0.039,134.623,5.63E-02,2002
+0.995,"['Ludwig van Beethoven', 'Stephen Kovacevich']",0.269,3.34E+05,5.566,8.88E-03,0,55BSszZjjv0SjCGzA2maKR,9.19E-01,8,0.102,-30.658,1,"Beethoven: Piano Sonata No. 8 in C Minor, Op. 13 ""Pathétique"": II. Adagio cantabile",35,8/10/2003,0.045,66.892,9.45E-02,2003
+0.967,"['Gustav Mahler', 'Violeta Urmana', 'Wiener Philharmoniker', 'Pierre Boulez']",0.087,4.22E+05,7.033,1.25E-02,0,1SKqoOM0KO1ABXDzal9TNn,1.12E-03,5,0.075,-33.135,1,Rückert-Lieder: Ich bin der Welt abhanden gekommen,45,1/1/2004,0.045,169.146,3.46E-02,2004
+0.975,['Lamp'],0.565,7.51E+04,1.251,5.22E-02,0,6BGNjTZ8zp9MlsIydBa7A9,8.33E-01,7,0.116,-17.892,1,For Lovers,43,2/11/2004,0.045,73.582,5.86E-01,2004
+0.959,['John Williams'],0.484,1.20E+05,1.991,1.46E-02,0,45Ec9tNPuonApiArePn5al,3.00E-01,7,0.088,-28.315,0,Hagrid the Professor,44,5/25/2004,0.038,67.725,4.38E-01,2004
+0.965,"['Bill Engvall', 'Ron White', 'Jeff Foxworthy', 'Larry The Cable Guy']",0.353,5.31E+05,8.846,8.41E-01,0,6DMI9EN9rQAGSqWQZuONb9,6.80E-04,2,0.932,-11.624,1,I Believe,37,11/23/2004,0.744,83.268,1.15E-01,2004
+0.987,['Eminem'],0.77,3.20E+04,0.534,2.34E-01,1,2FPtJP6CQ68hOTHt0OysXC,0.00E+00,8,0.634,-16.867,0,Paul - Skit,42,11/12/2004,0.783,60.286,7.88E-01,2004
+0.962,['Jim Brickman'],0.355,1.62E+05,2.703,3.05E-01,0,5LzSj1aCPrWC8Gagklltes,8.11E-01,0,0.162,-10.434,1,Beauty and the Beast,42,1/1/2005,0.03,136.546,1.93E-01,2005
+0.981,['Fred Mollin'],0.496,1.98E+05,3.292,1.28E-01,0,7JRHI0vNElkfVjPxhfNnb6,8.81E-01,0,0.092,-18.793,1,Lavender Blue (Dilly Dilly) - Instrumental,42,1/1/2005,0.03,111.062,1.96E-01,2005
+0.995,"['George Frideric Handel', 'Anne Queffélec']",0.401,2.76E+05,4.594,6.11E-03,0,27cvNIRYgNqDGki4r49lxF,9.48E-01,7,0.064,-32.702,0,"Menuet en Sol Mineur, Transcription de Wilhem Kempff d’après Le Menuet de la Suite en Si Bémol Majeur No. 1, HWV 434, 1er Cahier",47,2006,0.061,68.54,8.51E-02,2006
+0.986,"['Gioachino Rossini', 'Simon Keenlyside', 'Ulf Schirmer']",0.379,2.96E+05,4.933,2.51E-01,0,5W7IiH2jDV6q6EQwBkq8ld,1.22E-02,0,0.094,-15.488,1,Largo al factotum,43,9/1/2006,0.099,73.316,3.35E-01,2006
+0.996,"['Federico Mompou', 'Javier Perianes']",0.268,1.06E+05,1.763,4.71E-03,0,0hXWX5OdIzAp46BJHHlL6v,8.61E-01,10,0.066,-32.597,1,Música Callada III,44,2006,0.048,73.997,2.42E-01,2006
+0.952,['Madeleine Peyroux'],0.503,2.51E+05,4.183,1.24E-01,0,5ohgxuTz8npyF7kPf88LHO,4.15E-02,10,0.158,-16.659,1,La Javanaise,39,9/12/2006,0.034,107.799,1.66E-01,2006
+0.973,['Nicholas Hooper'],0.221,1.96E+05,3.263,7.28E-02,0,31DXqy0L60lvzl37OMcEoA,9.35E-01,2,0.094,-22.278,1,Loved Ones and Leaving,46,7/7/2007,0.041,89.893,3.21E-02,2007
+0.99,['Stars Of The Lid'],0.147,3.24E+05,5.407,8.65E-02,0,2Uy2p6tkVLj6vaVznKpNCs,9.09E-01,2,0.077,-25.095,1,"Articulate Silences, Pt. 1",43,4/2/2007,0.048,140.612,3.20E-02,2007
+0.983,['David Nevue'],0.294,1.98E+05,3.306,9.46E-02,0,6qQBhhH3TBmcKzzcDuP1Dq,9.01E-01,9,0.113,-19.692,1,How Great Thou Art,43,11/28/2007,0.047,94.223,2.96E-01,2007
+0.992,"['Frédéric Chopin', 'Alexandre Tharaud']",0.36,3.40E+05,5.666,1.77E-02,0,5xXjqFnvQbxZglR1sGm0Yc,8.95E-01,1,0.127,-23.79,1,"24 Préludes, Op. 28: No.15 in D flat major - Sostenuto",47,2/8/2008,0.043,70.353,3.84E-02,2008
+0.978,"['Amy Beach', 'Joanne Polk']",0.24,1.59E+05,2.655,8.34E-02,0,4VVEfBXep7FdOt524jkfLF,9.44E-01,6,0.08,-29.545,0,"Young Birches, Op. 128, No. 2",47,4/7/2008,0.05,169.621,1.88E-01,2008
+0.972,['Zac Brown Band'],0.18,6.16E+04,1.027,3.09E-02,0,4TyqLIbM33rx2pxpVtF904,3.79E-02,1,0.108,-12.999,1,Violin Intro to Free,40,11/17/2008,0.039,73.533,2.85E-01,2008
+0.984,['Paul Cardall'],0.473,1.40E+05,2.334,3.34E-02,0,3huCujeYOzq4cLKnT9ocI2,9.42E-01,3,0.133,-19.637,1,Abide With Me Tis Eventide,40,1/1/2008,0.051,68.994,2.02E-01,2008
+0.985,['Rockabye Baby!'],0.671,2.18E+05,3.64,1.01E-01,0,4b4inATXkXR2Z2idhdXfNN,9.51E-01,2,0.069,-21.88,1,Under Pressure,44,5/19/2009,0.072,93.057,4.37E-01,2009
+0.962,['Liquid Mind'],0.06,4.84E+05,8.067,1.10E-01,0,26sMnwh7vPmSXOStrbTIgv,9.52E-01,5,0.088,-23.047,1,Whisper to Me,42,3/3/2009,0.05,59.117,3.32E-02,2009
+0.957,['Regina Spektor'],0.372,2.10E+05,3.494,1.50E-01,0,7suXfwkW9Cg9fBS3San5T5,1.15E-03,9,0.142,-10.954,0,Hero,46,7/10/2009,0.05,209.528,2.11E-01,2009
+0.968,['Music Together'],0.424,1.46E+05,2.436,1.09E-01,0,1Hd59lTCmW0r6PilUYXFXx,1.68E-03,9,0.109,-16.427,1,Great Big Stars,42,10/1/2009,0.049,166.14,3.79E-01,2009
+0.985,"['Joe Hisaishi', 'London Symphony Orchestra']",0.28,2.42E+05,4.04,1.26E-01,0,1RQIsYl31BghwNTvu6HcLw,8.86E-01,0,0.357,-20.195,1,One Summer's Day - from 'Spirited Away',48,2010,0.038,77.055,4.56E-02,2010
+0.988,['Justin Vernon'],0.169,2.42E+05,4.033,4.24E-01,0,0YcAWPUwih5MrIlD90oiNu,6.64E-01,9,0.065,-8.871,1,Bruised Orange (Chain of Sorrow),46,2010,0.059,50.57,7.77E-02,2010
+0.99,"['Robin Guthrie', 'Harold Budd']",0.223,2.94E+05,4.891,8.28E-02,0,0Z5oEza6OKWhXJBVnlCWzl,8.28E-01,2,0.083,-24.326,1,Radiant City,47,2/18/2011,0.056,129.825,3.59E-02,2011
+0.986,['Battleme'],0.48,1.69E+05,2.822,1.41E-01,0,6n2tWWObNYaPn00JqTADfE,4.82E-03,9,0.06,-11.455,0,"Hey Hey, My My",46,12/6/2011,0.055,119.531,1.55E-01,2011
+0.97,"[""Dustin O'Halloran""]",0.17,1.94E+05,3.23,1.38E-01,0,3Lj5SBeJizCKbxkEvSJYb3,8.26E-01,5,0.071,-17.715,0,We Move Lightly,41,1/1/2011,0.043,150.234,7.03E-02,2011
+0.973,['Beautiful Chorus'],0.276,3.37E+05,5.621,1.69E-01,0,5xcm7iKIoMqw6GUBwFao8v,2.74E-01,1,0.152,-20.498,1,Infinite Universe,49,4/14/2012,0.043,113.618,7.38E-02,2012
+0.995,['Beautiful Chorus'],0.136,2.82E+05,4.699,1.41E-03,0,6ZO5qeCU6EVLiNLstpISAd,6.86E-01,0,0.066,-36.723,1,Root Chakra,49,8/24/2012,0.045,68.917,2.60E-02,2012
+0.98,['Sophie Hutchings'],0.329,3.29E+05,5.485,2.03E-01,0,6BjAF110FvR7r3j7vhmdKW,9.08E-01,10,0.117,-17.049,1,By Night,53,12/8/2012,0.035,103.77,4.22E-02,2012
+0.992,['Danny Wright'],0.371,2.06E+05,3.426,8.01E-02,0,443c7eueRTLZIHk9WMefJn,8.88E-01,7,0.113,-21.241,0,"Colors of the Wind (From ""Pocahontas"")",51,12/11/2012,0.047,168.072,1.32E-01,2012
+0.956,['Tame Impala'],0.286,3.20E+05,5.338,8.06E-01,0,7Jk2pg4g0c5rz5AfkEGMRp,7.64E-02,7,0.615,-7.056,0,Sun's Coming Up,49,1/1/2012,0.094,123.858,3.28E-01,2012
+0.978,['Jeremy Soule'],0.145,4.42E+05,7.358,5.17E-02,0,2jd20t5nkaFrEbTPJNXDzi,9.04E-01,6,0.101,-26.989,1,Aurora,50,1/31/2013,0.042,138.785,3.09E-02,2013
+0.97,['Keith Kenniff'],0.448,1.26E+05,2.095,1.74E-01,0,2WObLX44HN08GK7tx71Q2j,9.23E-01,0,0.109,-15.495,1,Branch,50,2/21/2013,0.031,140.391,1.61E-01,2013
+0.951,['Hans Zimmer'],0.168,1.27E+05,2.116,2.26E-01,0,6a8oa7GncjrVYZuUsNVEMu,9.83E-01,9,0.1,-16.457,0,Cornfield Chase,51,12/18/2014,0.042,94.103,4.77E-02,2014
+0.99,['Jacob David'],0.421,1.75E+05,2.918,1.02E-01,0,6GsOj1QAdG1XIhbFilnj77,9.04E-01,7,0.087,-25.999,0,Judith,55,10/16/2015,0.036,110.995,3.00E-01,2015
+0.975,"['Edvard Grieg', 'Javier Perianes', 'BBC Symphony Orchestra', 'Sakari Oramo']",0.303,8.209e+05            1,3.681,1.19E-01,0,2Z4aQJh0kesRMookvtfR4y,8.80E-01,9,0.112,-18.055,0,"Piano Concerto in A Minor, Op.16: I. Allegro molto moderato",56,5/18/2015,0.039,94.868,3.80E-02,2015
+0.99,['Meditation Music Zone'],0.201,2.52E+05,4.202,2.79E-03,0,7mHfTKdVsb8ZlJSZVB5EqX,8.89E-01,9,0.128,-34.335,0,Deep Meditation,55,11/30/2015,0.045,75.871,1.22E-01,2015
+0.959,"[""Panucci's Pizza""]",0.47,1.99E+05,3.312,3.33E-01,1,2fTsxw433lT9uYnIH3ihDU,7.67E-05,10,0.28,-6.785,1,Aesthetic? (More Like Ass-Pathetic),51,8/26/2015,0.038,123.416,4.15E-01,2015
+0.987,['Baby Lullaby Academy'],0.593,1.42E+05,2.374,2.08E-02,0,7J8drFuULgXhcZm9Lr6b0H,8.95E-02,0,0.167,-35.579,1,Brahm's Lullaby,57,11/24/2015,0.046,67.057,4.24E-01,2015
+0.992,['Charlie Key'],0.466,1.46E+05,2.43,4.72E-03,0,181ybi6b0dYJBcQzETKv67,9.38E-01,5,0.071,-28.546,1,Song for A,62,7/16/2016,0.053,81.181,2.33E-01,2016
+0.953,['Faith Marie'],0.489,3.01E+05,5.011,1.27E-01,0,3CqMuOh8kuc4hrHZrvuDBc,1.39E-06,9,0.074,-12.14,0,Antidote,55,8/4/2016,0.055,127.577,1.75E-01,2016
+0.975,['John Legend'],0.508,2.29E+05,3.808,2.33E-01,0,2pPRgFEENF3LtuxYUPuT24,0.00E+00,8,0.111,-8.311,1,Love Me Now - Recorded at Spotify Studios NYC,64,11/30/2016,0.053,85.543,4.21E-01,2016
+0.988,['The 2 Inversions'],0.131,1.46E+05,2.43,2.33E-01,0,5kOy4Ap0QsN24vCL9H3KTt,8.31E-01,9,0.094,-17.229,0,From Shores To Mountains,59,12/13/2016,0.036,90.691,4.36E-02,2016
+0.995,['Laura Hanson'],0.555,7.68E+04,1.28,3.06E-02,0,78RskfTZHN7IYXY1ZxNbKY,9.58E-01,0,0.122,-23.42,1,Puff The Magic Dragon,64,5/11/2017,0.054,114.703,4.74E-01,2017
+0.996,['Latium'],0.144,2.02E+05,3.361,6.16E-01,0,3U1VKCmUgzdz83Wlw4kBle,4.66E-01,7,0.152,-41.537,0,Space,58,1/18/2017,0.098,138.619,7.68E-03,2017
+0.996,['520Hz'],0,1.98E+05,3.295,1.97E-02,0,1e6Wbu8j4BIYPIYrqY12Re,9.96E-01,1,0.104,-47.19,1,8-Bit CockPit,56,1/18/2017,0,0,0.00E+00,2017
+0.996,['Rita May'],0.73,2.25E+05,3.742,6.40E-02,0,4vWbR3IiMfIbZ3xWh2zpYH,9.64E-01,2,0.125,-17.62,1,Beneath your Beutiful,62,4/26/2017,0.109,98.024,3.26E-01,2017
+0.992,['Elijah Who'],0.798,1.48E+05,2.467,1.17E-01,0,0A6dTlWYD2magT5bqUyZLM,8.21E-01,0,0.114,-16.003,1,i'm tired of feeling this way,58,10/13/2017,0.072,137.83,1.92E-01,2017
+0.993,['Moux'],0.38,1.61E+05,2.674,1.63E-03,0,1pgSiIvNXVQAKlMvjvqL0r,9.60E-01,10,0.134,-26.82,1,Back Home,60,1/6/2017,0.047,69.924,4.02E-01,2017
+0.994,['Mark Souzek'],0.345,1.05E+05,1.753,1.13E-01,0,57YVVhWcChlS42r0EmA9aT,9.01E-01,5,0.165,-24.203,1,Les Etudes,63,9/24/2018,0.048,68.528,3.21E-01,2018
+0.995,['Kasper Schill'],0.388,1.68E+05,2.803,3.52E-02,0,527OzwwTayP2ZYijImtf1B,9.36E-01,5,0.155,-27.79,1,Ava,63,7/27/2018,0.061,76.21,4.42E-01,2018
+0.966,['Claes Nilsson'],0.115,1.69E+05,2.814,1.97E-02,0,6tLFPu4tSmS5LccfUNtbN6,9.28E-01,4,0.195,-25.263,0,Beyond Barricades,63,12/29/2018,0.037,78.449,6.51E-02,2018
+0.995,['Oneke'],0.413,1.63E+05,2.708,4.33E-02,0,4mnfRzyz2dafyBaXBLZle2,9.19E-01,11,0.108,-26.51,1,More than Close,64,9/24/2018,0.054,62.834,2.23E-01,2018
+0.991,['Floriscope'],0.426,1.58E+05,2.633,2.85E-02,0,4EQeE98JeOcxg9YI5k8WV1,9.38E-01,11,0.091,-23.47,1,Petals,64,12/18/2018,0.038,73.849,3.12E-01,2018
+0.996,['Jean Petri'],0.701,1.10E+05,1.841,5.01E-03,0,5nMsoz257d3AbY8O8FC4Jx,9.67E-01,10,0.098,-29.278,1,Loveliness,63,11/9/2018,0.072,62.028,5.45E-01,2018
+0.996,['Belle Margaux'],0.601,7.30E+04,1.216,4.90E-03,0,10SGotpqSWPSvbIyMuWLS9,9.57E-01,6,0.094,-25.681,1,Theme from the Steps of Life,62,2/8/2018,0.078,68.645,1.43E-01,2018
+0.989,['Luna Meguise'],0.402,1.34E+05,2.225,3.90E-03,0,1npS27jD8Fm6QpNHmtH5Pq,9.52E-01,9,0.108,-24.714,0,Noches rojas,65,6/3/2019,0.058,71.902,1.82E-01,2019
+0.983,['Skye Baird'],0.17,1.68E+05,2.8,9.29E-02,0,2YAyMEoG27O7q9aTW0lmvy,9.80E-01,7,0.074,-23.198,1,Floating,60,8/16/2019,0.045,70.299,5.11E-02,2019
+0.976,['Naturally Recurring'],0.225,2.09E+05,3.481,1.31E-02,0,5ca7B7Qi2gpzPELK9lBab0,9.58E-01,5,0.086,-29.096,0,Finding Calmness,66,3/25/2019,0.041,64.27,7.62E-02,2019
+0.981,['Leah Maur'],0.203,1.61E+05,2.689,5.41E-03,0,1IdZJSn4MgU8nGWVQGm25D,9.02E-01,0,0.111,-32.599,1,For now,66,8/16/2019,0.038,69.264,5.11E-02,2019
+0.993,['Jordan Barns'],0.463,2.02E+05,3.364,2.49E-02,0,4SNS6KMBDrfK676bO1hQj9,9.28E-01,8,0.127,-24.519,1,Forrest Gump - Main Title (Feather Theme),67,4/6/2019,0.039,144.599,2.16E-01,2019
+0.981,['Scintillante'],0.266,1.79E+05,2.983,6.88E-03,0,2dtIoZ0tJ3EH3EcxAkGNE8,8.37E-01,6,0.101,-31.019,1,È ora di dormire,65,11/22/2019,0.041,75.929,6.67E-02,2019
+0.995,['Romaine LaGrande'],0.43,1.24E+05,2.073,5.17E-02,0,3TuBgx3BBnkN1TiKZEmvEZ,9.20E-01,10,0.118,-28.208,1,Tu me fascines,66,12/6/2019,0.039,67.693,3.29E-01,2019
+0.993,['Koby Laver'],0.265,1.92E+05,3.2,1.47E-02,0,53Mz4V3XL02YupbVnJKfMl,9.49E-01,8,0.103,-31.932,0,Close your eyes,66,8/16/2019,0.035,67.676,7.45E-02,2019
+0.981,['Eleanor Arroway'],0.18,2.31E+05,3.852,5.45E-02,0,7mBZGPbX8nmWRZfhityZda,9.62E-01,0,0.089,-28.084,1,Touch of My Soul,61,8/19/2019,0.031,71.586,5.06E-02,2019
+0.996,['Ludovico Sagese'],0.465,1.24E+05,2.058,2.89E-02,0,4SMp3hkQV64IoaaKsBQoBo,9.59E-01,3,0.136,-27.689,1,Edelweiss,66,2/14/2020,0.043,99.873,4.48E-01,2020
+0.996,['Gregory Oberle'],0.562,1.85E+05,3.087,3.31E-02,0,0SjsIzJkZfDU7wlcdklEFR,9.61E-01,1,0.111,-25.551,1,John Brown's Song,66,3/20/2020,0.103,63.696,3.86E-01,2020
+0.988,['Yue Yan Jen'],0.115,1.97E+05,3.275,5.35E-02,0,4na8bW6oc43oxwage8huso,9.12E-01,2,0.109,-34.856,1,守得云开见月明 - Every cloud has a silver lining,62,2/28/2020,0.032,69.239,2.44E-01,2020
+0.99,['Tristian Fitzmaurice'],0.593,1.19E+05,1.981,8.64E-03,0,4z34BTsWVB44l98BrafyHp,9.58E-01,0,0.14,-25.273,1,I Can Sing A Rainbow,66,2/21/2020,0.056,132.772,6.74E-01,2020
+0.995,['Pamela Goldings'],0.261,2.07E+05,3.442,4.11E-02,0,6wqnYzf6QuiJo2BMkn3cXT,9.29E-01,1,0.101,-26.863,1,The Cottage,67,5/15/2020,0.062,199.838,2.35E-01,2020
+0.994,['Kyran Martin'],0.394,1.24E+05,2.068,6.40E-02,0,3wmraTkkrCmY1TFEPIzpFy,9.50E-01,6,0.106,-24.097,0,Brig O' Balgownie,66,3/6/2020,0.047,106.44,3.59E-01,2020
+0.967,['Sleep Lab'],0.193,1.96E+05,3.27,1.05E-01,0,2DekjNJII6yEgm8HwOqQWq,9.53E-01,0,0.103,-24.289,1,Calibration of Life,61,1/20/2020,0.045,80.321,3.74E-02,2020
+0.995,['Olivier Mournier'],0.258,1.29E+05,2.156,3.56E-02,0,54UQ3Jzm53YkAHpj3BGOQa,9.04E-01,8,0.109,-23.568,1,Pour tous les cœurs du monde,66,1/17/2020,0.041,68.714,2.82E-01,2020
+0.979,"[""Charmaine D'Avis""]",0.176,2.04E+05,3.392,2.44E-02,0,64zhFuKM4TwZ0dcKogeKAN,8.64E-01,2,0.088,-32.609,1,Rêvasseur,66,1/24/2020,0.039,64.747,9.32E-02,2020
+0.995,['Luke Faulkner'],0.353,1.70E+05,2.829,7.50E-02,0,6dfdNTuLOK8eFusN8HaQg8,8.86E-01,10,0.117,-25.635,0,Clocks,66,2/21/2020,0.038,120.308,3.17E-01,2020
+0.995,['Ludovico Sagese'],0.491,7.20E+04,1.2,5.09E-02,0,2LktcIchl4v0rPXWvwBNlc,9.45E-01,5,0.117,-27.587,1,"Row, row, row your boat",66,2/14/2020,0.051,94.146,5.61E-01,2020
+0.987,['Yiruma'],0.314,1.89E+05,3.146,2.20E-01,0,64rL48E6xWMIXdpcFDEiB8,9.43E-01,9,0.08,-21.343,1,River Flows In You,72,11/27/2001,0.051,145.277,1.16E-01,2001
+0.976,"['Gary Jules', 'Michael Andrews']",0.345,1.90E+05,3.158,5.81E-02,0,3JOVTQ5h8HGFnDdp4VT3MP,3.66E-04,3,0.103,-17.217,1,Mad World (Feat. Michael Andrews),70,1/1/2002,0.037,174.117,3.04E-01,2002
+0.98,['Thomas Newman'],0.164,7.61E+04,1.269,2.48E-02,0,7jSQaXLzpLHjSQTev2krvT,9.67E-01,5,0.103,-27.25,1,Nemo Egg (Main Title),64,5/20/2003,0.046,79.083,5.53E-02,2003
+0.977,['José González'],0.589,1.62E+05,2.695,1.77E-01,0,5YqpHuXpFjDVZ7tY1ClFll,7.14E-01,3,0.096,-14.891,1,Heartbeats,63,2006,0.033,88.409,3.11E-01,2006
+0.971,"['Bon Iver', 'St. Vincent']",0.329,2.90E+05,4.826,2.77E-01,0,4k7x3QKrc3h3U0Viqk0uop,2.40E-02,10,0.097,-13.111,0,Rosyln,71,10/9/2009,0.03,159.719,1.21E-01,2009
+0.952,['Birdy'],0.379,2.01E+05,3.351,2.90E-01,0,4RL77hMWUq35NYnPLXBpih,1.06E-03,4,0.118,-8.485,1,Skinny Love,75,11/4/2011,0.051,166.467,1.69E-01,2011
+0.951,['Hozier'],0.415,2.40E+05,4.002,1.10E-01,0,1C042FLYy7rP3MfnkOcnha,2.36E-03,1,0.096,-14.901,1,Cherry Wine - Live,66,9/19/2014,0.039,81.876,2.34E-01,2014
+0.969,['Lord Huron'],0.545,2.08E+05,3.47,3.66E-01,0,0QZ5yyl6B6utIWkxeBDxQN,2.67E-01,2,0.641,-9.51,1,The Night We Met,75,4/7/2015,0.038,86.997,1.00E-01,2015
+0.965,['Ruth B.'],0.71,2.75E+05,4.588,5.65E-02,0,4h0zU3O9R5xzuTmNO7dNDU,0.00E+00,7,0.089,-15.099,1,Lost Boy,76,8/21/2015,0.053,123.994,3.48E-01,2015
+0.978,['Billie Eilish'],0.367,1.96E+05,3.268,1.11E-01,0,43zdsphuZLzwA9k4DJhU0I,3.97E-05,4,0.09,-14.084,1,when the party's over,87,3/29/2019,0.097,82.642,1.98E-01,2019
+0.952,['Billie Eilish'],0.421,2.92E+05,4.863,1.31E-01,0,6CcJMwBtXByIz4zQLzFkKc,4.53E-03,0,0.109,-18.435,1,i love you,83,3/29/2019,0.038,137.446,1.20E-01,2019
+0.992,"['Frédéric Chopin', 'Mikhail Pletnev']",0.225,2.60E+05,4.325,4.70E-03,0,2MSgFefjK0T7Iwjvr3OKqV,8.81E-01,1,0.072,-30.928,0,"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",64,2000,0.051,163.665,1.86E-01,2000
+0.984,"['Gillian Welch', 'Alison Krauss']",0.688,2.38E+05,3.964,2.60E-01,0,4rJtUMlnhJzlzlnxyoc3tb,2.47E-02,2,0.112,-13.686,1,I'll Fly Away,56,12/5/2000,0.035,102.935,4.43E-01,2000
+0.991,['Yann Tiersen'],0.484,1.41E+05,2.346,1.92E-01,0,4O2N861eOnF9q8EtpH8IJu,9.08E-01,2,0.106,-15.378,1,"Comptine d'un autre été, l'après-midi",57,4/23/2001,0.046,100.084,5.59E-02,2001
+0.996,['Aphex Twin'],0.558,1.26E+05,2.092,2.59E-02,0,2MZSXhq4XDJWu6coGoXX1V,8.71E-01,8,0.097,-30.016,1,Avril 14th,64,10/22/2001,0.046,157.811,3.70E-01,2001
+0.974,['Enya'],0.215,2.58E+05,4.296,1.69E-01,0,7LAJWSKK8JMIZAcblgUMS6,5.85E-02,9,0.091,-17.88,1,May It Be,64,11/19/2001,0.04,132.925,5.47E-02,2001
+0.99,['Yiruma'],0.559,2.61E+05,4.344,5.19E-02,0,40BHvbyw4UeadzkzaVpcbD,9.05E-01,8,0.117,-22.616,1,Kiss The Rain,64,10/23/2003,0.042,132.694,1.82E-01,2003
+0.956,['Ludovico Einaudi'],0.177,3.58E+05,5.962,6.00E-02,0,3aLof1zmaQ0GLcAc9YQ3Fq,8.48E-01,8,0.103,-25.377,1,Nuvole bianche,62,2004,0.057,136.248,4.99E-02,2004
+0.958,['John Mayer'],0.496,1.98E+05,3.303,2.38E-01,0,78DwRIo6Vj6wqteyerGetr,1.09E-02,1,0.087,-11.026,1,The Heart of Life,64,9/11/2006,0.03,175.96,3.49E-01,2006
+0.995,"['Ludwig van Beethoven', 'Paul Lewis']",0.184,3.15E+05,5.257,5.27E-03,0,3DNRdudZ2SstnDCVKFdXxG,8.87E-01,1,0.173,-37.264,0,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",67,9/25/2007,0.043,170.612,1.51E-01,2007
+0.979,['Bon Iver'],0.676,4.01E+05,6.69,8.12E-02,0,2LthqyP0MLhGUBICwR1535,4.16E-01,2,0.118,-22.846,1,Re: Stacks,64,2/19/2008,0.04,125.053,3.14E-01,2008
+0.955,['The Wood Brothers'],0.465,2.85E+05,4.748,2.42E-01,0,72i7dwVrHdfDnr3qmINh5U,2.23E-02,9,0.126,-10.46,1,Postcards From Hell,59,1/1/2008,0.03,102.812,3.15E-01,2008
+0.952,['Adele'],0.305,2.50E+05,4.169,4.52E-01,0,5O6yk6U8L3rTbFsIwuqe8H,1.68E-05,0,0.129,-6.077,0,Turning Tables,66,1/19/2011,0.029,79.83,2.10E-01,2011
+0.992,['C418'],0.429,2.16E+05,3.592,1.00E-02,0,4NsPgRYUdHu2Q5JRNgXYU5,9.45E-01,2,0.103,-25.164,1,Sweden,65,3/4/2011,0.054,74.677,2.07E-01,2011
+0.951,"['Frank Ocean', 'André 3000']",0.392,2.69E+05,4.48,2.33E-01,1,1fOkmYW3ZFkkjIdOZSf596,3.22E-04,11,0.106,-11.012,0,Pink Matter,64,7/10/2012,0.059,176.569,4.94E-01,2012
+0.964,['Birdy'],0.405,1.90E+05,3.158,1.11E-01,0,5sF7hdYvhrcgNq8NZjfK8L,4.37E-05,0,0.087,-11.879,1,Not About Angels,74,4/13/2014,0.037,116.86,2.19E-01,2014
+0.954,['Sleeping At Last'],0.418,2.43E+05,4.05,2.48E-01,0,5zCunX8URvLoBHlg1Fnjv6,4.21E-06,3,0.108,-9.997,1,Already Gone,73,11/4/2016,0.045,130.953,2.98E-01,2016
+0.964,['Pink Sweat$'],0.66,1.89E+05,3.15,1.39E-01,1,2B1JaRSd7T7YP90n6sCh9I,8.02E-06,6,0.104,-16.339,0,Honesty,71,7/12/2018,0.032,79.976,3.06E-01,2018
+0.951,"['Emmylou Harris', 'Alison Krauss', 'Gillian Welch']",0.653,1.18E+05,1.963,1.05E-01,0,7ESCrKC98mNhYZY9AenRMQ,0.00E+00,10,0.114,-16.511,0,Didn't Leave Nobody But The Baby,55,12/5/2000,0.045,52.946,2.31E-01,2000
+0.98,['Thomas Newman'],0.206,1.86E+05,3.101,6.64E-03,0,6XJGpirOP4Bgurcvkdanxb,9.58E-01,7,0.088,-31.964,0,American Beauty,59,1/11/2000,0.037,77.018,5.20E-02,2000
+0.987,"['Wolfgang Amadeus Mozart', 'Academy of St. Martin in the Fields', 'Sir Neville Marriner']",0.428,4.60E+05,7.667,2.37E-01,0,64ta7ZvTJeThz7Ns4LmAHS,8.96E-01,7,0.085,-13.764,0,"Symphony No.25 in G minor, K.183: 1. Allegro con brio",60,1/1/2000,0.035,79.904,3.57E-01,2000
+0.957,['John Williams'],0.177,1.30E+05,2.172,1.88E-02,0,6CeCOC2zx1qS8mQNYHe6IM,4.46E-01,2,0.635,-29.484,0,Prologue,61,10/30/2001,0.037,146.472,8.19E-02,2001
+0.994,['Steve Anderson'],0.288,3.18E+05,5.292,3.41E-03,0,0BeN6CA7RuwNdJa64NV1l0,9.14E-01,1,0.066,-36.278,1,"Suite Bergamasque, L. 75: III. Clair De Lune",56,5/7/2002,0.047,74.662,5.40E-02,2002
+0.995,"['Johann Sebastian Bach', 'Leon Fleisher']",0.494,2.96E+05,4.931,1.60E-02,0,7wEql4SrP9nL5U4zxmcrVM,9.22E-01,10,0.136,-32.307,1,Sheep May Safely Graze,60,2004,0.043,98.224,1.18E-01,2004
+0.991,['Jean-Yves Thibaudet'],0.332,1.59E+05,2.643,5.25E-02,0,0EHJOhOakEiobXo81vegdy,8.91E-01,0,0.068,-24.1,1,"Dawn - From ""Pride & Prejudice"" Soundtrack",56,1/1/2005,0.039,78.853,9.70E-02,2005
+0.953,['James Blunt'],0.432,2.59E+05,4.311,2.61E-01,0,6gxycjJNMgmAyfzUXBN80P,3.42E-03,4,0.09,-12.591,1,Goodbye My Lover,68,8/8/2005,0.051,89.567,2.73E-01,2005
+0.993,"['Claude Debussy', 'Alain Planes']",0.343,2.79E+05,4.653,2.52E-02,0,6N7JzrteJv8lsr1GWYyu0b,9.32E-01,1,0.045,-27.013,1,Suite bergamasque: Suite bergamasque: III. Clair de lune. Andante très expressif,63,7/31/2007,0.049,67.207,3.95E-02,2007
+0.985,['Sarah McLachlan'],0.29,1.85E+05,3.075,1.92E-01,0,0vFJC16vkmxDqh5K2Hv5y6,2.79E-06,5,0.104,-11.287,1,When She Loved Me,67,4/14/2008,0.044,170.397,2.32E-01,2008
+0.96,['Adele'],0.802,2.20E+05,3.658,1.09E-01,0,4exfI4lpJYg1qAqZL8w62q,0.00E+00,9,0.109,-13.215,1,Daydreamer,60,1/28/2008,0.04,109.043,3.26E-01,2008
+0.962,['Adele'],0.451,2.69E+05,4.487,3.40E-01,1,2qERBmbj9TrYbNDh9yWX9G,3.04E-05,10,0.103,-8.518,0,Hometown Glory,59,1/28/2008,0.037,122.544,2.13E-01,2008
+0.97,['Michael Giacchino'],0.278,2.51E+05,4.176,6.75E-02,0,7iocNjLrxPHLl8njgRlv5U,7.32E-01,0,0.081,-20.946,1,Married Life,63,1/1/2009,0.04,82.626,1.12E-01,2009
+0.964,['Bon Iver'],0.494,2.85E+05,4.753,3.72E-01,0,7qUoDTmVj07qUf6ZBDhWKl,2.96E-02,7,0.117,-11.89,1,Blood Bank,62,1/20/2009,0.033,116.855,2.50E-01,2009
+0.983,['Bon Iver'],0.668,1.60E+05,2.668,8.10E-02,0,7oRNU7Tmek0nm2lqyDojoG,4.20E-01,0,0.114,-17.282,1,Beach Baby,60,1/20/2009,0.037,114.358,9.25E-02,2009
+0.987,"['Brian Eno', 'Jon Hopkins', 'Leo Abrahams']",0.324,1.32E+05,2.205,3.79E-02,0,7Jd0MqZq15T4pDWts2G6Yl,9.07E-01,11,0.076,-25.247,1,Emerald and Stone,62,11/1/2010,0.055,120.169,3.83E-02,2010
+0.98,['C418'],0.267,2.54E+05,4.233,1.54E-02,0,6xwhCiWXREsAIQVZqHswVw,6.36E-01,1,0.066,-22.922,1,Minecraft,64,3/4/2011,0.044,141.012,1.08E-01,2011
+0.996,['C418'],0.616,9.00E+04,1.5,3.50E-02,0,1tinoQpYXzpZDrb0BjK1e7,9.39E-01,9,0.084,-25.836,1,Wet Hands,62,3/4/2011,0.043,147.707,6.43E-01,2011
+0.993,['Jon E. Amber'],0.304,1.45E+05,2.423,2.75E-03,0,2236Rw4h6OBwtNTtAUiyJ5,9.32E-01,7,0.064,-38.48,1,All Is Good,67,6/1/2013,0.052,69.405,2.53E-01,2013
+0.951,['Hozier'],0.415,2.40E+05,4.002,1.10E-01,0,0bZ52QzCCKfrfOqs7za6lI,2.34E-03,1,0.096,-14.901,1,Cherry Wine - Live,62,10/7/2014,0.039,81.876,2.34E-01,2014
+0.982,['White Noise Baby Sleep'],0.179,5.95E+05,9.918,1.89E-03,0,20GlDz2SYsXF8pzdxguxfe,2.79E-01,1,0.111,-25.2,1,"White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",72,3/27/2015,0.327,81.71,1.00E-05,2015
+0.968,['Pink Noise'],0.105,3.00E+05,5.003,3.28E-02,0,52UFaisgZzjLPyuhf01Amo,8.74E-01,1,0.112,-33.814,1,Pink Noise for Sleeping,64,5/24/2016,0.075,78.386,1.40E-02,2016
+0.982,['beabadoobee'],0.532,1.27E+05,2.114,1.37E-01,0,429NtPmr12aypzFH3FkN9l,9.62E-01,9,0.112,-18.208,1,Coffee,74,11/4/2017,0.072,118.734,3.01E-01,2017
+0.991,['Wes Montgomery'],0.62,2.92E+05,4.868,1.04E-01,0,5Y8XLhYm4ZeMU25Rg24YoH,9.12E-01,3,0.112,-17.733,1,In Your Own Sweet Way,49,1/1/2000,0.043,119.381,9.85E-02,2000
+0.983,['Thomas Newman'],0.304,2.47E+05,4.11,1.16E-02,0,33B1XmfncHqnfkrYZIcHbD,9.63E-01,7,0.104,-33.19,0,Any Other Name,59,1/11/2000,0.034,77.84,3.64E-02,2000
+0.959,['Alison Krauss'],0.54,1.76E+05,2.933,1.46E-01,0,79x6uDDP9EAT5c35zOZhXv,0.00E+00,4,0.234,-15.347,1,Down To The River To Pray,50,12/5/2000,0.076,131.56,5.94E-01,2000
+0.979,['Howard Shore'],0.104,2.29E+05,3.818,1.11E-01,0,3Knohqfb9jeYzL6wMZiWLM,9.26E-01,1,0.11,-20.031,1,"The Council of Elrond (feat. ""Aniron"") [Theme for Aragorn and Arwen]",61,11/19/2001,0.052,83.933,3.90E-02,2001
+0.953,['Joe Hisaishi'],0.389,1.90E+05,3.163,1.97E-01,0,3gFQOMoUwlR6aUZj81gCzu,8.98E-01,0,0.097,-15.956,1,One Summer Day,59,7/18/2001,0.038,78.495,6.26E-02,2001
+0.992,"['Evert Taube', 'Anonymous', 'Mats Bergström']",0.408,2.02E+05,3.373,4.59E-02,0,2jyncYHfaALou4boThEpJd,9.50E-01,2,0.104,-22.58,1,Sa skimrande var aldrig havet: Så skimrande var aldrig havet (Arr. For guitar),57,1/1/2001,0.047,70.584,1.53E-01,2001
+0.97,"['Ilene Woods', ""Cinderella's Mice Chorus""]",0.264,2.76E+05,4.605,1.28E-01,0,3uVkugZz6yCTw5Z8sDI19F,8.03E-04,3,0.127,-17.857,1,"A Dream Is a Wish Your Heart Makes - From ""Cinderella""/Soundtrack Version",53,1/1/2001,0.05,73.643,1.50E-01,2001
+0.991,"['Wolfgang Amadeus Mozart', 'Orpheus Chamber Orchestra']",0.171,3.30E+05,5.5,3.70E-02,0,0XkcuWNLacWDwEDmvq4CCy,8.98E-01,3,0.123,-25.191,1,"Serenade in B-Flat Major, K. 361 ""Gran Partita"": 3. Adagio",53,1/1/2001,0.041,67.89,3.70E-02,2001
+0.959,['Norah Jones'],0.584,1.45E+05,2.421,1.85E-01,0,39kuVkJjfRjXqUpAtkDItK,7.20E-03,7,0.105,-13.986,1,Seven Years,60,2/26/2002,0.035,127.151,3.76E-01,2002
+0.993,['Craig Pruess & Ananda'],0.182,1.284e+06            2,1.396,7.55E-02,0,3fujO0PLd0MoerzZeq1n2X,6.90E-02,10,0.082,-18.467,1,Devi Prayer,60,1/1/2002,0.041,135.333,4.25E-02,2002
+0.966,['Britney Spears'],0.398,2.30E+05,3.838,2.84E-01,0,0dRhSF9LV0HR8Jwd3MMMKJ,8.57E-05,3,0.116,-12.852,1,Everytime,63,11/13/2003,0.034,109.599,1.14E-01,2003
+0.975,['Jean-Yves Thibaudet'],0.217,8.28E+04,1.38,1.17E-01,0,6QuCKdMsTW8ppnUiFmxJLF,9.11E-01,3,0.057,-21.398,1,"Liz On Top Of The World - From ""Pride & Prejudice"" Soundtrack",52,1/1/2005,0.037,46.755,3.88E-02,2005
+0.995,"['Claude Debussy', 'Alain Planes']",0.251,2.33E+05,3.89,9.04E-03,0,086sjLPEqdKBgTxbTeCLCv,9.22E-01,5,0.078,-31.599,1,Rêverie,59,7/31/2007,0.041,62.225,8.19E-02,2007
+0.981,['Édith Piaf'],0.371,1.88E+05,3.129,2.78E-01,0,3lAun9V0YdTlCSIEXPvfsY,0.00E+00,7,0.272,-8.596,0,La Vie en rose,63,10/13/2008,0.03,82.331,3.38E-01,2008
+0.982,['Sarah McLachlan'],0.272,1.85E+05,3.087,1.67E-01,0,6cXfnv6CBEr5zWQaQGQLVB,0.00E+00,5,0.087,-12.845,1,"When She Loved Me - From ""Toy Story 2""",55,1/1/2009,0.042,74.125,2.48E-01,2009
+0.978,['Matthew Halsall'],0.401,6.725e+05            1,1.209,2.36E-02,0,2wOlZrHUpRP9hQbqbV9Ae5,5.79E-01,6,0.102,-18.749,0,Together,60,10/26/2009,0.035,110.519,1.63E-01,2009
+0.99,"['Frédéric Chopin', 'Luis Fernando Pérez']",0.387,2.68E+05,4.474,4.51E-02,0,7n92QzQomRCLlciO14X0kd,9.13E-01,3,0.112,-24.698,1,Nocturne en mi bémol majeur opus 9 n°2: Ballade en Sol Mineur No.1,66,5/18/2010,0.036,61.494,7.10E-02,2010
+0.986,['Rockabye Lullaby'],0.521,2.90E+05,4.83,9.98E-02,0,3tBm6WBuQrNBSTaVS1iwFJ,8.68E-01,0,0.234,-17.308,0,Baby Mine - Dumbo,60,4/26/2011,0.1,151.094,3.11E-01,2011
+0.968,['Rockabye Lullaby'],0.47,2.31E+05,3.851,5.06E-02,0,2IY5x7cYBRvpJHA8QYHUwj,8.95E-01,5,0.097,-14.161,1,When She Loved Me - Toy Story 2,60,4/26/2011,0.068,117.077,2.03E-01,2011
+0.993,['C418'],0.187,6.50E+04,1.083,3.76E-03,0,7K7E7LKK51PezScgsvVg9Y,3.82E-01,6,0.077,-41.766,1,Key,59,3/4/2011,0.041,69.2,3.74E-02,2011
+0.994,['Twenty One Pilots'],0.537,1.43E+05,2.376,2.31E-02,0,6BEKt5axiNeWCr9huv0k7I,4.71E-02,7,0.146,-14.407,1,Truce,64,1/8/2013,0.048,120.322,3.42E-01,2013
+0.988,['Winter Aid'],0.521,3.13E+05,5.221,8.89E-02,0,68RI4I6SKm57SxjG06OYvN,1.82E-01,4,0.097,-19.457,1,The Wisp Sings,64,11/11/2013,0.051,115.43,4.79E-02,2013
+0.983,['The Strokes'],0.544,2.05E+05,3.413,2.41E-01,0,3Y4rUyw7XBCK6hGHCOt6rp,7.74E-01,4,0.101,-14.779,0,"Call It Fate, Call It Karma",63,3/25/2013,0.03,109.437,3.59E-01,2013
+0.952,['Tom Odell'],0.444,1.93E+05,3.218,1.79E-01,0,4KlL5Bwlm4yHYxr0B2rHci,5.60E-04,1,0.107,-12.938,1,Heal,70,6/24/2013,0.04,72.255,1.19E-01,2013
+0.953,['Ella Eyre'],0.572,2.31E+05,3.845,2.31E-01,0,48wSJ6NhMFYYB6LjdnPNjM,3.88E-06,0,0.111,-6.316,0,We Don't Have To Take Our Clothes Off,61,1/12/2015,0.033,96.729,3.32E-01,2015
+0.986,"['Camille Saint-Saëns', 'Yo-Yo Ma', 'Kathryn Stott']",0.169,1.74E+05,2.904,1.61E-02,0,0jOnZhF75V68VsBObWx2XO,8.60E-01,9,0.081,-31.034,0,"The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",66,9/18/2015,0.044,128.143,5.73E-02,2015
+0.975,['Frank Ocean'],0.377,3.35E+05,5.576,2.55E-01,0,1BViPjTT585XAhkUUrkts0,2.08E-04,4,0.102,-11.165,0,Seigfried,66,8/20/2016,0.039,125.004,3.70E-01,2016
+0.968,['Deep Sleep Music Collective'],0.153,1.19E+05,1.978,1.97E-03,0,2hIzjuxyItTpPuZZIULExJ,9.13E-01,1,0.121,-36.815,1,Sleeping Music (Deep Sleep),69,11/7/2016,0.052,134.697,3.90E-02,2016
+0.983,['Christian Leave'],0.608,1.36E+05,2.262,2.69E-01,0,6VrAgFXBbRX2PkT92lAoKK,1.96E-06,0,0.337,-7.201,1,Can't Help Falling in Love,67,7/1/2016,0.033,126.372,3.89E-01,2016
+0.956,"['Teqkoi', 'Aiko']",0.451,1.03E+05,1.723,1.43E-01,0,3jZDWsoxRHzzp3DYV8qeXE,0.00E+00,3,0.195,-15.685,1,You Broke My Heart Again,74,10/13/2018,0.235,149.509,2.33E-01,2018
+0.979,['Clairo'],0.509,1.76E+05,2.933,1.67E-02,0,3zksbXteOCeSusJ5Xltr3t,2.72E-05,9,0.387,-24.639,1,Bubble Gum,73,2/22/2019,0.115,207.97,2.29E-01,2019
+0.959,['Enya'],0.165,1.69E+05,2.814,4.83E-02,0,0jVDUBHY2SziMS3MwhKBpJ,3.07E-01,9,0.072,-23.188,1,Deora Ar Mo Chroí,53,11/11/2000,0.041,136.752,6.85E-02,2000
+0.978,"['Niccolò Paganini', 'Itzhak Perlman']",0.465,2.69E+05,4.481,1.28E-01,0,6cC6h5E351deEGFd7Kh9uy,2.71E-01,9,0.042,-17.628,0,"Paganini: 24 Caprices, Op. 1: No. 24 in A Minor (Tema con variazioni. Quasi presto)",56,2/1/2000,0.052,111.471,4.28E-01,2000
+0.96,['Stephen Speaks'],0.57,2.19E+05,3.647,3.17E-01,0,2PkQeKapTNUjwpKLf8aJlq,6.59E-03,0,0.098,-10.055,1,Out of My League,65,9/4/2001,0.029,92.642,4.00E-01,2001
+0.992,['Yiruma'],0.467,2.41E+05,4.009,1.24E-01,0,4zFRzp0Gi6FB6YMCZOwzW8,8.79E-01,1,0.091,-22.376,1,May Be,57,11/27/2001,0.051,111.942,1.21E-01,2001
+0.96,"['Howard Shore', 'Isabel Bayrakdarian']",0.122,1.96E+05,3.26,4.07E-02,0,1TQKEwq4y9SkNciJuisE1m,8.47E-01,4,0.104,-26.194,0,Evenstar,57,12/2/2002,0.046,74.418,3.42E-02,2002
+0.973,['Johnny Cash'],0.454,1.79E+05,2.977,2.65E-01,0,6SCgT1QDWcsnMusKYua9eE,9.52E-04,2,0.132,-12.079,1,We'll Meet Again,54,1/1/2002,0.05,94.298,2.55E-01,2002
+0.995,"['Frédéric Chopin', 'Nikolai Lugansky']",0.398,3.48E+05,5.806,2.93E-03,0,4q8f3Ls32PcXE8Ks4V1ufx,9.22E-01,1,0.09,-29.481,1,"Chopin: 24 Preludes Op. 28: No. 15 in D-Flat Major, ""Raindrop""",57,3/1/2002,0.067,130.464,8.04E-02,2002
+0.979,['Norah Jones'],0.442,1.88E+05,3.128,2.85E-02,0,03gk2zRwm8uUZDbyZJtPgh,5.28E-04,0,0.088,-17.434,1,The Nearness Of You,56,2/26/2002,0.041,106.162,1.97E-01,2002
+0.978,"['Ennio Morricone', 'Yo-Yo Ma', 'Roma Sinfonietta']",0.161,1.92E+05,3.201,2.61E-01,0,4tZIHyRe46VpgRYMJWcqPO,9.02E-01,2,0.134,-13.907,1,The Mission: Gabriel's Oboe,56,2004,0.038,70.282,4.77E-02,2004
+0.99,['Ludovico Einaudi'],0.084,2.06E+05,3.433,2.95E-02,0,3XgYgYBUCuaMOI0dsUMM75,8.81E-01,9,0.071,-31.578,0,Una mattina,56,2004,0.06,83.316,7.09E-02,2004
+0.952,['The Black Keys'],0.404,2.95E+05,4.916,5.08E-01,0,7nl6fbpRrLAED8KR2pUgTp,8.07E-04,8,0.164,-5.893,0,The Lengths,51,2004,0.026,143.911,2.78E-01,2004
+0.983,['Ludovico Einaudi'],0.251,3.24E+05,5.399,1.26E-01,0,3wG4INTm390F03HTVGHTC3,8.85E-01,2,0.092,-28.458,1,Le Onde,49,2004,0.059,120.929,4.67E-02,2004
+0.97,['My Chemical Romance'],0.737,8.17E+04,1.361,3.99E-01,1,0Kt9sF46S7DFKrQOsXqidV,0.00E+00,4,0.196,-10.147,1,Blood - End Credits,55,6/24/2008,0.135,123.979,8.20E-01,2008
+0.989,['Goldmund'],0.217,2.81E+05,4.685,5.72E-03,0,7hyAAjHZaDWSPDzlUYNUIa,9.25E-01,2,0.109,-30.767,1,Threnody,58,9/5/2008,0.039,85.279,1.74E-01,2008
+0.99,"['Claude Debussy', 'Jean-Efflam Bavouzet']",0.294,2.44E+05,4.068,1.71E-02,0,1btSclzWM6mSKy0pFACPCZ,9.10E-01,4,0.085,-32.377,1,"2 Arabesques, L. 66: No. 1 in E Major",56,1/1/2008,0.038,137.906,6.39E-02,2008
+0.958,['Bon Iver'],0.671,3.29E+05,5.488,1.47E-01,0,4cTD99OSLy19Uh2exKRQNa,7.79E-02,10,0.144,-18.626,1,Blindsided,54,2/19/2008,0.037,115.298,5.56E-02,2008
+0.995,"['Erik Satie', 'Alexandre Tharaud']",0.594,2.04E+05,3.404,5.44E-03,0,4jep6dMPP0z7HrN375InoL,9.52E-01,7,0.081,-35.422,1,Première Gymnopédie,60,1/20/2009,0.07,76.497,3.14E-01,2009
+0.993,['Jon Hopkins'],0,1.01E+05,1.682,8.34E-03,0,4TzRObrwZ4eDjdrXlNgJyR,9.36E-01,1,0.195,-23.201,1,Small Memory,51,5/5/2009,0,0,0.00E+00,2009
+0.971,['C418'],0.771,2.04E+05,3.4,1.79E-01,0,4RROfcxQXFIwW0ugcZfdC4,8.21E-01,4,0.069,-16.702,0,Haggstrom,58,3/4/2011,0.064,112.018,3.74E-02,2011
+0.962,['C418'],0.616,2.82E+05,4.692,2.84E-02,0,5fqjfiMOFapIb8uFcxBStH,1.11E-02,0,0.059,-17.645,1,Mice On Venus,58,3/4/2011,0.049,110.848,7.81E-02,2011
+0.974,['Rockabye Lullaby'],0.397,2.93E+05,4.889,2.08E-01,0,0hibWCrRAyBldJVxUDvPpg,8.94E-01,2,0.104,-14.508,1,Go The Distnace - Hercules,59,4/26/2011,0.102,205.068,1.66E-01,2011
+0.992,['C418'],0.578,6.85E+04,1.142,7.13E-03,0,1gNcPHAiVIQZmqJFJdt3ti,7.11E-01,6,0.104,-22.499,0,Dry Hands,57,3/4/2011,0.097,122.316,3.48E-01,2011
+0.952,['Tom Odell'],0.455,1.95E+05,3.254,1.79E-01,0,1xVF9wZZ87uAz0bw6jT4sH,5.60E-04,1,0.106,-12.938,1,Heal,55,9/17/2013,0.039,73.698,1.20E-01,2013
+0.952,['dandelion hands'],0.414,1.31E+05,2.179,2.45E-01,0,6ZLt6fyonW1xOGMBC9vJPJ,7.61E-01,7,0.104,-17.929,1,How To Never Stop Being Sad,58,1/1/2013,0.043,97.236,1.32E-01,2013
+0.951,['Hans Zimmer'],0.168,1.27E+05,2.116,2.26E-01,0,3PrLXpTfUdi9iE1PA82sS3,9.83E-01,9,0.1,-16.457,0,Cornfield Chase,67,11/18/2014,0.042,94.103,4.77E-02,2014
+0.981,['Sam Smith'],0.372,2.23E+05,3.724,2.47E-01,0,5vUNRJsvEOUsz4sbKkJpFr,2.23E-04,8,0.11,-8.706,1,Latch - Acoustic,67,11/6/2015,0.027,96.17,2.39E-01,2015
+0.96,['The Noise Project'],0,1.61E+05,2.681,3.54E-02,0,4GVIKZW6a4q0we4Ebc1FdP,8.68E-03,2,0.092,-47.731,1,Big Fan Dulled,68,5/7/2017,0,0,0.00E+00,2017
+0.963,['Ruth B.'],0.586,2.76E+05,4.601,1.28E-01,0,0zMzyHAeMvwq5CRstru1Fp,0.00E+00,7,0.086,-9.297,1,Lost Boy,70,5/5/2017,0.05,123.498,3.71E-01,2017
+0.952,['Anson Seabra'],0.634,2.22E+05,3.692,1.53E-01,0,5dyihZecYMcEPq09Bk2OL2,0.00E+00,4,0.134,-14.409,1,Robin Hood,71,9/21/2018,0.062,77.77,3.18E-01,2018
+0.979,['Fred Mollin'],0.239,1.68E+05,2.797,1.17E-01,0,2YQUYRT3aYLC3pVfSxVDEC,6.81E-01,0,0.234,-17.643,1,Brahms' Lullaby Intro / Twinkle Twinkle Little Star,46,8/8/2000,0.032,94,1.66E-01,2000
+0.973,['Fred Mollin'],0.246,2.38E+05,3.958,1.20E-01,0,3bgL0rJAAOAVJxYzQ9TN8a,7.87E-01,7,0.086,-16.484,1,Brahms' Lullaby ( Someone To Watch Over Me ),46,8/8/2000,0.036,135.86,1.12E-01,2000
+0.988,['Fred Mollin'],0.312,2.67E+05,4.448,1.34E-01,0,13uOsefjpWjGzSoZ6GBt7L,9.02E-01,0,0.113,-18.776,1,Stay Awake/Feed The Birds Medley,46,8/8/2000,0.036,182.262,1.96E-01,2000
+0.971,['Teddy Wilson'],0.633,1.49E+05,2.485,1.20E-01,0,7hbpUZY7qsDPBe9X2juJEz,8.71E-01,5,0.121,-20.066,0,Fools Rush In,51,4/20/2000,0.043,115.51,4.56E-01,2000
+0.974,['Chris Thomas King'],0.52,1.62E+05,2.707,2.04E-02,0,3rlPaBlRjyNKHzJsvKV6dP,8.12E-02,2,0.242,-25.37,0,Hard Time Killing Floor Blues,47,12/5/2000,0.041,92.717,3.67E-01,2000
+0.983,['Rachel Portman'],0.18,1.88E+05,3.124,3.82E-02,0,1DdyioI2yXhLwR1pn5Hczk,1.41E-02,2,0.15,-22.028,0,Main Title,57,2001,0.045,69.897,5.93E-02,2001
+0.991,"['Gabriel Fauré', 'Kun-Woo Paik']",0.35,1.67E+05,2.783,5.79E-03,0,4myyfMmDd7wTkgq8Ci7VfF,9.52E-01,8,0.132,-34.753,1,"Trois Romances sans paroles, Op.17: 3. Andante moderato",51,1/1/2001,0.038,65.447,1.52E-01,2001
+0.974,"['Mary Costa', 'Bill Shirley', 'Chorus - Sleeping Beauty']",0.248,1.67E+05,2.784,2.37E-01,0,2urMIG2y7CsnH206CxykV0,4.30E-04,5,0.111,-14.186,1,"Once Upon a Dream - From ""Sleeping Beauty"" / Soundtrack Version",49,1/1/2001,0.033,85.141,2.08E-01,2001
+0.975,['Philip Glass'],0.249,2.23E+05,3.721,2.79E-02,0,0XiMoe7Dh3CcF5sYNWIwYR,9.66E-01,7,0.103,-29.617,0,The Poet Acts,54,12/5/2002,0.039,84.122,3.70E-02,2002
+0.971,['Keola Beamer'],0.576,1.77E+05,2.955,8.01E-02,0,5GkzttQpAANDySsUsbcjnk,8.31E-01,5,0.11,-21.919,1,Pua Līlīlehua,49,1/8/2002,0.044,133.856,1.54E-01,2002
+0.984,['Nancy Sinatra'],0.356,1.60E+05,2.674,1.20E-01,0,1s2I9Q7zAE78m7aVZOq3ug,9.63E-02,5,0.111,-22.644,0,Bang Bang - My Baby Shot Me Down,58,9/23/2003,0.051,186.46,3.82E-01,2003
+0.978,['Bob Crosby & The Bob Cats'],0.688,1.75E+05,2.914,1.98E-01,0,2Mqggm27ZkH3EyscmCDnIg,0.00E+00,3,0.078,-12.945,1,Way Back Home,52,2004,0.037,107.081,5.55E-01,2004
+0.979,['Bob Crosby & The Bob Cats'],0.655,1.33E+05,2.219,2.78E-01,0,4hmKe6YigInvKIPFd1xT03,4.74E-05,5,0.276,-12.914,0,Dear Hearts And Gentle People,52,2004,0.034,92.995,8.59E-01,2004
+0.954,"['Andrew Lloyd Webber', 'Gerard Butler', 'Jennifer Ellison', 'Emmy Rossum']",0.296,1.64E+05,2.728,4.01E-02,0,5o0xOQhYxr3KqYn4cRE6Ed,0.00E+00,10,0.134,-24.383,1,Angel Of Music,52,12/10/2004,0.043,101.583,2.88E-01,2004
+0.954,['John Williams'],0.212,2.34E+05,3.901,4.43E-02,0,1PPTlPJqKuL0fdoTmzwXJy,5.37E-01,9,0.1,-24.6,0,A Window to the Past,56,5/25/2004,0.043,106.632,1.39E-01,2004
+0.969,['Jean-Yves Thibaudet'],0.296,1.15E+05,1.919,2.13E-02,0,5YArnxq4lg8JYw7baZQnuE,7.47E-01,10,0.087,-30.051,1,"The Secret Life Of Daydreams - From ""Pride & Prejudice"" Soundtrack",49,1/1/2005,0.035,70.532,1.74E-01,2005
+0.973,['Brian Crain'],0.216,2.45E+05,4.083,2.26E-01,0,3JkDhCmTQqMe2MJli79ZEz,8.72E-01,7,0.108,-14.616,1,Song for Sienna,56,1/1/2006,0.033,91.06,1.68E-01,2006
+0.981,['Emile Pandolfi'],0.239,2.52E+05,4.204,1.73E-01,0,2PCTrOWob0vs0io6pfGOYS,9.29E-01,11,0.16,-19.353,0,Once Upon a December (from Anastasia),54,3/6/2006,0.036,73.205,1.31E-01,2006
+0.956,['Chris Rice'],0.358,2.94E+05,4.9,1.37E-01,0,2YtsgFOv3e2oAPvGg5iLBb,2.13E-05,10,0.117,-14.049,1,How Great Thou Art,49,10/2/2007,0.033,129.252,3.79E-01,2007
+0.977,['Little Dragon'],0.394,1.86E+05,3.103,1.97E-01,0,49Su9fsYwmnnuJSyxj48kL,1.39E-02,2,0.072,-11.719,0,Twice,55,8/27/2007,0.035,136.12,2.28E-01,2007
+0.992,['Philip Wesley'],0.429,4.00E+05,6.661,9.97E-02,0,4eoDPVbSx04PlypRDwjsXk,9.02E-01,0,0.115,-23.883,1,The Approaching Night,57,1/1/2008,0.043,93.229,8.04E-02,2008
+0.994,['Goldmund'],0.202,2.20E+05,3.67,2.59E-03,0,5G9rra29bm2HtXcyDtRf1y,9.52E-01,6,0.12,-37.124,1,Finding It There,55,9/5/2008,0.043,120.734,3.64E-02,2008
+0.993,['Nils Frahm'],0.409,2.27E+05,3.786,5.23E-02,0,25zykbJGBYXYjnq5VyhO3N,9.43E-01,1,0.117,-25.613,1,Ambre,61,12/7/2009,0.034,145.833,3.44E-01,2009
+0.976,['Twenty One Pilots'],0.363,2.33E+05,3.883,1.35E-01,0,4izhmF4sQgGemZpLC68bC5,2.65E-04,7,0.107,-11.166,0,Before You Start Your Day,55,12/29/2009,0.029,98.45,1.95E-01,2009
+0.979,['Sacred Earth'],0.061,4.86E+05,8.107,1.70E-02,0,6XYGQXaMxYjUA3R5EBx4Jc,9.74E-01,0,0.091,-25.783,1,Breathing Space,58,6/11/2010,0.05,62.232,3.07E-02,2010
+0.99,['Bon Iver'],0.31,2.99E+05,4.976,1.45E-01,0,3g9mw4A8vdljOKgwrit88g,2.75E-01,0,0.076,-19.276,1,Wash.,55,6/21/2011,0.03,162.808,3.23E-01,2011
+0.964,['James Vincent McMorrow'],0.373,2.15E+05,3.58,1.14E-01,0,3rocTBn0NsGrVAHGOZNzH5,4.98E-04,5,0.111,-17.951,1,Higher Love,54,2/21/2012,0.048,127.545,1.73E-01,2012
+0.985,['Deep Inside'],0.202,1.44E+05,2.391,2.30E-03,0,27yrt4ZgZ9ipfbndTyTwsV,9.64E-01,1,0.118,-30.487,1,Painting The Horizon,62,3/4/2014,0.037,71.601,4.41E-02,2014
+0.994,['Otto Totland'],0.333,1.56E+05,2.598,6.34E-02,0,3SsXxuvEu20CnDg7LUNFDY,9.27E-01,3,0.136,-26.645,0,Solêr,61,1/31/2014,0.052,168.232,4.50E-01,2014
+0.987,['Sufjan Stevens'],0.519,2.84E+05,4.736,1.45E-01,0,6Rt6KwuF7I8ZkdZG2G0bYr,6.43E-02,3,0.108,-19.581,1,The Only Thing,66,3/31/2015,0.039,158.975,4.87E-01,2015
+0.995,['Max Richter'],0.214,1.53E+05,2.552,1.44E-03,0,3FVy3aVs0TFzLv6FEiLqC2,9.68E-01,6,0.1,-39.869,1,Dream 1 (before the wind blows it all away) - Pt. 1,64,2015,0.049,72.046,8.66E-02,2015
+0.994,['Gigi Masin'],0.071,3.47E+05,5.777,5.60E-02,0,1ctAfEIMwYk7KRfoNuSEFN,9.44E-01,9,0.096,-31.309,0,The City Lights - Original Mix,59,4/16/2015,0.039,75.968,1.24E-01,2015
+0.979,['Sufjan Stevens'],0.571,3.08E+05,5.128,1.72E-01,0,5I6y1KWmUoV5YCaIEcs1qs,2.75E-01,7,0.124,-20.7,1,Should Have Known Better,65,3/31/2015,0.032,90.972,2.97E-01,2015
+0.983,['Frank Ocean'],0.513,6.68E+04,1.113,1.31E-01,0,2JUqYobT8NvARdPmc4ES2x,4.14E-03,0,0.12,-12.787,1,Good Guy,63,8/20/2016,0.467,105.808,8.14E-01,2016
+0.964,['Joji'],0.577,1.26E+05,2.105,3.87E-01,1,435yU2MvEGfDdmbH0noWZ0,7.05E-01,7,0.208,-8.607,1,worldstar money (interlude),66,11/3/2017,0.274,146.565,4.59E-01,2017
+0.965,['Natural Sample Makers'],0.191,3.00E+05,4.992,9.97E-01,0,7CyWL6xqJguZUnYFl4H1dy,7.63E-01,3,0.96,-18.39,1,Rain Gutter,67,5/5/2017,0.041,91.411,1.00E-05,2017
+0.991,['Moux'],0.574,1.60E+05,2.669,5.77E-02,0,2XeZi7qwChzLOt32tsoPXV,9.12E-01,3,0.111,-22.165,0,Gaze,70,1/6/2017,0.039,140.994,8.49E-02,2017
+0.96,['Sofia Mills'],0.848,1.62E+05,2.7,1.12E-01,0,2I9zHCCeKJRKMgJ6UJFN9W,0.00E+00,11,0.105,-18.049,0,Coffee Breath,70,3/8/2018,0.052,101.245,1.55E-01,2018
+0.985,['Bad Bunny'],0.749,1.54E+05,2.565,4.18E-01,1,68QcquxCS39cQGTsRrJWIR,1.26E-04,9,0.083,-7.925,0,Amorfoda,74,2/15/2018,0.059,147.887,3.07E-01,2018
+0.957,['High Altitude Samples'],0.056,1.72E+05,2.862,3.38E-01,0,0KByxc2bldSo9PtAQQnipz,1.00E+00,10,0.112,-31.434,0,Cabin Back Noise,71,11/15/2018,0.104,58.227,2.12E-02,2018
+0.976,['XXXTENTACION'],0.356,9.97E+04,1.661,1.43E-01,0,16x9bQHw8TBNaGDyULvwad,1.89E-05,9,0.111,-15.148,1,before I close my eyes,70,3/16/2018,0.039,75.522,3.34E-01,2018
+0.955,['Sleeping At Last'],0.415,2.56E+05,4.272,1.04E-01,0,4g2WiijzSKzH8PApKDbadN,3.79E-06,0,0.104,-11.83,1,Touch,72,11/1/2019,0.043,82.006,1.80E-01,2019
+0.982,['Frank Ocean'],0.35,2.02E+05,3.37,1.20E-01,0,72794Eag03xdy7TO0KNuid,2.89E-04,3,0.103,-11.104,0,Cayendo (Side A - Acoustic),72,4/3/2020,0.039,68.995,1.21E-01,2020
+0.97,['Fred Mollin'],0.289,1.84E+05,3.067,1.33E-01,0,1AieZp5vImnCvbUapUyoFG,4.21E-01,8,0.103,-18.778,1,House at Pooh Corner,45,8/8/2000,0.034,174.667,1.68E-01,2000
+0.96,['Ralph Stanley'],0.568,2.00E+05,3.327,1.75E-02,0,16jWQYb9YpzdaOLG8DeHOB,0.00E+00,8,0.197,-17.732,1,O Death,46,12/5/2000,0.118,111.405,5.02E-01,2000
+0.968,['Fred Mollin'],0.238,1.38E+05,2.298,1.42E-01,0,2EcTJUGL3Tj3MsAon57vpQ,9.23E-01,5,0.089,-18.397,1,When You Wish Upon a Star,45,8/8/2000,0.035,81.776,9.63E-02,2000
+0.976,['Fred Mollin'],0.33,2.09E+05,3.49,1.30E-01,0,7LzTw8OiYmhtInORp4LOMi,9.19E-01,2,0.13,-17.083,1,Beautiful Dreamer,44,8/8/2000,0.033,177.417,3.11E-01,2000
+0.992,['Yiruma'],0.411,2.46E+05,4.093,2.55E-01,0,09tcNodxNOS460XobDFFBV,9.32E-01,5,0.089,-21.675,1,Love Me,55,11/27/2001,0.059,76.991,2.57E-01,2001
+0.988,['Yann Tiersen'],0.194,1.59E+05,2.644,1.79E-01,0,78IQDW7yyMzJavHiWqfBWR,8.60E-01,9,0.082,-16.836,0,La Valse d'Amélie - Version piano,45,4/23/2001,0.041,177.667,1.79E-01,2001
+0.982,['Howard Shore'],0.062,1.85E+05,3.09,1.00E-01,0,0VfcYOujgf9JDAgwlgu1qm,9.34E-01,0,0.116,-20.607,1,Many Meetings,53,11/19/2001,0.046,64.791,3.59E-02,2001
+0.977,"['Jan Ekedahl', 'Anonymous', 'Mats Bergström']",0.387,1.90E+05,3.158,9.16E-02,0,3VGv4FgBouhRvccu9fvkL4,9.22E-01,2,0.096,-21.304,1,Snon ar kristalle: Snön är kristaller (Arr. For guitar),50,1/1/2001,0.04,128.97,3.41E-01,2001
+0.984,"['Dmitri Shostakovich', 'Russian State Symphony Orchestra', 'Dmitry Yablonsky']",0.322,1.94E+05,3.227,1.84E-01,0,0pjCsB0XNSyqM9UazlTODC,9.02E-01,0,0.081,-18.312,0,Jazz Suite No. 2: VI. Waltz 2,57,4/15/2002,0.034,107.847,3.56E-01,2002
+0.954,['Raffi'],0.702,8.84E+04,1.473,5.21E-02,0,2HSwhGCgp8lac98wc8gkCI,9.67E-05,4,0.116,-14.354,1,Eensy Weensy Spider,44,1/1/2002,0.092,80.147,5.58E-01,2002
+0.972,"['Franz Liszt', 'YUNDI']",0.296,2.82E+05,4.7,2.32E-01,0,7x7WWeEqIKIPPRCmcYexeV,7.85E-01,8,0.098,-20.553,0,"Grandes études de Paganini, S141: No.3 In G Sharp Minor - ""La Campanella""",51,1/1/2003,0.035,96.227,3.93E-01,2003
+0.962,"['Hubert Clifford', 'BBC Philharmonic', 'Martyn Brabbins']",0.192,2.57E+05,4.284,6.18E-03,0,7MAE52QGDf9UmlPg3uHNwx,9.58E-01,10,0.105,-37.633,1,5 English Nursery Tunes: IV. Curly Locks: Andantino,49,1/1/2003,0.042,79.285,5.74E-02,2003
+0.994,"['Wolfgang Amadeus Mozart', 'Alfred Brendel']",0.382,3.17E+05,5.278,4.99E-02,0,7IHEJdJhju1F2rhIiwgawx,9.06E-01,2,0.109,-25.262,1,"Fantasia in D Minor, K.397",55,1/1/2003,0.055,125.903,7.79E-02,2003
+0.996,"['Georges Bizet', 'Katia Labèque', 'Marielle Labèque']",0.523,1.42E+05,2.363,7.43E-03,0,39bzKYAYfHRtK32nEnQilM,9.01E-01,11,0.105,-37.501,1,"Jeux d'enfants, Op.22 WD 56: 3. La poupée",46,1/1/2003,0.052,66.46,2.68E-01,2003
+0.972,['Shantala'],0.234,5.15E+05,8.588,1.65E-01,0,5jKP2lzcDtcSOBznwPYTIh,1.38E-02,7,0.096,-16.694,1,Purnamadah,58,1/1/2003,0.041,205.405,1.02E-01,2003
+0.958,['Air'],0.525,2.91E+05,4.85,3.66E-01,0,40UlFC0dIxv7lAEJaPZLnm,7.51E-01,0,0.137,-16.488,1,Alone in Kyoto,57,1/26/2004,0.072,179.956,7.85E-02,2004
+0.986,['Bob Crosby & The Bob Cats'],0.426,1.66E+05,2.762,8.23E-02,0,7EYea5rkgYsjMwm6gwmobx,7.87E-02,9,0.204,-16.24,0,Happy Times—from 1949 show “Inspector General”,49,2004,0.032,92.165,3.00E-01,2004
+0.991,"[""Dustin O'Halloran""]",0.427,4.33E+05,7.222,6.00E-02,0,7927IbXHiYrlZkAikPsi3X,9.38E-01,5,0.091,-19.714,0,Opus 20,46,9/13/2004,0.046,135.54,3.84E-02,2004
+0.963,['Enya'],0.28,2.41E+05,4.021,1.49E-01,0,0KXpgyL7L8xIpotzpWoUOo,6.56E-03,5,0.094,-15.929,1,If I Could Be Where You Are,57,11/21/2005,0.043,111.902,6.06E-02,2005
+0.964,['Jean-Yves Thibaudet'],0.178,1.19E+05,1.983,1.35E-02,0,6z0QmvSHYCXkv0OozRxBL5,9.20E-01,7,0.116,-28.203,1,"Stars and Butterflies - From ""Pride & Prejudice"" Soundtrack",48,1/1/2005,0.046,47.37,3.92E-02,2005
+0.98,"['English Chamber Orchestra', 'Benjamin Wallfisch']",0.07,1.81E+05,3.018,1.32E-02,0,224kUkE8bXyMc7oAN2NGlk,6.34E-01,3,0.072,-28.395,1,"The Living Sculptures Of Pemberley - From ""Pride & Prejudice"" Soundtrack",48,1/1/2005,0.04,75.221,3.40E-02,2005
+0.972,['Gorillaz'],0.405,1.32E+05,2.198,4.13E-01,0,4hjGZN8poACfjWCK3Og6vY,5.00E-04,2,0.156,-10.384,1,Don't Get Lost in Heaven,53,5/23/2005,0.034,124.982,4.00E-01,2005
+0.951,['Jodi Benson'],0.266,1.38E+05,2.298,2.01E-01,0,1YzCSIwQ1wlchlqoRrAh1c,3.70E-02,5,0.093,-14.947,1,"Part of Your World (Reprise) - From ""The Little Mermaid"" / Soundtrack Version",50,1/1/2006,0.039,76.495,1.19E-01,2006
+0.972,['My Chemical Romance'],0.739,1.74E+05,2.892,4.05E-01,1,1rNSLiEFpAF4amVhkzfTUG,0.00E+00,4,0.07,-10.524,1,Blood - Hidden Track,52,10/23/2006,0.107,123.497,8.27E-01,2006
+0.977,['Peggy Lee'],0.185,9.68E+04,1.613,8.93E-02,0,3Fou4O94pyR80OxdSj3pI8,7.73E-03,1,0.113,-20.396,1,La La Lu,50,1/1/2006,0.044,79.123,2.58E-01,2006
+0.968,"[""Martin O'Donnell"", 'Michael Salvatori']",0.096,1.88E+05,3.128,7.24E-02,0,6vlZ1ZsvIzve8JQ9satGSM,8.70E-01,3,0.101,-22.319,1,Never Forget,53,11/20/2007,0.038,85.743,3.84E-02,2007
+0.995,"['Felix Mendelssohn', 'Bertrand Chamayou']",0.262,1.20E+05,2,8.68E-02,0,1AECmtHp67qzmTyBUQEJN0,8.97E-01,6,0.079,-26.318,0,"Songs Without Words, Book VI Opus 67: No. 2 in F-Sharp Minor",53,5/6/2008,0.044,68.904,5.03E-01,2008
+0.975,['Panic! At The Disco'],0.393,1.16E+05,1.936,4.82E-01,0,4E1R0vG10ed0wDhjn09kTG,5.80E-05,9,0.365,-12.535,1,I Have Friends in Holy Spaces,47,3/21/2008,0.367,99.731,5.41E-01,2008
+0.991,"['Frédéric Chopin', 'Alexandre Tharaud']",0.416,1.31E+05,2.187,1.64E-02,0,5XfmcJMAaifjRrIdLaXVLm,8.66E-01,5,0.116,-25.933,1,"24 Préludes, Op. 28: No.4 in E minor - Largo",57,2/8/2008,0.048,110.635,3.65E-02,2008
+0.981,['Enya'],0.151,2.10E+05,3.495,1.72E-01,0,0zvv76DEro0MMox8eLbK7D,2.38E-02,9,0.133,-17.018,1,May It Be,49,12/1/2009,0.038,81.397,1.03E-01,2009
+0.995,['Bedtime Baby'],0.551,8.19E+04,1.365,1.87E-02,0,0Mq8zDfYjuCAtso3a73TxN,9.64E-01,0,0.141,-18.258,1,"Twinkle, Twinkle Little Star",52,12/1/2009,0.157,133.782,6.03E-01,2009
+0.987,['Bedtime Baby'],0.448,9.29E+04,1.548,8.83E-02,0,1nQOgYZWJzYsFdPvt9A7DP,9.01E-01,0,0.11,-17.546,1,Brahms' Lullaby,58,12/1/2009,0.084,176.525,5.25E-01,2009
+0.99,"['Frank Bridge', 'Enikő Magyar', 'Tadashi Imai']",0.088,2.14E+05,3.568,6.26E-03,0,6tWg05l8fgCms52XX9qI2C,9.20E-01,10,0.076,-35.154,1,Berceuse (Arr. For viola and piano),52,11/17/2009,0.041,83.771,1.23E-01,2009
+0.992,"['Frédéric Chopin', 'Brigitte Engerer']",0.272,2.40E+05,4,3.97E-03,0,0bcGY7mfG10QfeaDbz97hC,9.00E-01,1,0.076,-31.601,0,"Nocturne, Op. posth. in C-Sharp Minor: Lento",61,6/22/2010,0.048,72.059,1.90E-01,2010
+0.993,"['Claude Debussy', 'James Rhodes']",0.367,3.58E+05,5.961,1.90E-02,0,5VXqnaVDKEFazcDt57pcVY,9.14E-01,1,0.07,-28.121,1,Debussy : Suite bergamasque : III Clair de lune,58,12/10/2010,0.054,169.443,3.91E-02,2010
+0.953,['Adele'],0.411,2.28E+05,3.804,2.67E-01,0,6jL1DEdjmOa27inIgU088B,0.00E+00,0,0.167,-8.484,1,Take It All,55,1/19/2011,0.031,137.801,3.03E-01,2011
+0.982,['C418'],0.145,1.92E+05,3.196,6.38E-03,0,4o0YiMA52IzmOn5yIdIhu5,8.53E-01,9,0.073,-23.366,0,Clark,56,3/4/2011,0.042,79.396,3.95E-02,2011
+0.968,['Yiruma'],0.287,2.18E+05,3.638,2.92E-01,0,3xr8COed4nPPn6XWZ0iCGr,9.78E-01,9,0.09,-19.285,1,River Flows in You,62,12/9/2011,0.054,145.703,3.46E-01,2011
+0.972,['C418'],0.206,2.55E+05,4.242,2.62E-02,0,2Au50d6aZrsYrbxQzDjjYW,4.66E-01,0,0.076,-22.08,1,Danny,55,3/4/2011,0.038,78.79,9.89E-02,2011
+0.989,['The Piano Guys'],0.23,2.76E+05,4.6,2.17E-01,0,4eYaDRhiL5iesFp2EuoODr,8.92E-01,10,0.084,-13.464,1,A Thousand Years,54,2012,0.039,157.084,1.56E-01,2012
+0.987,['Justin Bieber'],0.546,2.00E+05,3.33,1.55E-01,0,30Co9eN7JHPf1i2wEyVSMJ,6.02E-05,0,0.18,-14.378,1,Nothing Like Us - Bonus Track,65,1/1/2013,0.043,72.331,5.12E-01,2013
+0.99,['Deep Inside'],0.143,1.20E+05,1.994,1.55E-03,0,2SZJl7ZigkaEGhLA270KtT,9.21E-01,0,0.1,-34.708,1,A Glowing Heart,61,3/4/2014,0.043,139.516,3.93E-02,2014
+0.978,['Oh Wonder'],0.59,2.14E+05,3.57,2.42E-01,0,6Vigp41BietH0WoFZ52JI5,1.24E-04,10,0.091,-11.724,0,All We Do,65,9/4/2015,0.052,126.721,3.66E-01,2015
+0.963,['RY X'],0.393,1.74E+05,2.903,6.68E-02,0,7BSMSvK0WxrDeI98bswYa8,1.05E-01,7,0.107,-20.755,1,Berlin,60,5/6/2016,0.04,136.938,3.84E-02,2016
+0.995,['Ana Olgica'],0.361,1.45E+05,2.408,1.65E-02,0,6uWjjaiquXsjuQuks2mZME,9.67E-01,0,0.083,-27.874,1,Sugarcane,68,12/14/2016,0.061,114.346,4.52E-01,2016
+0.994,['Cellophane Roses'],0.522,1.10E+05,1.826,2.51E-03,0,2dv7Jf570NkaWlW7NcsYTa,9.60E-01,9,0.089,-23.464,1,Friendship Before Love,65,12/4/2016,0.112,72.002,7.32E-01,2016
+0.956,['Banes World'],0.599,1.64E+05,2.734,1.86E-01,0,4yp90BbE4dxPXfGGSpbFwT,6.65E-03,8,0.119,-16.231,0,Drowsy,61,6/4/2016,0.032,127.093,4.15E-01,2016
+0.959,['Khalid'],0.472,1.71E+05,2.845,2.65E-01,0,67kXYrMTQbS7MVbXyGyxHm,4.99E-04,6,0.1,-10.059,0,Angels,65,4/27/2017,0.036,111.558,2.04E-01,2017
+0.993,['Arlette Leduc'],0.208,1.60E+05,2.663,8.77E-03,0,7arWoSrPeW1uiCGbCu0Igm,8.50E-01,2,0.095,-33.476,1,Euphrosyne,72,9/6/2019,0.042,120.945,3.96E-02,2019
+0.988,['Granular'],0,1.59E+05,2.649,3.33E-01,0,3GMhHXO3cGrqMde11pQ3sL,7.07E-01,5,0.111,-27.745,1,Brown Noise Hall Verb,69,7/7/2019,0,0,0.00E+00,2019
+0.99,['Irizarry Barraza'],0.176,2.12E+05,3.533,3.27E-02,0,54IZYicWqjVsicv07CaP3m,9.05E-01,7,0.109,-31.7,1,Nechama,70,11/29/2019,0.056,69.567,5.45E-02,2019
+0.954,['Kacey Musgraves'],0.438,1.84E+05,3.062,1.90E-01,0,5EeQQ8BVJTRkp1AIKJILGY,7.12E-05,5,0.117,-13.573,1,All Is Found - Kacey Musgraves Version,69,11/15/2019,0.029,153.02,1.06E-01,2019
+0.953,['Frank Ocean'],0.444,2.31E+05,3.851,1.52E-01,0,62ljuuXo0zrcrtJnnOhfxT,8.85E-05,8,0.097,-12.87,0,Dear April (Side A - Acoustic),71,4/3/2020,0.047,115.95,2.27E-01,2020
+0.991,['Fred Mollin'],0.42,1.84E+05,3.065,4.14E-02,0,3mu3BtXvnCftPTuhd81POx,8.69E-01,3,0.097,-20.652,1,Good Night My Love (Pleasant Dreams),45,8/8/2000,0.033,63.266,7.30E-02,2000
+0.952,['Broadcast'],0.212,1.92E+05,3.2,2.16E-01,0,3ZB8WOTt7p9cSia9iG0TMz,8.04E-01,0,0.107,-18.373,1,Echo's Answer,47,3/20/2000,0.043,80.37,7.74E-02,2000
+0.978,['Fred Mollin'],0.381,1.85E+05,3.078,8.14E-02,0,6CMnIEdPUWPf21q3uyKeJ8,8.53E-01,5,0.109,-19.39,1,I Will,44,8/8/2000,0.034,139.84,1.01E-01,2000
+0.972,['Fred Mollin'],0.283,1.59E+05,2.644,6.60E-02,0,5lxF5viTocy0kxYLoD3gDP,8.77E-01,9,0.06,-20.024,1,Brahms' Lullaby,45,8/8/2000,0.038,144.089,9.90E-02,2000
+0.994,['David Bauer'],0.514,1.45E+05,2.409,3.49E-02,0,7jZ8JuODxdSJcpex05ilZw,9.26E-01,2,0.102,-20.247,1,As the Deer,49,2000,0.046,113.978,2.26E-01,2000
+0.991,['Yiruma'],0.381,1.98E+05,3.293,1.58E-01,0,0kZ3k5D5kAIZUVYxmExVBb,9.37E-01,0,0.127,-24.813,0,When The Love Falls,52,11/27/2001,0.057,144.742,3.55E-01,2001
+0.992,['Philip Glass'],0.235,2.96E+05,4.926,1.66E-01,0,5bi8ryL6gy6a1BRXOf43y9,8.70E-01,5,0.101,-19.632,1,Etude No. 2,52,5/1/2001,0.035,101.182,3.56E-02,2001
+0.992,"['Olle Adolphson', 'Mats Bergström']",0.53,2.28E+05,3.805,6.71E-02,0,34y7W6WQtgHLWBskWFXIbg,9.47E-01,2,0.107,-20.647,0,Habanera,52,1/1/2001,0.046,57.225,1.44E-01,2001
+0.995,['Nobuo Uematsu'],0.374,1.85E+05,3.081,7.93E-02,0,5NP9bhvIp2XGY3Xl0ICAub,9.36E-01,7,0.079,-21.909,1,Zanarkand,50,8/1/2001,0.114,182.961,4.41E-01,2001
+0.996,"['Erik Satie', 'Jean-Yves Thibaudet']",0.59,2.20E+05,3.663,3.99E-03,0,7kTVe6XhIveidvkt8nb7jK,9.46E-01,7,0.068,-36.497,1,3 Gymnopédies: No.1 Lent et douloureux,52,1/1/2002,0.242,74.381,1.82E-01,2002
+0.962,['Dizzy Gillespie'],0.575,1.70E+05,2.825,8.22E-02,0,1U2EKwG7CRQIWtvFPr2YE6,5.80E-01,8,0.11,-17.658,1,All The Things You Are,47,5/21/2002,0.045,127.369,4.84E-01,2002
+0.984,['John Adams'],0.525,4.30E+05,7.166,1.44E-01,0,4A1VmZQ2rdCS07En1TLDNb,8.90E-01,8,0.186,-22.617,1,Hallelujah Junction: 1st Movement,52,5/4/2004,0.035,115.509,3.21E-01,2004
+0.993,['Coyote Oldman'],0.208,2.37E+05,3.942,1.17E-01,0,54L9E8shNdCTNfyTX5qoFz,7.92E-01,11,0.097,-19.071,1,Soaring,50,8/1/2004,0.045,185.204,2.56E-01,2004
+0.954,['Patience & Prudence'],0.68,1.15E+05,1.92,3.20E-01,0,77MHOLfTVDlhcX0yDr23Uu,0.00E+00,10,0.095,-7.544,0,Tonight You Belong To Me,52,3/9/2004,0.029,108.07,7.69E-01,2004
+0.986,['Jean-Yves Thibaudet'],0.15,2.87E+05,4.79,1.70E-02,0,3ggc70INCVlv5e2481tX85,8.42E-01,3,0.066,-24.737,1,"End Credits - From ""Pride & Prejudice"" Soundtrack",47,1/1/2005,0.041,66.692,3.42E-02,2005
+0.99,['Danny Elfman'],0.475,1.13E+05,1.888,9.31E-02,0,2CPnPnfbCMESaNpBQbeA0X,9.51E-01,2,0.09,-20.771,0,The Piano Duet,54,9/20/2005,0.053,134.217,1.88E-01,2005
+0.994,['Clint Mansell'],0.483,3.02E+05,5.029,1.76E-02,0,2pr6us08iPNzIex5q6fMvI,9.28E-01,7,0.091,-25.501,0,Together We Will Live Forever,55,11/10/2006,0.052,76.384,2.00E-01,2006
+0.996,"['Philip Glass', 'Bruce Brubaker']",0.179,3.53E+05,5.886,2.60E-02,0,1QmhkjuUlosROqKk59sBSK,8.90E-01,0,0.084,-30.937,0,Opening,56,7/16/2007,0.038,77.116,6.80E-02,2007
+0.978,['Fabrizio Paterlini'],0.302,2.05E+05,3.408,4.05E-01,0,3BfKUxdpnG24qXFYX2e5XU,9.27E-01,4,0.124,-16.077,0,Soffia la notte,57,1/1/2007,0.039,110.259,2.13E-01,2007
+0.985,['Adele'],0.562,1.90E+05,3.171,1.10E-01,0,1DHV4JhMnCkbLuf6Psg93N,5.14E-03,5,0.089,-13.464,1,First Love,50,1/28/2008,0.036,162.548,3.58E-01,2008
+0.996,"['Erik Satie', 'Alexandre Tharaud']",0.424,2.14E+05,3.569,7.98E-03,0,4820SC1xnUaabzzYQTDkP2,9.25E-01,5,0.098,-28.345,0,Gnossienne: No. 1,60,1/20/2009,0.05,124.166,7.94E-02,2009
+0.991,['Ashana'],0.132,5.76E+05,9.601,6.27E-02,0,5VXK8WJsqtq6B7kdsB4zIQ,5.56E-01,4,0.096,-18.378,1,Soulmerge,55,1/1/2009,0.042,62.786,3.61E-02,2009
+0.981,['Michael Giacchino'],0.549,9.04E+04,1.506,2.01E-02,0,33riuTg9aVoiRhHTqm2Qq8,7.23E-01,0,0.075,-27.317,1,The Ellie Badge,54,1/1/2009,0.052,80.17,1.93E-01,2009
+0.96,['Clem Leek'],0.207,3.00E+05,4.995,3.87E-01,0,4JCQ2ZHe3vACPQo0ABVfEH,9.70E-01,4,0.751,-22.162,1,At the Mercy of the Waves,58,8/30/2010,0.083,136.692,5.42E-02,2010
+0.987,"['Erik Satie', 'Cristina Ariagno']",0.44,7.73E+04,1.288,2.17E-03,0,0L5WGmfuDp4JgbOnv3eqOg,9.58E-01,9,0.073,-44.761,0,Enfantillages pittoresques: II. Berceuse,54,2010,0.053,126.92,4.73E-01,2010
+0.982,"['Endres Quartet', 'Jost Michaels']",0.095,4.21E+05,7.018,4.45E-02,0,2OdM7OEeVMcklHMiS47eba,8.80E-01,2,0.106,-23.086,1,"Quintet in A Major for Clarinet and Strings, K. 581: II. Larghetto",55,12/28/2010,0.048,74.48,4.81E-02,2010
+0.991,"['Frédéric Chopin', 'Benjamin Grosvenor']",0.334,2.42E+05,4.033,7.32E-03,0,64LTn5fTsPR0QLy7bVYl9w,9.52E-01,4,0.097,-30.908,0,"Nocturne No. 19 in E Minor, Op. 72, No. 1",59,1/1/2011,0.035,60.171,9.64E-02,2011
+0.974,['C418'],0.465,1.11E+05,1.857,1.12E-01,0,6PR3ZUCnxtQTEu30qgZLwT,9.39E-01,5,0.093,-17.378,1,Door,55,3/4/2011,0.039,65.272,7.89E-02,2011
+0.988,['C418'],0.311,1.02E+05,1.702,2.24E-02,0,4B3RbRUP0fl2KxaBWVUfo9,9.27E-01,1,0.091,-30.543,1,Beginning,54,3/4/2011,0.035,79.128,3.79E-02,2011
+0.964,['The Lumineers'],0.414,2.61E+05,4.357,1.87E-01,0,1tTxt6RtTqvuSEe4gFhWO2,1.83E-02,7,0.109,-13.253,1,Charlie Boy,51,4/3/2012,0.033,127.323,2.76E-01,2012
+0.951,['The Weeknd'],0.214,2.40E+05,4.001,1.56E-01,0,5dikapPlQPrsT3xUsUjj0N,7.97E-03,6,0.101,-17.515,0,Echoes Of Silence,56,1/1/2012,0.044,75.654,1.32E-01,2012
+0.985,['Jeremy Soule'],0.144,1.23E+05,2.054,4.62E-02,0,5fHgBb5r91Jmdr8Q7dwmad,9.42E-01,7,0.093,-27.928,0,Secunda,57,1/31/2013,0.029,89.996,8.68E-02,2013
+0.983,['Jeremy Soule'],0.072,3.04E+05,5.067,9.21E-02,0,0zke8Vmo0bgbPjxL3pUhqk,8.47E-01,0,0.075,-21.53,1,From Past to Present,58,1/31/2013,0.039,69.286,3.59E-02,2013
+0.989,['The Piano Guys'],0.23,2.76E+05,4.6,2.17E-01,0,0E0xI4AgMNU7UkwBt3FCVN,8.92E-01,10,0.084,-13.464,1,A Thousand Years,62,1/18/2013,0.039,157.084,1.56E-01,2013
+0.996,"['Erik Satie', 'Alena Cherny']",0.376,2.97E+05,4.941,5.79E-03,0,5fdp9rXfEixCGLM1Og4EN1,9.44E-01,5,0.088,-31.615,0,Gnossienne No. 1,59,2013,0.058,71.827,3.69E-02,2013
+0.977,"['Sleep Baby Sleep', 'Meditation Awareness', 'Sleep Sound Library', 'Outside Broadcast Recordings', 'Deep Sleep']",0.182,6.35E+04,1.058,2.02E-01,0,04Gv6iKKvurUaZcIwKnlUj,3.58E-02,8,0.111,-28.542,1,Office Air Conditioners,58,7/10/2015,0.091,57.069,3.65E-02,2015
+0.992,['Binaural Beats Sleep'],0.486,1.22E+05,2.027,9.53E-04,0,0tPuFBwxHeJ4XizUCfmlNw,6.66E-01,3,0.111,-40.637,1,Binaural Beats (Deep Sleep),61,11/29/2016,0.047,64.26,3.29E-01,2016
+0.988,['Peter Sandberg'],0.235,1.36E+05,2.261,1.16E-01,0,7McExzjmhDI5NQ6l4D9XR9,9.51E-01,4,0.122,-21.701,1,Remove The Complexities,65,6/17/2016,0.033,167.941,1.09E-01,2016
+0.97,"[""j'san""]",0.578,9.03E+04,1.505,2.88E-01,0,5p684vIzF5LOkmHL3I0tyM,6.33E-01,5,0.125,-17.204,1,"i'm in love with u, sorry",66,10/2/2017,0.059,94.983,2.76E-01,2017
+0.996,['Empty Fields'],0.167,2.01E+05,3.345,2.63E-01,0,7lVgv8KhBQHbmbQrxpVEKM,9.37E-01,8,0.101,-44.281,0,Aero Noise,64,5/7/2017,0.065,140.616,1.00E-05,2017
+0.952,['90sFlav'],0.748,1.26E+05,2.104,2.65E-01,0,34A2accnIDPOhkRltN8KJY,9.17E-01,8,0.087,-12.074,0,Call me,70,2/9/2018,0.229,77.009,1.40E-01,2018
+0.967,['Lana Del Rey'],0.218,2.49E+05,4.149,2.15E-01,1,3RIgHHpnFKj5Rni1shokDj,8.47E-02,5,0.095,-12.49,1,Norman fucking Rockwell,72,8/30/2019,0.037,76.74,1.38E-01,2019
+0.976,"['Giacomo Puccini', 'Renée Fleming', 'London Philharmonic Orchestra', 'Sir Charles Mackerras']",0.217,1.73E+05,2.881,1.13E-01,0,7z8kUK8x96El1IqU4WFk8Z,3.92E-01,8,0.58,-23.596,1,"Gianni Schicchi: ""O mio babbino caro""",43,1/1/2000,0.041,99.873,9.12E-02,2000
+0.986,"['Franz Liszt', 'Van Cliburn']",0.224,3.41E+05,5.683,5.91E-02,0,4E1Rquqd8ZAnOy3BYK0K1Z,9.22E-01,1,0.128,-24.575,1,Un sospiro,45,5/16/2000,0.04,62.64,3.42E-02,2000
+0.994,['David Bauer'],0.668,2.37E+05,3.945,7.60E-02,0,3T8DODWqHs6GvCt4uP1Kgw,9.54E-01,8,0.109,-16.307,1,There is None Like You,48,2000,0.042,105.982,1.25E-01,2000
+0.992,['Radiohead'],0.327,5.27E+04,0.878,2.25E-01,0,2YsJM80gRMAhCikUkNZT3G,8.13E-01,7,0.106,-16.341,1,Untitled,47,10/1/2000,0.067,63.422,7.66E-02,2000
+0.986,['Yiruma'],0.332,2.21E+05,3.684,2.03E-01,0,6fpC0WaPiZkVvadAcuVIRW,9.15E-01,7,0.108,-22.194,1,It's Your Day,51,11/27/2001,0.042,124.575,2.74E-01,2001
+0.993,['Yumi Kimura'],0.438,2.15E+05,3.59,4.38E-02,0,0FJL3Dwu8oUpwDb80qNdvP,0.00E+00,5,0.084,-19.577,1,Always with Me,53,7/18/2001,0.053,144.196,6.86E-01,2001
+0.971,"['Hank Jones', 'Christian McBride', 'Jimmy Cobb']",0.45,2.90E+05,4.828,4.37E-02,0,0e73D9vZrxLVUPRhHae6r1,8.80E-01,10,0.095,-29.46,1,Eleanor,42,2001,0.037,63.938,9.88E-02,2001
+0.958,['John Williams'],0.173,2.22E+05,3.702,4.69E-02,0,0UDSwgomgI5bK1x1eYeBez,8.49E-01,7,0.36,-29.795,1,Entry into the Great Hall and the Banquet,49,10/30/2001,0.037,79.989,5.35E-02,2001
+0.965,['The Breeders'],0.471,2.96E+05,4.928,1.02E-01,0,1W0IWU1XpPhNZ3hdxXK4IZ,2.71E-02,10,0.108,-18.76,1,Off You,49,5/20/2002,0.032,81.166,6.38E-02,2002
+0.994,"['Wolfgang Amadeus Mozart', 'Alfred Brendel']",0.371,3.95E+05,6.586,8.73E-02,0,3uVMWI57CV8LKm0hfsDuX6,9.22E-01,5,0.086,-26.263,1,"Piano Sonata No.15 In F, K.533/494: 3. Rondo (Allegretto), K.494 - 2002 Recording",52,1/1/2003,0.041,134.493,3.21E-01,2003
+0.982,['Bernard Herrmann'],0.634,8.77E+04,1.461,1.70E-01,0,3Y9wdXMh6sNt9fUwUqTqb7,1.02E-01,4,0.111,-14.064,0,Twisted Nerve,53,9/23/2003,0.059,115.009,2.20E-01,2003
+0.994,['Sufjan Stevens'],0.321,1.22E+05,2.034,3.94E-02,0,6c96Nkxc8clVSlWNyvgzdD,9.14E-01,8,0.106,-23.356,0,Redford (for Yia-Yia and Pappou),49,7/1/2003,0.035,62.229,3.84E-02,2003
+0.951,['Bettye Swann'],0.504,2.26E+05,3.771,1.48E-01,0,1bDjWyTOXs0sxQMC1mchSM,5.78E-03,11,0.105,-18.457,1,Then You Can Tell Me Goodbye,53,1/1/2004,0.029,91.118,4.50E-01,2004
+0.951,['Sufjan Stevens'],0.696,1.53E+05,2.541,2.69E-01,0,0oEyXbHhtUBqKdKHewG8Cn,2.62E-02,5,0.11,-16.422,0,The Dress Looks Nice on You,50,3/16/2004,0.033,127.798,7.81E-01,2004
+0.971,['Scala & Kolacny Brothers'],0.575,1.41E+05,2.344,3.84E-01,0,5WAdxow8ofiTbUyt05Wiil,8.94E-01,8,0.085,-7.588,1,I Touch Myself,55,1/24/2004,0.028,131.986,2.31E-01,2004
+0.974,['Jean-Yves Thibaudet'],0.209,1.60E+05,2.658,1.99E-02,0,1bJv35SZXRCP0mpXLbFWar,6.74E-01,5,0.126,-26.368,1,"A Postcard to Henry Purcell - From ""Pride & Prejudice"" Soundtrack",46,1/1/2005,0.048,84.93,5.67E-01,2005
+0.988,"['English Chamber Orchestra', 'Benjamin Wallfisch']",0.161,2.36E+05,3.934,1.89E-02,0,3Eqaogon7dKnHLIUXuIPbO,8.10E-01,0,0.062,-25.422,0,"Darcy's Letter - From ""Pride & Prejudice"" Soundtrack",46,1/1/2005,0.042,138.625,3.98E-02,2005
+0.987,['Sufjan Stevens'],0.452,1.29E+05,2.15,1.49E-01,0,2Swpr4UiCfYUl1wbxrduBs,3.04E-01,7,0.165,-14.99,1,"Concerning the UFO sighting near Highland, Illinois",50,7/5/2005,0.038,131.071,3.89E-01,2005
+0.986,['Jean-Yves Thibaudet'],0.27,1.01E+05,1.681,6.51E-02,0,13kShSwCdr8BAK5pDBwIpA,9.59E-01,0,0.069,-24.789,0,"Leaving Netherfield - From ""Pride & Prejudice"" Soundtrack",46,1/1/2005,0.036,103.928,1.28E-01,2005
+0.995,"['Edvard Grieg', 'Shani Diluka']",0.407,2.56E+05,4.273,4.53E-03,0,6G6tIDO3rB8FktjkM70GGd,9.35E-01,5,0.08,-30.925,1,"Pièces Lyriques, Op. 47 No. 3: Mélodie",54,2006,0.041,104.957,3.42E-02,2006
+0.99,"['Wolfgang Amadeus Mozart', 'Martha Argerich']",0.401,2.83E+05,4.72,1.40E-01,0,6LKsT6X9BxMK8ePCDNRLal,9.29E-01,0,0.078,-22.696,1,"Mozart / Arr Grieg: Piano Sonata No. 16 in C Major, K. 545: I. Allegro (Arr. Grieg for 2 Pianos) [Live]",54,6/5/2006,0.034,130.037,3.26E-01,2006
+0.982,['Deuter'],0.159,5.56E+05,9.271,2.00E-01,0,03j93sOn7Qsbmc6dQ9t10E,9.71E-01,7,0.045,-20.041,0,Temple of Silence,56,2/13/2007,0.037,97.422,3.72E-02,2007
+0.956,"['David Wenngren', 'Library Tapes', 'Peter Broderick']",0.252,2.41E+05,4.008,5.16E-02,0,7vv4tJIsMFm3XnDHikiwIc,9.28E-01,5,0.102,-21.321,1,Fragment II,51,12/8/2008,0.031,79.857,2.99E-02,2008
+0.993,['Steve Anderson'],0.428,3.17E+05,5.279,1.08E-02,0,1LgjqqeUpcACk4a94SiinY,9.24E-01,1,0.081,-27.554,1,"Suite Bergamasque, L. 75: III. Clair De Lune",52,5/26/2009,0.043,68.661,3.97E-02,2009
+0.975,['The Black Atlantic'],0.543,2.09E+05,3.483,3.92E-02,0,5nbq3jYzsuv3JhlPxBNVHp,8.22E-04,9,0.106,-24.606,1,I Shall Cross This River,53,8/21/2009,0.037,119.105,5.77E-02,2009
+0.982,['Ólafur Arnalds'],0.208,2.74E+05,4.573,8.47E-02,0,3WoFKA49Hjdoj1O9yhV62c,9.31E-01,0,0.102,-20.917,1,þÚ Ert Jörðin,55,5/10/2010,0.043,123.979,3.91E-02,2010
+0.993,['Sufjan Stevens'],0.579,1.33E+05,2.221,2.92E-01,0,4VNWVzVj6QnNwasZBjPGdu,9.16E-01,4,0.089,-18.643,1,Futile Devices,55,10/12/2010,0.034,140.188,3.76E-01,2010
+0.974,"['Samuel Barber', 'Sir Simon Rattle', 'Berliner Philharmoniker']",0.102,5.37E+05,8.957,7.33E-02,0,1CSaCKPIp2yCIDL3t7Fyau,8.59E-01,10,0.28,-24.133,0,Barber: Adagio for Strings,58,1/18/2010,0.049,73.954,3.08E-02,2010
+0.985,"['Eraldo Bernocchi', 'Harold Budd', 'Robin Guthrie']",0.082,2.94E+05,4.894,1.04E-01,0,6RtdBwIiYavQENjkE6JCba,7.94E-01,11,0.091,-21.088,1,Don't Go Where I Can't Find You,57,11/21/2011,0.038,74.773,3.54E-02,2011
+0.99,['Mélanie Laurent'],0.377,1.60E+05,2.668,2.39E-02,0,6YS1MXqso0zlmcL4OV1kXk,8.82E-01,0,0.1,-30.245,1,Début,57,5/2/2011,0.04,119.263,6.29E-02,2011
+0.991,"['Eddie Vedder', 'Cat Power']",0.703,1.02E+05,1.692,1.57E-01,0,7tFDcSoYHk54Fc5oqM2Zii,4.52E-03,7,0.091,-11.1,1,Tonight You Belong To Me,48,1/1/2011,0.044,92.608,5.67E-01,2011
+0.988,['C418'],0.304,1.24E+05,2.067,6.92E-03,0,2FD2StPTst6uMJF7cHBbP0,9.50E-01,2,0.141,-26.324,0,Excuse,53,3/4/2011,0.038,171.464,3.53E-02,2011
+0.987,"['Franz Liszt', 'Lang Lang']",0.279,2.93E+05,4.886,2.92E-02,0,2u9VGZmVz7Rm01SfDgzcfA,9.02E-01,8,0.104,-26.804,1,"Liebestraum No. 3 in A-Flat Major, S. 541 / 3",57,8/22/2011,0.041,136.732,3.38E-02,2011
+0.976,"['George Gershwin', 'Benjamin Grosvenor', 'Royal Liverpool Philharmonic Orchestra', 'James Judd']",0.309,8.900e+05            1,4.833,2.58E-01,0,0g7AZiNDzDuEYOwV27qoXb,6.90E-01,9,0.092,-15.327,1,Rhapsody In Blue,50,1/1/2012,0.046,74.568,1.15E-01,2012
+0.957,['Amber Run'],0.384,2.60E+05,4.325,8.85E-02,0,3i7Iyc932rv1AZz7gl7dj8,0.00E+00,7,0.126,-11.166,0,I Found - Acoustic,60,9/21/2014,0.048,171.146,2.84E-01,2014
+0.987,['Nursery Rhymes 123'],0.638,8.45E+04,1.408,7.89E-02,0,0thYKKLw11YVYkSlQAvN4K,2.00E-05,5,0.084,-18.18,1,Rock a Bye Baby,64,1/26/2016,0.031,89.988,2.95E-01,2016
+0.976,['Kanye West'],0.655,3.83E+04,0.639,1.79E-01,1,20r94xA0bsYNLtYSiOE6r3,0.00E+00,11,0.105,-6.903,1,Frank's Track,61,6/10/2016,0.072,140.687,7.58E-01,2016
+0.995,['Johannes Bornlöf'],0.537,1.35E+05,2.249,4.35E-02,0,16oJbTzbcxatoOxZdteo3w,9.53E-01,1,0.105,-21.483,0,Streams,64,6/17/2016,0.046,109.308,2.25E-01,2016
+0.956,['Deep Sleep Music Collective'],0.132,1.21E+05,2.018,1.57E-03,0,2nvvKQCQdiTlgTwRQCqnkx,9.64E-01,4,0.098,-37.75,1,Sleeping Music (Calm Sleep),64,11/7/2016,0.053,71.505,3.76E-02,2016
+0.993,['Józef Gatysik'],0.353,1.62E+05,2.707,1.70E-02,0,1LQsAMbRfl2644biYjwHhz,8.92E-01,5,0.108,-27.471,1,Sway,64,12/17/2016,0.052,101.389,2.40E-01,2016
+0.993,['Samuel Lindon'],0.41,1.17E+05,1.957,1.99E-02,0,0CQskMydQ8AhtKhJUAolvE,9.49E-01,0,0.09,-26.699,1,Tallis One,64,12/12/2016,0.045,107.378,1.78E-01,2016
+0.973,['XXXTENTACION'],0.461,8.68E+04,1.447,2.79E-02,1,2vQwlW8H1jFveGNXwZfJCV,2.26E-03,0,0.169,-21.992,1,Dead Inside (Interlude),65,8/25/2017,0.041,88.388,3.54E-01,2017
+0.989,['SYML'],0.539,2.75E+05,4.575,5.11E-02,0,59lUvVUixyLmC3u9kSIU1Y,9.28E-01,3,0.127,-16.503,1,Where's My Love - Piano Solo,68,7/7/2017,0.059,179.994,1.35E-01,2017
+0.994,['Aaron Lansing'],0.429,1.12E+05,1.863,1.07E-02,0,5jxBweBbPFg53Ozudm6HrC,9.67E-01,9,0.136,-33.377,0,Faded Dreams,67,2/7/2017,0.074,116.059,1.42E-01,2017
+0.968,"['beabadoobee', 'Oscar Lang']",0.405,1.41E+05,2.351,8.54E-02,0,3s9eWdn8IymCPvVLcKpjww,1.21E-02,0,0.139,-15.488,1,The Moon Song,65,11/6/2017,0.034,93.768,1.48E-01,2017
+0.993,['Lila Om'],0,1.57E+05,2.608,5.12E-01,0,0qERplEKH6hfxLk0GxpYE0,4.57E-01,10,0.182,-50.174,1,Dulled White Noise,65,5/7/2017,0,0,0.00E+00,2017
+0.984,['Dream Shard'],0.144,1.03E+05,1.709,8.88E-01,0,2ynHMuxTmMJ8DXfV49xsWA,6.99E-01,10,0.106,-30.462,0,Baby Dreams PT 2,69,11/15/2018,0.058,139.074,9.87E-03,2018
+0.96,['Fizzonaut'],0,1.33E+05,2.215,2.61E-04,0,6UrBiRJabWOu90XTluKZER,2.03E-01,1,0.111,-23.444,1,Tepid Rainscape,68,11/29/2019,0,0,0.00E+00,2019
+0.992,['Václav Slezák'],0.124,2.38E+05,3.958,3.99E-02,0,5NDJhWYEfJbARTnlyXISpP,8.94E-01,6,0.18,-29.689,0,Trpělivost růže přináší,69,9/13/2019,0.072,73.366,9.28E-02,2019
+0.985,['William Edessa'],0.245,2.05E+05,3.417,1.11E-01,0,3u9BK8XIFDSrzIePbJYvvp,9.30E-01,11,0.107,-21.718,1,Trayi,68,5/11/2019,0.042,83.264,5.45E-02,2019
+0.991,['Wes Montgomery'],0.53,2.82E+05,4.703,1.14E-01,0,2M3laSC4qeLl9tWxDEzF4T,9.02E-01,7,0.137,-18.069,1,Polka Dots And Moonbeams,42,1/1/2000,0.048,92.249,3.69E-01,2000
+0.988,"['Wolfgang Amadeus Mozart', 'Greta de Reyghere', 'Marijke van Arnhem', 'Renaat Deckers', 'Jan van der Crabben', 'Capella Brugensis', 'Collegium Instrumentale Brugense', 'Patrick Peire']",0.109,2.56E+05,4.27,4.14E-02,0,1P4P6FJh734Fh2jF6GZ13A,1.14E-01,5,0.106,-25.91,1,"Vesperae solennes de confessore, K. 339: V. Laudate Dominum",49,2/7/2000,0.048,82.111,3.67E-02,2000
+0.96,"['Wolfgang Amadeus Mozart', 'Natalie Dessay', 'Orchestra of the Age of Enlightenment', 'Louis Langrée']",0.229,3.82E+05,6.358,1.09E-01,0,3w14gk0C0Vn5elVzbDjrMI,1.79E-02,7,0.181,-22.478,1,"Mozart: Zaide, K. 344/336b, Act 1 Scene 3: No. 3, Arie, ""Ruhe sanft, mein holdes Leben"" (Zaide)",49,11/1/2000,0.059,166.41,3.97E-02,2000
+0.955,"['Ludwig van Beethoven', 'Philadelphia Orchestra', 'Riccardo Muti']",0.247,7.583e+05            1,2.638,3.83E-02,0,5UbN3fe9OB1p5KwjgUAHD4,7.14E-01,5,0.108,-22.76,1,"Beethoven: Symphony No. 6 in F Major, Op. 68 ""Pastoral"": I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande. Allegro ma non troppo",49,6/23/2000,0.036,108.252,1.36E-01,2000
+0.972,"['London Metropolitan Orchestra', 'Michael Kamen']",0.084,1.45E+05,2.415,1.76E-01,0,1LcNtS9B22LgIHxd9gTGcV,9.70E-01,5,0.102,-17.619,1,Main Titles from the HBO Miniseries Band of Brothers - Instrumental,51,7/19/2001,0.038,84.325,3.92E-02,2001
+0.955,['Bud Powell'],0.552,2.45E+05,4.074,1.71E-01,0,7pKWTcPfT9mg2iAhobFHpS,8.77E-01,2,0.122,-13.66,0,Polka Dots And Moonbeams - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster,46,1/1/2001,0.054,102.408,1.52E-01,2001
+0.99,['Bill Lee'],0.65,2.87E+05,4.785,1.59E-01,0,0BXmWSeBL9zIazKcbvr2pb,1.87E-01,0,0.105,-17.371,0,Cruella De Vil - Soundtrack Version,44,1/1/2001,0.051,104.828,2.94E-01,2001
+0.957,['Thomas Newman'],0.199,1.51E+05,2.524,5.14E-02,0,06NpidxT6Rx4Uz2LCEuk8X,9.46E-01,5,0.123,-25.327,1,Wow,45,5/20/2003,0.036,88.381,5.22E-02,2003
+0.958,['Chieko Baisho'],0.252,4.11E+05,6.841,1.44E-01,0,5AVUsyKKPhYJItIVeEqw2E,1.56E-03,0,0.144,-15.292,1,Ending Song - The Promise of the World - Merry-Go-Round of Life,52,11/19/2004,0.031,87.939,1.13E-01,2004
+0.964,['Feist'],0.852,1.36E+05,2.274,5.62E-02,0,3RYbXTVdT6XtRkr36XZWrc,0.00E+00,9,0.123,-16.293,0,Gatekeeper,42,1/1/2004,0.049,109.808,3.29E-01,2004
+0.979,['Helen Forrest'],0.302,1.30E+05,2.173,7.48E-02,0,6sbZNeGOLDz7WqLk0Nd51J,1.37E-03,7,0.334,-22.072,0,Mad About The Boy,46,2004,0.037,78.99,2.28E-01,2004
+0.975,['Jean-Yves Thibaudet'],0.233,9.90E+04,1.65,2.08E-01,0,4Jt9qfVN8wkIEthRUGey1y,9.44E-01,0,0.087,-19.908,1,"Arrival To Netherfield - From ""Pride & Prejudice"" Soundtrack",45,1/1/2005,0.036,89.423,2.46E-01,2005
+0.966,"['Wolfgang Amadeus Mozart', 'Hilary Hahn', 'Natalie Zhu']",0.349,3.38E+05,5.626,1.19E-01,0,5PuX2GQai2jADwE4begkfJ,9.59E-02,4,0.109,-21.166,1,"Sonata For Piano And Violin In E Minor, K.304: 2. Tempo di minuetto",45,1/1/2005,0.04,113.048,2.60E-01,2005
+0.989,['Yves Montand'],0.537,2.05E+05,3.42,8.45E-02,0,3ZAJAL00SgMUH95CG80OXR,1.38E-02,0,0.169,-18.06,1,Rue Saint-Vincent (Rose blanche),44,1/1/2005,0.074,108.935,3.79E-01,2005
+0.983,['Danny Elfman'],0.41,7.80E+04,1.3,2.62E-02,0,1fvRueeK5f60hkG1VzoXXq,9.25E-01,1,0.123,-26.593,0,Victor's Piano Solo,52,9/20/2005,0.038,142.138,2.37E-01,2005
+0.986,"['Howard Blake', 'Steven Isserlis', 'Stephen Hough']",0.1,9.97E+04,1.662,1.16E-02,0,1UeEULIBhrFzy8WhI3FrMF,9.38E-01,2,0.098,-35.154,0,Archangel's Lullaby,49,4/1/2006,0.044,88.778,6.54E-02,2006
+0.988,['Vivek Maddala'],0.417,3.64E+04,0.607,6.67E-02,0,25SsTCBLmMohiKlJE8jnyG,7.86E-01,2,0.128,-25.841,0,Against The World,44,11/1/2006,0.041,133.094,5.36E-02,2006
+0.994,['Ludovico Einaudi'],0.16,2.81E+05,4.682,1.78E-01,0,0UdTjf1Bhw6zJOG86GrbiJ,8.48E-01,1,0.068,-18.749,0,Fly,58,4/20/2007,0.036,75.973,3.48E-02,2007
+0.97,['Ludovico Einaudi'],0.245,4.46E+05,7.429,1.93E-01,0,0fzw4BBD5FRJtPuQbUUKzJ,8.73E-01,0,0.187,-13.328,0,Primavera,54,4/20/2007,0.033,140.666,1.24E-01,2007
+0.989,['Deuter'],0.19,4.97E+05,8.28,7.78E-02,0,45JNWTRpOoMmpPINe17Rp1,9.05E-01,4,0.093,-21.555,0,Escape from Gravity,53,2/13/2007,0.042,81.169,5.33E-02,2007
+0.964,['Chris Rice'],0.319,2.80E+05,4.661,1.73E-01,0,3VBqIpJOTtauueKPLl20wn,8.89E-06,0,0.113,-13.353,1,It Is Well With My Soul,44,10/2/2007,0.035,126.133,2.03E-01,2007
+0.995,['Gabriela Montero'],0.319,3.10E+05,5.16,2.78E-02,0,6FqBethNJYBG8pDK3HeRNA,8.96E-01,3,0.095,-26.752,1,"Montero: Winter (Improvisation after the second movement of Vivaldi's Violin Concerto, Op. 8 No. 4, RV 297)",50,2/18/2008,0.038,67.295,3.84E-02,2008
+0.984,['Agnes Obel'],0.648,2.31E+05,3.842,1.89E-01,0,7kaub3iYrvVz5gaPVemsWE,3.75E-04,9,0.132,-13.553,0,Riverside,48,2010,0.031,98.891,2.31E-01,2010
+0.983,"['Aqualung', 'Lucy Schwartz']",0.264,2.20E+05,3.671,1.29E-01,0,7qxxr5CLf8rnIibe4eStzR,1.38E-02,2,0.155,-14.404,0,Cold,47,11/4/2011,0.034,105.314,8.01E-02,2011
+0.968,['Bon Iver'],0.563,2.32E+05,3.874,3.46E-01,0,4cawaZVzboa3UYqgR4kalj,2.33E-01,0,0.115,-15.504,0,"Minnesota, WI",50,6/21/2011,0.043,119.936,5.02E-01,2011
+0.985,['Nils Frahm'],0.312,1.91E+05,3.184,4.65E-02,0,3OjWbbavamAsikThpDy2oP,8.57E-01,8,0.118,-24.748,0,La,57,12/3/2012,0.068,40.645,1.16E-01,2012
+0.994,"['Claude Debussy', 'Jean-Yves Thibaudet']",0.296,2.57E+05,4.283,8.96E-03,0,43bSKCMWHIuBsUVmQcDX1J,9.10E-01,7,0.082,-31.948,0,"Rêverie, L. 68: Rêverie",56,1/1/2012,0.039,69.44,6.73E-02,2012
+0.983,"['Sergei Rachmaninoff', 'Valentina Lisitsa', 'London Symphony Orchestra', 'Michael Francis']",0.194,6.443e+05            1,0.738,5.45E-02,0,4rrrn8OLrttq7r9RgNXalU,9.45E-01,4,0.055,-24.877,1,"Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",57,1/1/2012,0.037,140.966,3.85E-02,2012
+0.965,['Nature Sounds'],0.415,1.21E+05,2.008,6.99E-03,0,6GfjhpnE21nxI80R0oldWJ,9.60E-01,9,0.457,-27.686,0,Crickets and Frogs in the Swamp at Night,49,4/10/2012,0.049,70.193,3.64E-02,2012
+0.975,"['Christophe Beck', 'Frode Fjellheim', 'Cantus']",0.334,9.60E+04,1.6,1.45E-01,0,0O1Oean88yC9KncJnyOdB0,2.81E-01,9,0.085,-14.682,0,"Vuelie - From ""Frozen""/Score",54,1/1/2013,0.034,87.617,1.95E-01,2013
+0.952,['Lotte Kestner'],0.576,2.70E+05,4.499,1.21E-01,0,5mVDhLnXTHlBWJnMHXa9Qs,1.11E-03,9,0.1,-17.343,1,Halo,62,2/26/2013,0.036,116.826,6.30E-02,2013
+0.965,['Paramore'],0.469,5.26E+04,0.877,3.09E-01,0,2GBjsCkCpR5w8Zri9aE49H,0.00E+00,7,0.115,-13.694,1,Interlude: I'm Not Angry Anymore,55,4/5/2013,0.091,112.412,2.35E-01,2013
+0.97,"['Steven Halpern', 'Jorge Alfano']",0.098,4.46E+05,7.429,2.72E-02,0,2MABF1tqhRc2OpEkcDN64m,8.87E-01,2,0.124,-21.134,1,Deep Theta 2.0 (Pt 13),57,8/13/2013,0.04,67.071,7.07E-02,2013
+0.989,"['Johannes Brahms', 'Yo-Yo Ma']",0.205,1.10E+05,1.83,8.32E-03,0,59cPOVxrn3Yjwydl1pullI,5.98E-01,3,0.104,-33.503,1,"Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano)",62,9/18/2015,0.051,77.781,2.15E-01,2015
+0.958,['Jasmine Thompson'],0.398,2.32E+05,3.872,1.74E-01,0,2pV8RpdLemcyMWko8dASVt,4.16E-06,0,0.158,-11.16,1,Like I'm Gonna Lose You,68,10/9/2015,0.036,172.152,1.53E-01,2015
+0.992,['Baby Lullaby Academy'],0.493,9.37E+04,1.561,1.56E-01,0,7ueCTKb8n7UOdEoM34zzYy,9.93E-01,3,0.113,-22.462,1,Brahms Lullaby and White Noise Ocean Waves,63,5/14/2015,0.032,50.01,3.47E-01,2015
+0.962,['Jeremih'],0.442,2.17E+05,3.62,1.80E-01,1,1wNEBPo3nsbGCZRryI832I,8.52E-06,10,0.112,-8.05,1,Paradise,56,12/4/2015,0.048,215.669,2.33E-01,2015
+0.988,['Johannes Bornlöf'],0.533,1.53E+05,2.546,8.42E-02,0,4JX3QGip45EV6Ne0uvV9NK,9.10E-01,8,0.111,-17.49,1,Reminiscence,65,6/17/2016,0.049,61.773,1.97E-01,2016
+0.961,['Deep Sleep Music Collective'],0.128,1.22E+05,2.04,7.93E-04,0,2IOK9ETnjo05WJYbuEg8uI,9.33E-01,1,0.108,-37.801,1,Moonbeam,64,11/7/2016,0.051,77.394,3.50E-02,2016
+0.989,['David Fischbein'],0.257,1.93E+05,3.212,3.17E-02,0,2fIVdzd4JW4HnwzqrvCysf,9.44E-01,8,0.16,-23.03,1,Let Her Go,64,10/7/2016,0.042,205.506,2.68E-01,2016
+0.966,['Deep Sleep Music Collective'],0.108,1.22E+05,2.037,7.11E-04,0,7qJikccNesdXmTeaXoJfhb,8.82E-01,0,0.108,-38.643,1,Sleep Music (Gentleness),63,11/7/2016,0.049,81.684,3.81E-02,2016
+0.985,['Frank Ocean'],0.657,8.69E+04,1.449,4.31E-01,0,1IdZvb2XK8NmsovQlV6CPn,0.00E+00,7,0.149,-11.147,1,Be Yourself,61,8/20/2016,0.541,83.509,9.35E-01,2016
+0.957,"['Nathan Sykes', 'Ariana Grande']",0.463,2.47E+05,4.115,2.45E-01,0,26h6qDR3KtieqIWgnveqmC,0.00E+00,8,0.089,-9.438,1,Over And Over Again,56,11/4/2016,0.039,129.415,3.95E-01,2016
+0.977,['Beth McLaughlin'],0.656,1.52E+05,2.533,1.75E-01,0,0tPLCqTT1rEHbv9Ruxtnwh,8.99E-01,0,0.091,-28.548,1,Brahms Lullaby,70,5/11/2017,0.217,78.843,4.52E-01,2017
+0.996,['Réka Ioescu'],0.391,1.52E+05,2.537,2.41E-03,0,3Se2ifaSm69Np4OtyaNNKa,9.49E-01,7,0.134,-30.569,1,Endymion,68,9/29/2018,0.079,67.191,3.88E-01,2018
+0.957,['Granular'],0,1.46E+05,2.434,1.48E-01,0,4rkUd5Juj2icJoNTLq0jmP,1.68E-01,5,0.112,-22.012,1,Brown Noise 750 LPF,69,1/11/2019,0,0,0.00E+00,2019
+0.974,['Elevie J'],0.155,1.12E+05,1.859,5.15E-02,0,0MAXHRBvH3yjPrmaIk0ela,9.52E-01,10,0.106,-26.058,1,Wading in dreams,68,9/18/2019,0.043,71.405,3.71E-02,2019
+0.973,['Ellie Goulding'],0.415,2.07E+05,3.456,2.62E-01,0,1GofdWoWnV6F7sozQfoE79,2.58E-06,9,0.106,-12.53,1,I Know You Care,2,6/12/2020,0.033,105.861,3.11E-01,2020
+0.973,['Ellie Goulding'],0.415,2.07E+05,3.456,2.62E-01,0,6lMqDaZjoqe6J1p8TdHuBZ,2.58E-06,9,0.106,-12.53,1,I Know You Care,4,6/5/2020,0.033,105.861,3.11E-01,2020
