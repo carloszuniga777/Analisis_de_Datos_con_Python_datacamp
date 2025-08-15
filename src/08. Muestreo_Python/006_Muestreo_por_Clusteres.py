@@ -33,6 +33,24 @@ jobrole_condition = attrition_pop['JobRole'].isin(job_roles_samp)
 attrition_filtered = attrition_pop[jobrole_condition].copy()             # Debido a un Warning que genera al eliminar las categorias vacias remove_unused_categories() se realiza una copia
 
 
+#print(attrition_filtered['JobRole'].value_counts())
+
+# Se puede observar, aunque este filtrado, panda sigue manteniendo las categorias originales definidas:
+# 
+# JobRole
+# Manager                      102
+# Sales_Representative          83
+# Research_Director             80
+# Human_Resources               52
+# Healthcare_Representative      0
+# Manufacturing_Director         0
+# Laboratory_Technician          0
+# Research_Scientist             0
+
+# Por tanto se eliminan las categorias que aparecen en 0 con el paso 4
+
+
+
 # Paso 4: Eliminar categorías de JobRole que ya no aparecen en el DataFrame filtrado
 attrition_filtered['JobRole'] = attrition_filtered['JobRole'].cat.remove_unused_categories()
 
@@ -50,7 +68,7 @@ attrition_clust = (
 #   - En futuras versiones (observed=True): Mostrará solo las categorías con datos presentes
 
 
-# # Paso 6: Mostrar por pantalla la muestra obtenida
+# Paso 6: Mostrar por pantalla la muestra obtenida
 print(attrition_clust['JobRole'].value_counts())
 
 
