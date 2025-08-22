@@ -1,0 +1,501 @@
+﻿state,county,dem_percent_12,dem_percent_16
+Alabama,Bullock,76.306,74.947
+Alabama,Chilton,19.454,15.847
+Alabama,Clay,26.674,18.675
+Alabama,Cullman,14.662,10.028
+Alabama,Escambia,36.916,31.021
+Alabama,Fayette,22.867,16.511
+Alabama,Franklin,29.202,18.248
+Alabama,Hale,62.606,59.391
+Alabama,Lamar,22.97,14.872
+Alabama,Lauderdale,33.883,25.179
+Alabama,Monroe,45.891,42.177
+Alabama,Pike,42.78,38.396
+Alabama,Shelby,21.675,22.692
+Alabama,Walker,22.99,15.259
+Arizona,Graham,30.443,16.256
+Arkansas,Baxter,26.744,21.092
+Arkansas,Benton,28.56,28.924
+Arkansas,Bradley,39.677,36.053
+Arkansas,Craighead,33.208,29.624
+Arkansas,Dallas,43.353,42.043
+Arkansas,Desha,55.271,52.337
+Arkansas,Faulkner,32.853,30.78
+Arkansas,Howard,32.967,28.905
+Arkansas,Logan,27.404,21.651
+Arkansas,Marion,28.89,20.177
+Arkansas,Newton,27.124,18.625
+California,Alameda,78.853,78.69
+California,Calaveras,39.796,34.336
+California,Humboldt,59.956,56.038
+California,Mariposa,38.867,35.17
+California,Merced,53.185,52.716
+California,Modoc,27.873,23.152
+California,Mono,52.75,52.559
+California,Napa,62.965,63.871
+California,Placer,39.001,40.204
+California,Riverside,49.714,49.734
+California,Santa Barbara,57.635,60.605
+California,Santa Clara,70.102,72.712
+California,Stanislaus,50.025,47.429
+California,Tulare,41.298,42.36
+Colorado,Alamosa,56.754,45.958
+Colorado,Arapahoe,53.904,52.759
+Colorado,Cheyenne,15.737,11.978
+Colorado,Elbert,25.413,19.614
+Colorado,Las Animas,50.204,39.011
+Colorado,Moffat,21.563,13.395
+Colorado,Morgan,36.3,26.346
+Colorado,Park,41.234,32.841
+Colorado,Phillips,25.96,18.696
+Colorado,Rio Blanco,16.86,12.638
+Connecticut,Hartford,62.37,59.087
+Connecticut,New Haven,60.653,54.25
+Florida,Broward,67.2,66.509
+Florida,Calhoun,27.048,20.408
+Florida,Desoto,42.311,34.951
+Florida,Flagler,45.868,38.304
+Florida,Franklin,33.705,28.994
+Florida,Hardee,34.085,28.34
+Florida,Highlands,38.045,32.695
+Florida,Lake,40.978,36.863
+Florida,Madison,47.917,41.458
+Florida,Orange,58.681,60.39
+Florida,St. Johns,30.655,31.571
+Florida,Walton,23.412,20.442
+Georgia,Bacon,20.122,15.124
+Georgia,Clinch,34.466,27.943
+Georgia,Columbia,27.919,29.172
+Georgia,Coweta,27.303,26.857
+Georgia,Dawson,12.114,12.308
+Georgia,Dougherty,69.345,68.387
+Georgia,Fannin,20.246,16.28
+Georgia,Franklin,19.312,14.62
+Georgia,Houston,39.104,37.539
+Georgia,Jenkins,43.894,36.747
+Georgia,Lumpkin,18.845,17.867
+Georgia,McDuffie,42.16,39.912
+Georgia,Mitchell,49.317,44.327
+Georgia,Paulding,27.57,27.778
+Georgia,Pierce,16.418,12.351
+Georgia,Talbot,64.881,61.676
+Georgia,Telfair,41.628,34.589
+Georgia,Toombs,29.388,25.585
+Georgia,Twiggs,54.022,48.559
+Georgia,Ware,32.666,28.234
+Georgia,Webster,49.031,42.384
+Georgia,Wheeler,35.741,30.733
+Hawaii,Honolulu,68.864,61.477
+Hawaii,Maui,74.1,64.453
+Idaho,Bingham,21.712,17.588
+Idaho,Bonneville,22.917,20.194
+Idaho,Camas,27.509,18.644
+Idaho,Canyon,30.059,23.196
+Idaho,Custer,22.534,17.688
+Idaho,Franklin,5.804,7.001
+Idaho,Fremont,13.961,11.391
+Idaho,Gooding,25.147,17.916
+Idaho,Lemhi,23.358,17.896
+Illinois,DeKalb,51.609,46.94
+Illinois,Franklin,40.493,25.263
+Illinois,Grundy,44.488,34.708
+Illinois,Kankakee,47.452,40.104
+Illinois,McHenry,44.677,42.895
+Illinois,Marshall,41.966,29.896
+Illinois,Menard,34.141,27.889
+Illinois,Moultrie,35.397,23.572
+Illinois,Ogle,40.716,33.274
+Illinois,Randolph,40.015,24.229
+Illinois,Rock Island,60.227,50.47
+Illinois,Wayne,19.714,12.686
+Illinois,Whiteside,57.819,43.136
+Illinois,Woodford,29.522,25.634
+Indiana,Clark,44.133,36.772
+Indiana,Hamilton,32,37.122
+Indiana,Huntington,29.153,21.854
+Indiana,LaGrange,31.108,21.744
+Indiana,Newton,39.123,24.228
+Indiana,Ohio,35.261,23.485
+Indiana,Putnam,32.591,22.807
+Indiana,Randolph,36.991,23.389
+Indiana,Shelby,31.975,23.602
+Indiana,Starke,43.512,26.978
+Indiana,Vermillion,45.267,29.99
+Iowa,Adair,44.795,29.73
+Iowa,Appanoose,47.254,29.563
+Iowa,Benton,48.934,33.791
+Iowa,Butler,44.122,28.71
+Iowa,Chickasaw,54.812,35.214
+Iowa,Clinton,60.564,43.764
+Iowa,Crawford,45.409,28.709
+Iowa,Guthrie,43.631,30.122
+Iowa,Harrison,42.83,28.547
+Iowa,Howard,59.591,36.784
+Iowa,Iowa,46.74,34.636
+Iowa,Jackson,57.674,37.216
+Iowa,Lee,56.655,38.481
+Iowa,Muscatine,57,43.059
+Iowa,Page,36.912,25.653
+Iowa,Pocahontas,37.773,24.916
+Iowa,Story,55.55,50.741
+Kansas,Anderson,28.477,20.06
+Kansas,Atchison,38.463,30.251
+Kansas,Brown,26.947,21.383
+Kansas,Clay,22.626,17.723
+Kansas,Decatur,17.363,12.259
+Kansas,Edwards,21.516,16.073
+Kansas,Ellis,26.097,22.951
+Kansas,Ford,31.093,27.844
+Kansas,Franklin,33.612,26.375
+Kansas,Hamilton,18.586,13.813
+Kansas,Lincoln,19.488,14.686
+Kansas,Miami,31.718,26.568
+Kansas,Neosho,31.636,23.773
+Kansas,Phillips,14.893,11.261
+Kansas,Rawlins,13.158,11.073
+Kansas,Reno,33.105,28.24
+Kansas,Stanton,18.841,18.053
+Kansas,Wyandotte,67.606,61.799
+Kentucky,Anderson,32.122,23.061
+Kentucky,Barren,32.593,23.123
+Kentucky,Bell,23.455,17.699
+Kentucky,Boyle,36.135,33.068
+Kentucky,Bracken,35.489,19.989
+Kentucky,Caldwell,31.604,21.088
+Kentucky,Cumberland,20.988,14.971
+Kentucky,Fayette,49.322,51.189
+Kentucky,Fleming,33.051,21.534
+Kentucky,Greenup,39.735,25.472
+Kentucky,Knott,24.943,21.603
+Kentucky,Madison,34.548,31.557
+Kentucky,Mercer,29.842,22.626
+Kentucky,Muhlenberg,37.452,25.054
+Kentucky,Oldham,30.92,31.254
+Kentucky,Powell,36.153,25.661
+Kentucky,Rowan,44.853,37.24
+Kentucky,Shelby,35.546,30.496
+Kentucky,Todd,29.737,21.804
+Kentucky,Trimble,38.244,23.144
+Louisiana,Bossier,26.679,25.359
+Louisiana,Caldwell,21.544,16.795
+Louisiana,East Baton Rouge,51.802,52.332
+Louisiana,Franklin,31.287,27.352
+Louisiana,Sabine,21.824,17.401
+Louisiana,St. Martin,37.046,32.101
+Maine,Kennebec,55.228,44.257
+Maine,Knox,59.922,53.756
+Maine,Lincoln,54.512,47.626
+Maine,Sagadahoc,56.848,49.334
+Maryland,Garrett,23.744,18.321
+Maryland,Montgomery,70.922,74.725
+Maryland,Worcester,40.168,34.496
+Massachusetts,Barnstable,53.204,54.108
+Massachusetts,Bristol,59.195,52.033
+Massachusetts,Essex,57.404,58.523
+Massachusetts,Franklin,71.699,64.117
+Michigan,Arenac,46.793,30.977
+Michigan,Calhoun,50.177,41.012
+Michigan,Kalamazoo,56.058,53.166
+Michigan,Macomb,51.478,42.049
+Michigan,Mecosta,44.433,33.941
+Michigan,Midland,41.792,36.783
+Michigan,Missaukee,32.361,21.389
+Michigan,Newaygo,40.637,27.438
+Michigan,Ottawa,32.3,31.508
+Michigan,St. Joseph,43.323,31.679
+Michigan,Schoolcraft,46.072,32.956
+Michigan,Van Buren,49.609,39.845
+Michigan,Washtenaw,67.314,68.133
+Minnesota,Dakota,50.366,47.737
+Minnesota,Douglas,41.297,28.584
+Minnesota,Kanabec,44.086,28.458
+Minnesota,Lake,59.282,47.186
+Minnesota,Lyon,44.115,31.314
+Minnesota,Nobles,44.519,31.661
+Minnesota,Norman,53.944,38.761
+Minnesota,Pennington,46.402,31.973
+Minnesota,Pipestone,37.129,23.44
+Minnesota,Pope,47.727,33.328
+Minnesota,Ramsey,66.328,65.071
+Minnesota,Renville,44.021,27.833
+Minnesota,Roseau,37.704,23.783
+Minnesota,Sherburne,37.836,27.531
+Minnesota,Waseca,44.834,29.4
+Mississippi,Bolivar,68.59,65.437
+Mississippi,Calhoun,36.587,29.862
+Mississippi,Claiborne,88.22,86.798
+Mississippi,Copiah,54.868,51.926
+Mississippi,Covington,41.485,37.181
+Mississippi,Grenada,46.652,42.081
+Mississippi,Jefferson Davis,62.165,59.644
+Mississippi,Leflore,71.393,69.901
+Mississippi,Lowndes,49.297,46.213
+Mississippi,Pearl River,19.645,16.469
+Mississippi,Tate,39.763,33.766
+Mississippi,Tunica,79.302,74.769
+Mississippi,Yalobusha,47.686,42.488
+Missouri,Adair,41.665,34.226
+Missouri,Barton,21.406,13.386
+Missouri,Chariton,35.043,22.373
+Missouri,Clark,43.349,22.519
+Missouri,Henry,35.622,23.89
+Missouri,Holt,23.853,14.735
+Missouri,Howell,26.887,16.505
+Missouri,Lafayette,35.802,25.529
+Missouri,Lincoln,34.143,22.334
+Missouri,Madison,32.211,18.887
+Missouri,Miller,24.058,15.329
+Missouri,Platte,42.095,41.029
+Missouri,Putnam,25.422,15.047
+Missouri,St. Clair,31.561,20.216
+Missouri,St. Louis County,56.196,55.686
+Missouri,Saline,41.612,30.073
+Missouri,Shelby,29.889,18.618
+Missouri,Webster,28.576,18.975
+Missouri,St. Louis City,82.712,79.453
+Montana,Fergus,27.014,20.582
+Montana,Flathead,31.953,28.544
+Montana,Glacier,65.678,61.498
+Montana,McCone,22.457,14.528
+Montana,Meagher,27.675,19.754
+Montana,Missoula,57.393,53.279
+Montana,Powell,31.988,19.721
+Montana,Rosebud,40.363,28.584
+Montana,Wheatland,27.419,18.922
+Nebraska,Antelope,17.667,11.673
+Nebraska,Banner,13.382,4.726
+Nebraska,Blaine,9.571,9.464
+Nebraska,Buffalo,27.579,22.542
+Nebraska,Burt,38.252,26.138
+Nebraska,Cass,35.854,26.939
+Nebraska,Frontier,20.766,12.123
+Nebraska,Hamilton,23.527,17.546
+Nebraska,Hooker,14.937,9.592
+Nebraska,Keya Paha,16.529,8.351
+Nebraska,Nance,29.673,17.335
+Nebraska,Perkins,17.073,11.065
+Nebraska,Sherman,36.078,21.615
+Nebraska,Sioux,13.667,11.005
+Nebraska,Thomas,10.294,7.634
+Nebraska,Valley,22.688,15.374
+Nebraska,Wayne,29.169,22.113
+Nevada,Esmeralda,21.149,15.366
+Nevada,Eureka,13.243,8.665
+Nevada,Nye,36.069,25.996
+New Hampshire,Grafton,60.863,55.693
+New Jersey,Cape May,45.184,38.484
+New Jersey,Morris,44.041,46.023
+New Jersey,Passaic,63.7,59.937
+New Jersey,Sussex,38.426,32.663
+New Mexico,Chaves,32.545,27.3
+New Mexico,De Baca,31.818,21.209
+New Mexico,Sierra,38.495,31.114
+New York,Cattaraugus,40.447,30.477
+New York,Chautauqua,42.502,35.201
+New York,Clinton,58.951,46.905
+New York,Erie,54.884,50.86
+New York,Essex,56.039,45.081
+New York,Franklin,59.822,43.045
+New York,Monroe,55.695,54.226
+New York,New York,81.405,86.557
+New York,Oneida,45.018,37.077
+New York,Otsego,47.765,40.716
+New York,Richmond,49.009,40.972
+New York,St. Lawrence,55.089,42.106
+New York,Saratoga,48.335,44.624
+New York,Warren,48.266,41.68
+North Carolina,Ashe,32.641,26.073
+North Carolina,Bertie,66.137,61.817
+North Carolina,Catawba,34.581,29.324
+North Carolina,Currituck,31.511,22.993
+North Carolina,Dare,41.132,36.83
+North Carolina,Edgecombe,67.885,65.193
+North Carolina,Iredell,34.147,29.956
+North Carolina,Jackson,48.47,41.217
+North Carolina,Lincoln,29.977,24.728
+North Carolina,Moore,35.56,33.535
+North Carolina,Perquimans,41.476,34.571
+North Carolina,Randolph,24.332,20.432
+North Carolina,Rockingham,38.912,33.653
+North Carolina,Rowan,36.349,30.139
+North Carolina,Sampson,44.189,40.678
+North Carolina,Stokes,27.837,20.687
+North Carolina,Vance,63.887,61.215
+North Carolina,Wake,54.944,57.377
+North Carolina,Wilson,53.376,51.562
+North Carolina,Yancey,42.123,32.088
+North Dakota,Cavalier,39.536,23.729
+North Dakota,Foster,36.088,20.186
+North Dakota,Hettinger,22.981,12.963
+North Dakota,LaMoure,33.728,23.338
+North Dakota,McLean,33.819,20.339
+North Dakota,Nelson,45.709,31.217
+North Dakota,Pembina,38.495,21.598
+North Dakota,Richland,42.007,27.187
+Ohio,Athens,66.239,55.599
+Ohio,Carroll,41.796,24.124
+Ohio,Delaware,37.76,39.353
+Ohio,Erie,55.305,42.73
+Ohio,Greene,38.635,35.358
+Ohio,Harrison,41.311,23.845
+Ohio,Hocking,48.374,29.405
+Ohio,Knox,36.882,28.483
+Ohio,Licking,42.021,33.078
+Ohio,Marion,45.715,30.119
+Ohio,Ottawa,51.225,37.29
+Ohio,Paulding,38.76,23.135
+Ohio,Vinton,44.558,24.555
+Ohio,Washington,39.496,26.897
+Oklahoma,Alfalfa,15.458,9.566
+Oklahoma,Carter,28.665,21.593
+Oklahoma,Cherokee,42.947,33.087
+Oklahoma,Cleveland,37.035,35.476
+Oklahoma,Delaware,29.392,21.068
+Oklahoma,Johnston,30.032,19.562
+Oklahoma,Love,29.798,19.398
+Oklahoma,Noble,24.681,18.471
+Oklahoma,Pushmataha,25.254,16.685
+Oklahoma,Rogers,24.926,19.338
+Oklahoma,Stephens,23.381,17.236
+Oregon,Benton,61.997,59.879
+Oregon,Clackamas,50.437,47.699
+Oregon,Columbia,50.279,38.196
+Oregon,Curry,39.604,34.097
+Oregon,Josephine,37.161,30.191
+Oregon,Klamath,29.49,23.634
+Oregon,Malheur,27.712,21.524
+Oregon,Multnomah,75.369,73.305
+Oregon,Union,32.916,25.054
+Pennsylvania,Butler,31.919,29.446
+Pennsylvania,Cameron,34.297,24.291
+Pennsylvania,Fayette,45.296,33.377
+Pennsylvania,Lawrence,44.864,34.375
+Pennsylvania,Lebanon,35.171,30.646
+Pennsylvania,Schuylkill,42.521,26.675
+Pennsylvania,Tioga,31.504,21.288
+Pennsylvania,Washington,42.58,35.803
+Rhode Island,Newport,59.472,55.673
+South Carolina,Anderson,31.027,26.213
+South Carolina,Beaufort,40.722,40.928
+South Carolina,Darlington,51.267,46.802
+South Carolina,Dillon,57.714,49.872
+South Carolina,Lexington,30.321,28.855
+South Carolina,Marion,64.647,60.024
+South Dakota,Brookings,46.992,38.478
+South Dakota,Buffalo,73.635,60.408
+South Dakota,Custer,29.535,23.745
+South Dakota,Day,52.106,35.457
+South Dakota,Fall River,32.423,23.042
+South Dakota,Haakon,12.637,7.375
+South Dakota,Hughes,34.163,29.969
+South Dakota,Jackson,38.517,29.498
+South Dakota,McPherson,22.387,16.887
+South Dakota,Potter,24.547,16.081
+South Dakota,Sully,22.738,15.912
+South Dakota,Todd,79.135,70.824
+South Dakota,Turner,33.515,23.157
+South Dakota,Walworth,27.254,18.45
+Tennessee,Anderson,34.128,30.163
+Tennessee,Bedford,29.152,22.11
+Tennessee,Carroll,32.025,22.409
+Tennessee,Cheatham,30.688,24.353
+Tennessee,Fayette,34.168,30.288
+Tennessee,Grundy,38.777,20.974
+Tennessee,Hamilton,41.674,38.843
+Tennessee,Obion,27.007,19.806
+Tennessee,Scott,21.776,13.112
+Tennessee,Union,25.36,16.2
+Tennessee,Van Buren,38.043,22.282
+Tennessee,Washington,29.824,26.179
+Texas,Atascosa,40.351,34.016
+Texas,Blanco,24.532,21.882
+Texas,Briscoe,16.667,12.364
+Texas,Cameron,64.991,64.512
+Texas,Ector,24.968,28.056
+Texas,El Paso,65.513,69.083
+Texas,Erath,15.754,15.547
+Texas,Galveston,35.894,35.522
+Texas,Gonzales,29.338,24.803
+Texas,Hudspeth,43.917,37.199
+Texas,Jeff Davis,36.913,35.432
+Texas,Kaufman,27.32,24.907
+Texas,Kendall,17.112,18.106
+Texas,Lamb,24.395,19.299
+Texas,Lampasas,20.53,18.074
+Texas,La Salle,58.627,54.832
+Texas,Leon,15.292,12.219
+Texas,Lipscomb,10.188,10.135
+Texas,McLennan,34.47,34.224
+Texas,Madison,24.007,20.541
+Texas,Menard,20.141,17.824
+Texas,Mills,12.676,10.824
+Texas,Mitchell,23.23,16.12
+Texas,Navarro,28.313,24.353
+Texas,Palo Pinto,19.396,16.631
+Texas,Panola,21.613,17.617
+Texas,Parker,16.465,14.686
+Texas,Pecos,38.337,37.133
+Texas,Refugio,37.281,35.075
+Texas,Roberts,6.496,3.61
+Texas,San Saba,14.298,12.431
+Texas,Scurry,16.67,13.859
+Texas,Shelby,25.011,19.348
+Texas,Smith,26.954,26.307
+Texas,Sterling,6.275,11.058
+Texas,Sutton,24.782,22.105
+Texas,Titus,29.907,27.572
+Texas,Tom Green,25.31,23.839
+Texas,Trinity,25.886,19.282
+Texas,Wilson,28.021,24.65
+Utah,Grand,43.722,43.238
+Utah,Summit,46.157,50.884
+Vermont,Rutland,59.729,46.035
+Virginia,Amelia,36.009,30.227
+Virginia,Amherst,39.412,32.846
+Virginia,Essex,53.145,47.004
+Virginia,Greensville,63.642,58.629
+Virginia,Henry,41.329,34.008
+Virginia,Highland,32.484,26.671
+Virginia,James City,43.354,44.252
+Virginia,Mecklenburg,45.904,42.054
+Virginia,Middlesex,38.98,35.034
+Virginia,Stafford,44.867,42.327
+Virginia,Surry,59.796,53.737
+Virginia,Warren,38.639,28.781
+Virginia,Washington,27.606,21.484
+Virginia,Lexington,55.303,61.42
+Virginia,Lynchburg,43.755,41.468
+Washington,Douglas,34.574,31.641
+Washington,Ferry,37.616,30.492
+Washington,Mason,52.29,42.721
+Washington,San Juan,67.255,66.568
+West Virginia,Barbour,30.689,20.185
+West Virginia,Braxton,41.59,25.953
+West Virginia,Calhoun,37.064,17.425
+West Virginia,Harrison,37.22,27.518
+West Virginia,Nicholas,30.324,19.387
+West Virginia,Ohio,37.887,30.622
+West Virginia,Raleigh,26.844,21.754
+West Virginia,Tucker,28.043,21.612
+West Virginia,Wayne,35.335,22.112
+Wisconsin,Ashland,64.489,52.659
+Wisconsin,Barron,47.99,34.797
+Wisconsin,Calumet,43.486,36.195
+Wisconsin,Chippewa,49.26,37.66
+Wisconsin,Columbia,56.227,45.433
+Wisconsin,Florence,36.305,25.066
+Wisconsin,Jefferson,45.523,38.384
+Wisconsin,Juneau,52.778,34.717
+Wisconsin,Kewaunee,46.688,33.677
+Wisconsin,Lafayette,57.042,42.913
+Wisconsin,Lincoln,49.704,36.516
+Wisconsin,Ozaukee,34.325,36.99
+Wisconsin,Portage,56.118,48.111
+Wyoming,Albany,45.755,40.387
+Wyoming,Laramie,36.185,28.248
+Wyoming,Lincoln,14.934,12.451
+Wyoming,Uinta,19.065,14.191
+Wyoming,Washakie,20.132,13.949
+Alaska,District 3,33.515,16.301
+Alaska,District 18,61.284,52.81
+Alaska,District 24,42.914,39.405
